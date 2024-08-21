@@ -3,9 +3,9 @@
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
-Desarrollo de Aplicaciones Open Source - SW54 <br>
+Aplicaciones Web - SW52 <br>
 Ciclo: 5to <br>
-<strong>Profesor:</strong> Alberto Wilmer Sanchez Seña</p>
+<strong>Profesor:</strong> Juan Carlos Tinoco Licas</p>
 
 <h2 align="center">INFORME</h2>
 
@@ -16,13 +16,13 @@ Ciclo: 5to <br>
 
 <div align="center">
 
-| **Member**                           | **Code**     |
-|--------------------------------------|--------------|
-| Diego Alonso Cacho Seminario      | U202223990   |
-| Rodrigo Liberato Saldaña       | U202215623   |
-| Samuel Elias Molina Asencios     | U20191A456   |
-| Omar Harold Rivera Ticllacuri      | U202214214   |
-| Diego Ulises Soto Quispe     | U202214477   |
+| **Member**                    | **Code**     |
+|-------------------------------|--------------|
+| Loechle Arias Mateo Italo     | U202223990   |
+| Rodrigo Liberato Saldaña      | U202215623   |
+| Samuel Elias Molina Asencios  | U20191A456   |
+| Omar Harold Rivera Ticllacuri | U202214214   |
+| Diego Ulises Soto Quispe      | U202214477   |
 
 </div>
 
