@@ -1,4 +1,7 @@
 # **COURSE PROJECT**
+<p align="center">
+  <img src="Imagenes/UPC_logo.png" alt="Logo de la UPC" />
+</p>
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
@@ -28,6 +31,30 @@ Ciclo: 5to <br>
 
 <p align="center"><strong>Agosto 2024</strong></p>
 
+# Registro de Versiones del Informe
+
+| Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
+|---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 12/09/2024  | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
+| TP1     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
+| TB2     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
+| TF1     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe |                                                                                                                                                                                       |
+# Project Report Collaboration Insights
+
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de GitHub perteneciente a la organización del equipo: [Repositorio GitHub](#).
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+
+- Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `imagenes` en la rama `desarrollo` del repositorio del informe.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
+  # Student Outcome
+| Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
+|------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                          |              |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
+|                          
+  
 # Índice
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
