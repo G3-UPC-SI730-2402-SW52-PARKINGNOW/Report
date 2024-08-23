@@ -57,11 +57,12 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   
 ## Contenido
 
-### Tabla de contenidos
+**Tabla de contenidos**
 
 [Registro de versiones del informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
 [Student Outcome](#student-outcome)
+
 
 - [Capítulo I: Introducción](#chapter-1)
     - [1.1. Startup Profile](#startup-profile)
