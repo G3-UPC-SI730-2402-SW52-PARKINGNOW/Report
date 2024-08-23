@@ -192,6 +192,8 @@ En esta sección describiremos la descripción de nuestra Startup.
 |                                                              |                                                                                                                                                                                                                                                                |                                                 |
 |                                                              |                                                                                                                                                                                                                                                                |                                                 |
 |                                                              |                                                                                                                                                                                                                                                                |                                                 |
+  |                                                                                                                                                                                                                                                                |                                                 |
+
 
 
 ### 1.2. Solution Profile
