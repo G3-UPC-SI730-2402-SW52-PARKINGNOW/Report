@@ -85,7 +85,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
   - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1. StartUp Profile](#11-startup-profile)
       - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-      - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
       - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
       - [1.2.2. Lean UX Process](#122-lean-ux-process)
@@ -184,7 +184,15 @@ En esta sección describiremos la descripción de nuestra Startup.
 **Visión:** Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles que beneficien tanto a conductores como a propietarios de estacionamientos.
 
   
-#### 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
+
+| **Integrantes**                                              | **Descripción**                                                                                                                                                                                                                                                | **Conocimientos**                               |
+|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| ![Foto de Diego](Imagenes/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+|                                                              |                                                                                                                                                                                                                                                                |                                                 |
+
 
 ### 1.2. Solution Profile
 
