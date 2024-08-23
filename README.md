@@ -264,11 +264,107 @@ El problema de la falta de seguridad y disponibilidad de estacionamientos es sig
 
 #### 1.2.2. Lean UX Process
 
+En esta sección se realizará el proceso de Lean UX, que abarca la visión del modelo de negocio que será soportado por nuestro producto de software. Gracias a este enfoque metodológico, podemos dirigir nuestra atención hacia el diseño de nuestra solución y los problemas identificados mediante el pensamiento de diseño.
+
 ##### 1.2.2.1. Lean UX Problem Statements
+
+A continuación, empleamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para orientar a nuestro equipo de trabajo en la creación de un servicio sin restricciones que puedan limitar la creatividad y la agilidad. Este enfoque nos impulsa a pensar en nuestro trabajo en términos que respondan a las necesidades de los clientes y nos prepara para un lanzamiento exitoso de nuestra idea.
+
+**Plantilla de Business Opportunity Statement:**
+
+El estado actual de [domain] se ha centrado principalmente en [segments, pain points, etc.]
+
+Lo que los productos/servicios existentes no logran abordar es [this gap].
+
+Nuestro producto/servicio abordará esta brecha mediante [vision / strategy].
+
+Nuestro enfoque inicial será [this segment].
+
+Sabremos que tenemos éxito cuando veamos [these behaviors in our target audience].
+
+**PARKINGNOW Lean UX Problem Statements:**
+
+- El estado actual de los servicios de estacionamiento en áreas urbanas se ha centrado principalmente en la disponibilidad limitada de espacios y en la falta de opciones para reservar con anticipación, lo que lleva a la frustración de los conductores y al uso indebido de espacios de estacionamiento.
+
+- Lo que los productos/servicios existentes no logran abordar es la falta de información en tiempo real sobre la disponibilidad de espacios y la optimización de rutas hacia los estacionamientos más cercanos.
+
+- Nuestro producto/servicio abordará esta brecha mediante el desarrollo e implementación de una plataforma digital que utiliza la localización geográfica y datos en tiempo real para informar a los conductores sobre la disponibilidad de espacios y optimizar sus rutas de manera eficiente.
+
+- Nuestro enfoque inicial será captar el mercado de conductores urbanos en ciudades con alta congestión vehicular, donde la necesidad de soluciones de estacionamiento eficientes es mayor.
+
+- Sabremos que tenemos éxito cuando veamos un aumento significativo en las reservas de estacionamientos a través de nuestra plataforma y una reducción en el tiempo promedio que los conductores dedican a buscar un espacio de estacionamiento.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
+**Users:**
+
+- Conductores urbanos que buscan estacionamiento en tiempo real en áreas urbanas congestionadas.
+- Propietarios de estacionamientos que desean optimizar la ocupación de sus espacios y mejorar la comunicación con los clientes.
+- Empresas y servicios de transporte que requieren soluciones rápidas y eficientes para estacionar sus flotas.
+
+**User Outcomes:**
+
+**Segmento de Conductores:**
+
+- Acceder a una plataforma en línea que facilite la búsqueda y reserva de estacionamientos disponibles en tiempo real.
+- Utilizar la aplicación para optimizar las rutas hacia los estacionamientos más cercanos y ahorrar tiempo.
+- Verificar la disponibilidad de espacios y tarifas de estacionamiento antes de llegar a su destino.
+
+**Segmento de Propietarios de Estacionamientos:**
+
+- Promocionar sus espacios de estacionamiento a una audiencia más amplia de conductores.
+- Gestionar todas las reservas y comunicaciones con los clientes desde una sola plataforma.
+- Mejorar la tasa de ocupación de sus espacios mediante herramientas de análisis y optimización proporcionadas por la plataforma.
+
+**Suposiciones de Negocios:**
+
+- Creemos que existe una demanda creciente de soluciones eficientes para encontrar y reservar espacios de estacionamiento en áreas urbanas congestionadas.
+- Aunque reconocemos la competencia en el sector de estacionamiento, estamos seguros de que podemos destacarnos ofreciendo una plataforma en línea que utilice datos en tiempo real para mejorar la experiencia tanto para los conductores como para los propietarios de estacionamientos.
+- Creemos que los usuarios valorarán la conveniencia, la transparencia y la eficiencia de una plataforma que les permita encontrar y reservar estacionamientos en tiempo real.
+
+**Suposiciones de Usuarios:**
+
+- **¿Quién utiliza nuestra plataforma?** Nuestra plataforma es utilizada por conductores urbanos que necesitan estacionar sus vehículos de manera segura y conveniente, así como por propietarios de estacionamientos que desean maximizar la ocupación de sus espacios.
+- **¿Cómo se integra nuestro producto en la rutina diaria?** Nuestro producto se integra en la rutina diaria de los conductores al proporcionar una solución rápida y fácil de usar para encontrar y reservar estacionamientos, reduciendo así el tiempo dedicado a buscar espacios.
+- **¿Cuáles son los desafíos que aborda nuestro producto?** PARKINGNOW aborda los desafíos de la falta de información en tiempo real sobre la disponibilidad de estacionamientos y la optimización de rutas hacia los espacios más cercanos.
+- **¿Qué imagen deseamos proyectar con nuestro producto?** Deseamos proyectar una imagen de eficiencia, confiabilidad e innovación. Queremos que PARKINGNOW sea visto como la solución líder en la industria de estacionamiento urbano.
+- **¿Cuál es el propósito fundamental de nuestra aplicación?** El propósito fundamental de PARKINGNOW es facilitar el proceso de búsqueda, reserva y gestión de espacios de estacionamiento para conductores urbanos y propietarios de estacionamientos.
+- **¿Qué funcionalidades destacan en nuestra aplicación?** Las funcionalidades destacadas incluyen la búsqueda avanzada de estacionamientos basada en localización y disponibilidad, la reserva en línea de espacios, la optimización de rutas y herramientas de análisis para propietarios de estacionamientos.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
+
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demonstrated this when].
+
+**Hipótesis 1:**
+
+- Creemos que si simplificamos el proceso de búsqueda y reserva de espacios de estacionamiento en nuestra plataforma, esto logrará aumentar significativamente la cantidad de usuarios recurrentes, proyectando un aumento del 30% en la tasa de clientes que regresan dentro de los primeros seis meses de implementación.
+
+- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la cantidad de reservas realizadas por usuarios recurrentes durante el mismo período.
+
+**Hipótesis 2:**
+
+- Creemos que si implementamos un sistema de notificación en tiempo real sobre la disponibilidad de espacios de estacionamiento, esto logrará reducir el tiempo promedio de búsqueda de estacionamiento en un 20%.
+
+- **Sabremos que estamos en lo cierto cuando observemos** una reducción del 20% en el tiempo promedio que los usuarios pasan buscando estacionamiento después de la implementación.
+
+**Hipótesis 3:**
+
+- Creemos que si ofrecemos descuentos exclusivos para usuarios frecuentes, esto logrará aumentar la conversión de usuarios ocasionales a usuarios frecuentes, proyectando un aumento del 25% en la cantidad de usuarios frecuentes dentro de los primeros seis meses de implementación.
+
+- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 25% en la cantidad de usuarios que utilizan nuestra plataforma más de una vez al mes.
+
+**Hipótesis 4:**
+
+- Creemos que si mejoramos la función de optimización de rutas en nuestra plataforma, permitiendo a los usuarios llegar más rápidamente a los estacionamientos, esto logrará aumentar la satisfacción del usuario y reducir la frustración durante la búsqueda de estacionamiento.
+
+- **Sabremos que estamos en lo cierto cuando observemos** un aumento en las calificaciones de satisfacción del usuario y una reducción en las quejas relacionadas con la búsqueda de estacionamiento.
+
+**Hipótesis 5:**
+
+- Creemos que si implementamos un programa de fidelización que recompense a los usuarios por el uso continuo de nuestra plataforma, esto logrará aumentar la retención de clientes y el crecimiento orgánico de nuestra base de usuarios, proyectando un aumento del 30% en la retención de clientes dentro de los primeros seis meses de implementación del programa.
+
+- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la retención de clientes y un incremento en el número de usuarios que refieren a otros conductores a la plataforma.
+
 
 ##### 1.2.2.4. Lean UX Canvas
 
