@@ -53,7 +53,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta.**                                          |              |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
-|                          
+                      
   
 # Índice
 
@@ -147,8 +147,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [Bibliografía](#bibliography)
 - [Anexos](#links)
 
+<h4 id="student-outcome">Student Outcomes</h4>
 
-<h4 id="student-outcome"> Student Outcome</h4>
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
 
 ### 1.1. StartUp Profile
