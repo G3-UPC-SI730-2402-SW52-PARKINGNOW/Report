@@ -87,7 +87,14 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
       - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2. Solution Profile](#12-solution-profile)
-      - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+      - [What](#what)
+      - [When](#when)
+      - [Where](#where)
+      - [Who](#who)
+      - [Why](#why)
+      - [How](#how)
+      - [How much](#how-much)
       - [1.2.2. Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
@@ -181,8 +188,7 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 **Misión:** Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** facilita el acceso a espacios de estacionamiento y contribuye a la rentabilidad de quienes los poseen, cubriendo así las necesidades de ambos segmentos de mercado.
 
-**Visión:** Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles que beneficien tanto a conductores como a propietarios de estacionamientos.
-
+**Visión:** Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos en los próximos 5 años, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles que beneficien tanto a conductores como a propietarios de estacionamientos.
   
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -198,7 +204,63 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.2. Solution Profile
 
-#### 1.2.1. Antecedentes y problemática
+**PARKINGNOW** es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica. Nuestra tecnología asegura la disponibilidad de espacios de manera eficiente, optimizando las rutas hacia los estacionamientos más cercanos y mejorando la experiencia de los conductores. En resumen, **PARKINGNOW** ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+
+### 1.2.1. Antecedentes y problemática
+
+En las ciudades con alto movimiento vehicular, es común ver vehículos estacionados de manera indebida, invadiendo veredas o interrumpiendo el flujo vehicular. Esta situación es un problema recurrente para los conductores que enfrentan la dificultad de encontrar estacionamiento, un desafío que se intensifica en áreas urbanas congestionadas. La demanda de espacios de estacionamiento es alta, y la información disponible sobre su disponibilidad suele ser limitada o desactualizada. Además, la ausencia de herramientas para reservar un espacio con anticipación agrava la frustración y aumenta el tiempo que los conductores deben invertir para encontrar un lugar donde estacionarse.
+
+Con el objetivo de entender mejor las necesidades de nuestros usuarios, hemos realizado un análisis de antecedentes y la problemática utilizando la técnica 5W’s & 2H’s. A continuación, se presenta la información recopilada:
+
+#### What
+
+**¿Cuál es el problema?**  
+El principal problema que **PARKINGNOW** busca resolver es la falta de estacionamientos disponibles y adecuados, lo que lleva a los conductores a estacionarse en zonas no permitidas, generando congestión y exponiéndose a riesgos como multas o robos.
+
+#### When
+
+**¿Cuándo sucede el problema?**  
+El problema ocurre principalmente durante las horas pico, cuando la demanda de espacios de estacionamiento es mayor y los conductores no encuentran un lugar disponible que cumpla con sus expectativas.
+
+**¿Cuándo utiliza el cliente el producto?**  
+El cliente usará **PARKINGNOW** para verificar la disponibilidad de estacionamientos en la zona deseada, realizar reservas, comparar tarifas y asegurarse de que el estacionamiento seleccionado cumpla con sus expectativas.
+
+#### Where
+
+**¿Dónde surge el problema?**  
+El problema surge en áreas urbanas congestionadas donde los estacionamientos son escasos y la información sobre su disponibilidad es limitada o inaccesible.
+
+#### Who
+
+**¿Quiénes están involucrados?**  
+Los principales involucrados en el problema son los conductores que necesitan un estacionamiento disponible, seguro y asequible, y los propietarios de estacionamientos que buscan optimizar la ocupación de sus espacios y atraer más clientes.
+
+**¿A quiénes le sucede el problema?**  
+El problema afecta a todos los conductores que buscan estacionamiento, independientemente de su edad, género, ubicación o tipo de vehículo.
+
+**¿Quién utilizará el producto?**  
+El producto será utilizado por personas que viajan a diario, turistas, estudiantes, y cualquier conductor que necesite estacionar su vehículo en un lugar seguro y conveniente que se ajuste a sus preferencias y presupuesto.
+
+#### Why
+
+**¿Por qué sucede el problema?**  
+El problema surge debido a la falta de sistemas tecnológicos en los estacionamientos tradicionales, que impide la comunicación en tiempo real sobre la disponibilidad de espacios. Esto crea una desconexión entre la oferta y la demanda.
+
+**¿Qué llevó al usuario a esta situación?**  
+La falta de información actualizada y la ausencia de herramientas eficientes para gestionar la disponibilidad de estacionamiento conducen a situaciones en las que los conductores no encuentran espacios que satisfagan sus necesidades.
+
+#### How
+
+**¿En qué condiciones los clientes usan nuestro producto?**  
+Los clientes pueden usar **PARKINGNOW** en diversas situaciones, como al planificar un viaje a una nueva ciudad, al buscar estacionamientos que se ajusten a sus preferencias, o durante eventos importantes donde encontrar estacionamiento puede ser más difícil.
+
+**¿Cómo nos conocerán los usuarios?**  
+Los usuarios nos conocerán a través de campañas publicitarias en redes sociales que destacarán los beneficios y ventajas de **PARKINGNOW**.
+
+#### How much
+
+**¿En qué cantidad sucede el problema?**  
+El problema de la falta de seguridad y disponibilidad de estacionamientos es significativo. Los constantes robos de vehículos y las multas por estacionamiento indebido son problemas comunes que afectan a muchos conductores.
 
 #### 1.2.2. Lean UX Process
 
