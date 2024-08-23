@@ -55,13 +55,13 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
                       
   
-## Contenido
+# Contenido
 
-**Tabla de contenidos**
+## Tabla de contenidos
 
-[Registro de versiones del informe](#registro-de-versiones-del-informe)  
-[Project Report Collaboration Insights](#project-report-collaboration-insights)  
-[Student Outcome](#student-outcome)
+### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+### [Student Outcome](#student-outcome)
 
 
 - [Capítulo I: Introducción](#chapter-1)
