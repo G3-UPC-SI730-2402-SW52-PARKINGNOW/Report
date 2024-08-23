@@ -163,9 +163,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
       - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
     - [5.4. Video About-the-Product](#54-video-about-the-product)
-  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-    - [Conclusiones](#conclusiones)
-    - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones-1)
+  - [Conclusiones](#conclusiones)
+    - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
     - [Video About-the-Team](#video-about-the-team)
   - [Bibliografía](#bibliografía)
   - [Anexos](#anexos)
@@ -332,9 +331,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ### 5.4. Video About-the-Product
 
-## Conclusiones y Recomendaciones
-
-### Conclusiones
+## Conclusiones 
 
 ### Conclusiones y recomendaciones
 
