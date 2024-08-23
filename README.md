@@ -150,8 +150,19 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 <h4 id="student-outcome"> Student Outcome</h4>
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
-<h4 id="startup-profile">1.1. Startup Profile</h4>
-<h4 id="startup-description"> 1.1.1. Descripción de la Startup</h4>
+
+### 1.1. StartUp Profile
+
+En esta sección describiremos la descripción de nuestra Startup.
+
+#### 1.1.1. Descripción de la Startup
+
+**PARKINGNOW** es una startup tecnológica enfocada en ofrecer una solución integral para el estacionamiento en tiempo real. Nuestra plataforma digital permite a los usuarios reservar y pagar por espacios de estacionamiento utilizando la localización geográfica. Basado en un modelo de negocio independiente y sostenible, **PARKINGNOW** se adapta tanto a usuarios frecuentes como a usuarios ocasionales mediante un sistema de transacciones. La innovación de **PARKINGNOW** radica en la integración de datos en tiempo real para garantizar la disponibilidad de espacios y optimizar las rutas hacia los estacionamientos más cercanos.
+
+- **Misión:** Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** facilita el acceso a espacios de estacionamiento y contribuye a la rentabilidad de quienes los poseen, cubriendo así las necesidades de ambos segmentos de mercado.
+
+
+- **Visión:** Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles que beneficien tanto a conductores como a propietarios de estacionamientos.
 <h4 id="profile-members">1.1.2. Perfiles de integrantes del equipo</h4>
 <h4 id="solution-profile">1.2. Solution Profile</h4>
 <h4 id="background-and-problems">1.2.1 Antecedentes y problemática</h4>
