@@ -201,7 +201,8 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.2. Solution Profile
 
-**PARKINGNOW** es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica. Nuestra tecnología asegura la disponibilidad de espacios de manera eficiente, optimizando las rutas hacia los estacionamientos más cercanos y mejorando la experiencia de los conductores. En resumen, **PARKINGNOW** ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+**PARKINGNOW** es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica y un **sensor de movimiento**. Nuestra tecnología asegura la disponibilidad de espacios de manera eficiente al detectar automáticamente la entrada y salida de vehículos, actualizando la información en tiempo real y optimizando las rutas hacia los estacionamientos más cercanos. Esto mejora la experiencia de los conductores al reducir el tiempo de búsqueda y aumentar la precisión en la selección de espacios disponibles. En resumen, **PARKINGNOW** ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+
 
 ### 1.2.1. Antecedentes y problemática
 
