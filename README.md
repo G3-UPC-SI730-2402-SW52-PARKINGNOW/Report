@@ -95,7 +95,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
       - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
   - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1. Competidores](#21-competidores)
@@ -365,10 +365,10 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 - **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la retención de clientes y un incremento en el número de usuarios que refieren a otros conductores a la plataforma.
 
 
-#### 1.2.2.4. Lean UX Canvas
+### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-  <img src="images/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
+  <img src="Imagenes/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
 </p>
 
 <p align="center">Fuente: Elaboración propia.</p>
