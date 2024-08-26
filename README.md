@@ -116,7 +116,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
     - [3.2. User Stories](#32-user-stories)
     - [Epics](#epics)
-    - [3.2. User Stories](#32-user-stories-1)
+    - [User Stories](#user-stories)
     - [3.3. Impact Mapping](#33-impact-mapping)
     - [3.4. Product Backlog](#34-product-backlog)
   - [Capítulo IV: Product Design](#capítulo-iv-product-design)
@@ -437,7 +437,7 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 | EP05            | Integración con Sensores Infrarrojos      | Como operador de estacionamiento que utiliza **PARKINGNOW**, quiero integrar sensores infrarrojos para detectar automáticamente la ocupación de espacios de estacionamiento, proporcionando datos precisos en tiempo real sobre la disponibilidad de espacios. | N/A                     | N/A                       |
 | EP06            | Plataforma de Evaluaciones y Recomendaciones | Como usuario de **PARKINGNOW**, quiero poder dejar y leer reseñas y calificaciones sobre diferentes estacionamientos, para tomar decisiones informadas basadas en las experiencias de otros usuarios. | N/A                     | N/A                       |
 
-### 3.2. User Stories
+###  User Stories
 
 | User Story ID | Título                                  | Descripción                                                                                                                                                                      | Criterios de Aceptación                                                                                                                                                                                                                                                                                       | Relacionado con (Epic ID) |
 |---------------|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
