@@ -465,8 +465,21 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 ### 3.3. Impact Mapping
 
 
-
 ### 3.4. Product Backlog
+
+Utilizamos la escala de Fibonacci para la estimación de los Story Points.
+
+| Orden | User Story Id | Título                             | Descripción                                                                                                                                                  | Story Points (1/2/3/5/8) |
+|-------|---------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1     | US01          | Búsqueda de Estacionamiento         | Como Conductor Urbano Frecuente, quiero buscar espacios de estacionamiento disponibles cerca de mi ubicación para estacionar rápidamente y sin problemas.    | 8                         |
+| 2     | US12          | Confirmación de Entrada y Salida    | Como Dueño de Playa de Estacionamiento, quiero recibir confirmación al ingresar y salir de un estacionamiento para asegurarme de que la gestión de espacios se ha realizado correctamente. | 8                         |
+| 3     | US03          | Pago Seguro por Reservas            | Como Conductor Urbano Frecuente, quiero realizar pagos seguros por cada reserva a través de la aplicación para evitar el uso de efectivo y asegurar la protección de mis datos. | 5                         |
+| 4     | US15          | Gestión de Evaluaciones y Calificaciones | Como Dueño de Playa de Estacionamiento, quiero poder gestionar las evaluaciones y calificaciones recibidas para mejorar la calidad del servicio y atraer más clientes. | 5                         |
+| 5     | US05          | Notificaciones de Disponibilidad    | Como Conductor Urbano Frecuente, quiero recibir notificaciones en tiempo real sobre la disponibilidad de estacionamientos cercanos para elegir la mejor opción rápidamente. | 3                         |
+| 6     | US16          | Modo de Seguridad Nocturna          | Como Dueño de Playa de Estacionamiento, quiero activar un modo de seguridad nocturna para recibir alertas adicionales y monitoreo durante la noche.           | 3                         |
+| 7     | US07          | Histórico de Estacionamiento        | Como Conductor Urbano Frecuente, quiero acceder a un historial de mis estacionamientos pasados para revisar mis patrones de uso y gastos.                     | 2                         |
+| 8     | US13          | Acceso para Usuarios con Discapacidad | Como Conductor Urbano Frecuente, quiero asegurarme de que los espacios accesibles estén claramente marcados y disponibles para reservar en la aplicación.     | 1                         |
+
 
 
 
