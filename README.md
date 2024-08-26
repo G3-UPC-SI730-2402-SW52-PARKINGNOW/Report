@@ -410,6 +410,19 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 ### 3.1. To-Be Scenario Mapping
 
+**To Be Scenario Mapping para Conductores Urbanos Frecuentes**
+
+<p align="center">
+  <img src="Imagenes/To be Scenario Mapping 1.png" alt="To Be Scenario Mapping para Conductores Urbanos Frecuentes" style="max-width: 70%; height: auto;" />
+</p>
+
+**To Be Scenario Mapping para Dueños de Playas de Estacionamientos**
+
+<p align="center">
+  <img src="Imagenes/To be Scenario Mapping 2.png" alt="To Be Scenario Mapping para Dueños de Playas de Estacionamientos" style="max-width: 70%; height: auto;" />
+</p>
+
+
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
