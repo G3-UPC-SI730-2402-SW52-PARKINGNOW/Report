@@ -425,6 +425,16 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 ### 3.2. User Stories
 
+| **Epic / Story ID** | **Título**                           | **Descripción**                                                                                                                                                       | **Criterios de Aceptación**                                                                                      | **Relacionado con (Epic ID)** |
+|---------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------|
+| EP01                | Registro y Gestión de Estacionamientos | Como propietario de un estacionamiento, quiero poder registrar y gestionar fácilmente mis espacios disponibles para maximizar la ocupación y aumentar mis ingresos.    | - El propietario puede registrar nuevos espacios de estacionamiento.<br> - El propietario puede editar o eliminar espacios ya registrados. | N/A                           |
+| EP02                | Búsqueda y Reserva de Estacionamiento | Como conductor urbano, quiero poder buscar y reservar un espacio de estacionamiento en tiempo real para reducir mi tiempo de búsqueda y evitar multas.               | - El usuario puede buscar espacios de estacionamiento por ubicación.<br> - El usuario puede reservar un espacio disponible en tiempo real.   | N/A                           |
+| EP03                | Optimización de Rutas                 | Como conductor urbano, quiero que la plataforma me proporcione la ruta más eficiente al estacionamiento reservado para minimizar mi tiempo de conducción y estrés.    | - La plataforma muestra la ruta óptima al estacionamiento reservado.<br> - La ruta considera el tráfico en tiempo real.                     | N/A                           |
+| EP04                | Información en Tiempo Real            | Como conductor, quiero recibir información actualizada sobre la disponibilidad de estacionamientos para tomar decisiones informadas y optimizar mi tiempo de llegada. | - El usuario recibe notificaciones en tiempo real sobre cambios en la disponibilidad.<br> - La información es precisa y oportuna.          | N/A                           |
+| EP05                | Pago Automatizado                     | Como conductor, quiero poder realizar pagos automáticamente a través de la aplicación para evitar el uso de efectivo y ahorrar tiempo al llegar al estacionamiento.  | - La plataforma soporta pagos electrónicos seguros.<br> - El usuario recibe confirmación del pago en la aplicación.                          | N/A                           |
+| EP06                | Evaluación y Reseñas                  | Como conductor, quiero poder dejar reseñas y calificaciones de los estacionamientos utilizados para ayudar a otros usuarios a tomar decisiones informadas.           | - El usuario puede dejar una reseña después de utilizar un espacio de estacionamiento.<br> - Las reseñas son visibles para todos los usuarios. | N/A                           |
+
+
 ### 3.3. Impact Mapping
 
 ### 3.4. Product Backlog
