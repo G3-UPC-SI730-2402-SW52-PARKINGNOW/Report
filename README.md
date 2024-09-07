@@ -378,13 +378,64 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 
 ### 1.3. Segmentos objetivo
 
+1. Conductores:
+   - Descripción: Este segmento incluye a personas que necesitan estacionamiento regular en zonas urbanas.
+   - Sexo: Masculino y femenino
+   - Edades: Adultos jóvenes (18-34 años), adultos de mediana edad (35-54 años) y adultos mayores (55+)
+   - Nivel socioeconómico: Clases B, C y D (media-alta, media y baja)
+   - Satisfacción de Necesidades: La aplicacion web permite a estos usuarios ahorrar tiempo y reducir l eestrés al ayudar con las reservas en tiempo real, optimizando sus desplazamientos diarios. Asimismo, gracias al sensor, el usuario tendra la seguridad del estado de su carro dentro del estacionamiento.
+
+2. Dueños de playas de estacionamientos:
+    - Descripcion: El siguiente segmento incluye a las personas dueñas de playas de estacionamintos, o lugares para aparcar carros en zonas urbanas.
+    - Sexo: Masculino y Femenino
+    - Edades: Adultos jóvenes (18-34 años), Adultos de mediana edad (35 - 54) y adultos mayores (55+)
+    - Nivel socioeconómico: Clases B y C (Media-alta y media)
+    - Necesidades por satisfacer: Apoyar con el manejo de datos que sucede al momento de que los conductores urbanos frecuentes deseen un lugar para estacionar, ademas de brindar facilidad y seguridad al momento de pagar y ordenar los lugares de estacionamiento. Además, promueve la formalidad y acelera los procesos tediosos que estos negocios suelen tener.
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
 
+**Parkimeter:**
+
+Parkimeter es una plataforma en línea que ofrece servicios relacionados con la busqueda de estacionamiento. La plataforma permite a los usuarios buscar, comparar y reservar plazas de estacionamiento en diferentes ubicaciones. Además de la reserva de plazas de estacionamiento, Parkimeter también brinda información sobre tarifas, disponibilidad y otras características en tiempo real para ayudar a los conductores a encontrar el estacionamiento adecuado.
+
+**ElParking**
+
+ElParking permite a los usuarios encontrar, reservar y pagar por estacionamiento a través de su plataforma. La aplicación brinda información en tiempo real acerca de sitios de estacionamiento cercanos quitando un peso de los hombros del consumidor, los conductores. Además, tiene la increíble funcionalidad de seguimiento de multas, pagos en parquímetros, etc.
+
+**Aparcados**
+
+Aparcados permite a los conductores encontrar estacionamientos con ,filtros multiples para las diferentes necesidades de los usuarios optimizando así el proceso de estacionamiento en áreas urbanas. La app posee una página web, pero la versión en móviles es la más usada hasta el momento, con una interfaz llamativa para todos los usuarios.
+
 #### 2.1.1. Análisis competitivo
 
+| **Competitive Analysis Landscape**                              |                                                                                                                              |
+|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **¿Por qué llevar a cabo este análisis?**                       | **Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.**                                    |
+|                                                                 | **Identificar cómo PARKINGNOW se posiciona frente a sus competidores en términos de servicios ofrecidos, ventajas competitivas y estrategias de mercado para mejorar nuestra propuesta de valor y captar más clientes.** |
+
+| ***Competidor***          || ParkingNow| Parkimeter| ElParking| Aparcados|
+| ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Logo***| |![ParkingNow](Assets/ParkingNowlogo.png) |![Pakimeter](Assets/Parkimeter.jpeg) |![ElParking](Assets/ElParking.png)|![Aparcados](Assets/Aparcados.jpg)
+| ***Perfil***| Overview| Es una aplicacion web que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades ademas que brinda la conexion entre los consumidores y dueños de estacionamientos| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo|
+|| ***Ventaja competitiva ¿Qué valor ofrece a los clientes?*** | Cancelación gratuita hasta con 24 horas de antelación de la reserva, inclusion de un sensor para el automovil y ser el puente entre los consumidores y dueños de playas de estacionamientos en zonas urbanas| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
+| ***Perfil de Marketing*** | ***Mercado objetivo***| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas y personas dueñas de estacionamientos de playas.| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|
+|| ***Estrategias de marketing***| Utiliza publicidad en línea a través de plataformas y redes sociales| Utiliza publicidad en línea a través de plataformas y redes sociales |Utiliza publicidad en línea, redes sociales y reciben promociones de influencers| Utiliza publicidad en línea a través de plataformas y redes sociales  |
+| ***Perfil de Producto*** | ***Productos & Servicios***| Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos. |Realizar servicios de parking en todo el territorio español y otras grandes ciudades del mundo | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en ciudades concurridas, seguimiento de multas y pagos sencillos. | Ofrece una serie de servicios relacionados con la reserva de plazas de aparcamiento en áreas urbanas y otros destinos |
+|| ***Precios & Costos***| La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes |La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes y las suscripciones VIP. | La plataforma es gratuita pero se debe pagar las tarifas de estacionamiento, además de la existencia de tarifas especiales o descuentos | La plataforma es gratuita, pero se debe pagar las tarifas de estacionamiento correspondientes. |
+|| ***Canales de distribución (Web y/o Móvil)***| Web| Web/Móvil| Web/Móvil| Web/Movil|
+| ***Análisis SWOT***       | ***Fortalezas***| Implementa sensores de estacionamiento en los estacionamientos asociados, un objetivo más amplio que otras aplicaciones y soporte en tiempo real para los consumidores| Parkimeter opera en múltiples ciudades de Europa y América Latina |ElParking implementa seguimiento de multas y pagos a parte de los estacionamientos | Aparcados opera en múltiples ciudades de Europa y Asia|
+|| ***Debilidades***| La industria de reserva de estacionamientos en línea es muy competitiva . | Varias empresas que proporcionan servicios similares | La industria de reserva de estacionamientos en línea es muy competitiva. | Varias empresas que proporcionan servicios similares. |
+|| ***Oportunidades***| A medida que las ciudades sigan creciendo, la demanda de servicios de reserva podría aumentar |La congestión del tráfico se vuelve más común, eso provocaría una alta demanda en la reserva de estacionamientos | En su país de origen, España, las personas en zonas urbanas van a tener que aprender más acerca de la app para poder vivir en comodidad. | Tiene grandes posibilidades de expandir su mercado aun enfocándose en la reserva de estacionamientos en América Latina |
+|| ***Amenazas***| Cambios en las políticas de movilidad urbana.|Nuevas startups compitiendo por la misma base de usuarios.|Nuevas startups compitiendo por la misma base de usuarios. | Nuevas startups compitiendo por la misma base de usuarios. |
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
+
+| ***MATRIZ FODA y C.A.M.E***|**Oportunidades:** La demanda por el servicio aumenta con el paso del tiempo  | **Amenazas:** Cambios en la politica de mobilidad urbana|
+|---|---|---|
+|**Fortalezas:** Ideas innovacdoras, publico objetivo amplio y soporte en tiempo real para los consumidores| La estrategia que podemos tomar en este caso seria la de dar el mejor soporte a los consumidores para que no vayan a otras aplicaciones, además que nuestra propuesta de sensores es algo poco visto que las personas encontraran llamativo y estaran dispuestos a aprender de ello. | Preveer todos estos posibles cambios en la politica gracias a un analisis más amplio de acuerdo al tema |
+|**Debilidades:** Nuevos en un mercado muy competitivo | Aumentar la promocion de nuestra app y promocionar nuestra innovacion para que los usuarios puedan validarnos como la mejor opcion del mercado.  | Si bien, las politicas pueden afectarnos, a los otros competidores tambien, podemos diseñas campañas de marketing enfocadas a que lo que hacemos no necesita un cambio en la politica de la mobilidad urbana, sino, que mejoramos la gestion de esta en distintos lugares del pais.  |
 
 ### 2.2. Entrevistas
 
@@ -496,9 +547,6 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 | 7     | US07          | Histórico de Estacionamiento        | Como Conductor Urbano Frecuente, quiero acceder a un historial de mis estacionamientos pasados para revisar mis patrones de uso y gastos.                     | 2                         |
 | 8     | US13          | Acceso para Usuarios con Discapacidad | Como Conductor Urbano Frecuente, quiero asegurarme de que los espacios accesibles estén claramente marcados y disponibles para reservar en la aplicación.     | 1                         |
 
-
-
-
 ## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines
@@ -515,27 +563,169 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Los SEO Tag y Meta Tags ayudaran a que la pagina estatica y la aplicacion web sea posible de analizar facilmente y se pueda gestionar de manera eficiente y optima.
+
+**Titulo**
+
+``<title> PARKINGNOW </title>``
+
+**Description**
+
+``<meta name="description" content="ParkingNow es una aplicacion que ayudara a los usuarios a reservar lugares de estacionamiento"/>``
+
+**Keywords**
+
+``<meta name="viewport" content="width=device-width, initial-scale=1.0">``
+
+**Author**
+
+``<meta name="copyright" content="© 2024 PARKINGNOW. Todos los derechos reservados"./``
+
 #### 4.2.4. Searching Systems
+
+Estos metodos de busqueda ayudaran a los usuarios a navegar por nuestra aplicacion web con mas facilidad y podran encontrar lo que estan buscando de forma intuitiva. Los metodos de busqueda para nuestra aplicacion web seran las siguientes:
+
+**Busqueda por caracteres:** Los usuarios podran buscar sus establecimientos por medio del nombre o dueño en la barra de busqueda de playa de estacionamiento.
+
+**Busqueda por mapa:** Para hacerlo de forma mas intuitiva, decidimos que los usuarios tambien puedan usar el mapa para buscar locales lejanos o cercanos a su ubicacion, además de usar direcciones para poder encontrar el lugar que desean.
 
 #### 4.2.5. Navigation Systems
 
+El método de navegación para los usuarios en nuestra aplicación web será simple e intuitivo, permitiendo que puedan realizar acciones fácilmente, como iniciar sesión, registrarse, hacer una reserva o consultar las estadísticas de sus establecimientos. Los colores llamativos guiarán al usuario en cada paso. Además, la búsqueda de playas de estacionamiento será ágil y sin interrupciones para asegurar una experiencia fluida.
+
 ### 4.3. Landing Page UI Design
 
-#### 4.3.1. Landing Page Wireframe
+![WireframeLP1](Imagenes/LandingPageWireframe1.png)
+
+![WireframeLP2](Imagenes/LandingPageWireframe2.png)
 
 #### 4.3.2. Landing Page Mock-up
+
+![MockupLP1](Imagenes/LandingPageMockUp1.png)
+
+![MockupLP2](Imagenes/LandingPageMockUp2.png)
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+En estas imagenes, podemos ver el wireframde la home page, donde da la bienvenida al suauri y brinda informacion sobre quienes somos y que es lo queremos. En la parte de la derecha podemos ver el Inicio de Sesion, y las formas en que los usuarios se pueden registrar en la aplicacion web, es decir, como conductor o dueño de una playa de estacionamiento
+
+![Wireframe1](Imagenes/Wireframe_1.png)
+
+En estas imagenes se puede ver donde el usuario selecciona si es que es un conductor o el dueño de una playa de estacionamiento. Asimismo, se pueden ver las pantallas de confirmarcion de reservas, registro y de opinion enviada.
+
+![Wireframe2](Imagenes/Wireframe_2.png)
+
+En estas imagenes se peuden ver la forma en que se vera al momento de buscar un lugar para la reserva, de esta manera el usuario podra ver el nombre del establecimiento, las reseñas, descripcion, fotos del estacionamient, podra dejar una reseña o reservar en el establecimiento.
+
+Además en la segunda imagen podra ver su historial y revisar sus lugares marcados como favoritos.
+
+![Wireframe3](Imagenes/Wireframe_3.png)
+
+En las siguientes imagenes lo que se puede ver es el Dashboard del dueño de playas de estacionamiento, donde tendra las siguientes opciones: Inicio, registro de locales, reservas, monitoreo de Automoviles y alarmas de los locales, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
+
+![Wireframe4](Imagenes/Wireframe_4.png)
+![Wireframe5](Imagenes/Wireframe_5.png)
+
+En las siguientes imagenes lo que se puede ver es el Dashboard de los condutores, donde tendra las siguientes opciones: Inicio, reservas, soporte a tiempo real,seguimiento y alarmas del automovil que posea el escaner, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
+
+![Wireframe6](Imagenes/Wireframe_6.png)
+![Wireframe7](Imagenes/Wireframe_7.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-#### 4.4.3. Web Applications Mock-ups
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
+![Wireflow1](Imagenes/Wireflow_1.png)
+
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
+![Wireflow2](Imagenes/Wireflow_2.png)
+
+User goal: Hacer una reserva como conductor en la aplicacion.
+![Wireflow3](Imagenes/Wireflow_3.png)
+
+User goal: Dejar una opinion a una playa de estacionamiento.
+![Wireflow4](Imagenes/Wireflow_4.png)
+
+User goal: Recibir soporte en la pestaña de "Soporte" como conductor.
+![Wireflow5](Imagenes/Wireflow_5.png)
+
+User Goal: Como usuario revisar el estado de mi carro por medio del sensor.
+![Wireflow6](Imagenes/Wireflow_6.png)
+
+User Goal: Como dueño de la playa de estacionamiento, revisar las reservas programadas para el dia de hoy.
+![Wireflow7](Imagenes/Wireflow_7.png)
+
+User Goal: Como dueño de la playa de estacionamiento monitorear las alertas y carros que se quedan en el estacionamiento.
+![Wireflow8](Imagenes/Wireflow_8.png)
+
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+Las dos siguientes imagenes son la homepage y la pagina donde se describen las caracteristicas de nuestro producto.
+
+![Mock-up1](Assets/Mockup_1.png)
+
+
+Aqui se pueden ver las pestañas de inicio de sesion, registro y por ultimo para realizar el pago de una reserva.
+
+![Mock-up2](Assets/Mockup_2.png)
+
+Aqui se pueden ver las pestañas de confirmacion de pago de reserva, registro y de envio de opinion.
+
+![Mock-up3](Assets/Mockup_3.png)
+
+En las siguientes 4 imagenes se puede ver el mapa de busqueda para las playas de estacionamiento, la forma de reservar un espacio y como dejar una opinion en los establecimientos.
+![Mock-up4](Assets/Mockup_4.png)
+
+![Mock-up5](Assets/Mockup_5.png)
+
+A continuacion se puede ver el Dashboard de los usuarios conductores, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
+
+![Mock-up6](Assets/Mockup_6.png)
+
+![Mock-up7](Assets/Mockup_7.png)
+
+![Mock-up8](Assets/Mockup_8.png)
+
+![Mock-up9](Assets/Mockup_9.png)
+
+A continuacion se puede ver el Dashboard de los Dueños de playas de estacionamiento, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
+
+![Mock-up10](Assets/Mockup_10.png)
+
+![Mock-up11](Assets/Mockup_11.png)
+
+![Mock-up12](Assets/Mockup_12.png)
+
+![Mock-up13](Assets/Mockup_13.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
+![Userflow1](Assets/Userflow_1.png)
+
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
+![Userflow2](Assets/Userflow_2.png)
+
+User goal: Dejar una opinion como conductor en la aplicacion.
+![Userflow3](Assets/Userflow_3.png)
+
+User goal: Hacer una reserva como conductor en la aplicacion.
+![Userflow4](Assets/Userflow_4.png)
+
+User Goal: Como conductor revisar mis reservas actias, poder reservar y ver los lugares marcados como favoritos
+![Userflow5](Assets/Userflow_5.png)
+
+User Goal: Como dueño de una playa de estacionamientos revisar los locales y estadisticas.
+![Userflow6](Assets/Userflow_6.png)
+
+
 ### 4.5. Web Applications Prototyping
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+
+![Prototyping](Assets/Prototyping.png)
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -554,6 +744,9 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
+
+Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
+![Base de datos](Imagenes/ParkingNow_Database-2024-09-05_13-28.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
