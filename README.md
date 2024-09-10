@@ -1138,7 +1138,6 @@ La elección de colores es una parte fundamental del diseño. Una buena selecci�
 
 - **Color Secundario (Blanco):** El blanco representa simplicidad y pureza, proporcionando un fondo limpio que mejora la legibilidad y la experiencia del usuario en nuestra plataforma. Es esencial para destacar el contenido principal y ofrecer una apariencia ordenada.
 ![alt text](Assets/BN2.png)
-
 - **Color Secundario (Negro):** El negro evoca sofisticación y seriedad, usado en detalles y tipografía para ofrecer un fuerte contraste con los otros colores. Refuerza la solidez y confiabilidad del servicio que brindamos.
 ![alt text](Assets/BN3.png)
 #### 4.1.2. Web Style Guidelines
@@ -1149,7 +1148,7 @@ Utilizaremos el **patrón Z** en el diseño, asegurando que los usuarios comienc
 
 El diseño también integrará colores llamativos que capten la atención del usuario, transmitiendo sensaciones de tranquilidad, confianza y motivándolos a usar nuestra aplicación. Además, los espacios y efectos implementados ayudarán a los usuarios a comprender fácilmente el propósito de nuestra página de inicio y aplicación web.
 
-![alt text](Assets/PatronZ.jpg)
+![alt text](Assets/PatronZ.png)
 
 ### 4.2. Information Architecture
 
