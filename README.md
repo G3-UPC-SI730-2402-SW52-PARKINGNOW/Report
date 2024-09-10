@@ -731,7 +731,7 @@ En el **User Task Matrix**, hemos identificado las principales actividades reali
 | Verificar disponibilidad de estacionamiento en tiempo real | Alta           | Alta               |
 | Consultar historial de estacionamientos utilizados | Media          | Baja               |
 
-### Segmento Objetivo: Propietarios de Estacionamientos
+### Segmento Objetivo: Dueños de playas de Estacionamientos
 | **Tarea**                                           | **Frecuencia** | **Importancia**   |
 |-----------------------------------------------------|----------------|--------------------|
 | Gestionar y actualizar la disponibilidad de espacios | Alta           | Alta               |
@@ -763,7 +763,7 @@ En cuanto a la importancia, las tareas más relevantes para los usuarios son:
 
 Estas actividades son clave porque garantizan una experiencia de estacionamiento ágil y satisfactoria, abarcando todo el proceso, desde la búsqueda hasta el pago.
 
-#### Propietarios de Estacionamientos:
+#### Dueños de playas  de Estacionamientos:
 Para los propietarios, las actividades que se realizan con mayor frecuencia son:
 - Gestionar y actualizar la disponibilidad de espacios.
 - Administrar las reservas de estacionamientos.
@@ -784,7 +784,7 @@ Estas actividades permiten optimizar la administración de los espacios y respon
 Al comparar ambos segmentos, se observa que los conductores están más enfocados en la conveniencia y eficiencia del proceso de estacionamiento, mientras que los propietarios de estacionamientos se centran en la gestión y maximización de la ocupación de sus espacios. Aunque tienen enfoques diferentes, ambos segmentos requieren un sistema que facilite la disponibilidad y la gestión de los espacios, y que mejore la experiencia general del estacionamiento.
 
 ## 2.3.3. User Journey Mapping
-En esta sección, hemos desarrollado los mapas de recorrido del usuario para ambos tipos de usuarios: clientes y propietarios de estacionamientos. Desde la perspectiva del cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, seguido por la selección y reserva del espacio, el pago a través de la aplicación, y la obtención de las indicaciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos clave en la experiencia del usuario. Por otro lado, desde el punto de vista del propietario del estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar precios, procesar las reservas y asegurar que los pagos y el uso del espacio se realicen de forma fluida. El objetivo final es ofrecer una experiencia positiva que incentive a los clientes a recomendar el espacio y que vean al propietario como una opción confiable para futuras reservas.
+En esta sección, hemos desarrollado los mapas de recorrido del usuario para ambos tipos de usuarios: clientes y dueños de playas de estacionamientos. Desde la perspectiva del cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, seguido por la selección y reserva del espacio, el pago a través de la aplicación, y la obtención de las indicaciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos clave en la experiencia del usuario. Por otro lado, desde el punto de vista del propietario del estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar precios, procesar las reservas y asegurar que los pagos y el uso del espacio se realicen de forma fluida. El objetivo final es ofrecer una experiencia positiva que incentive a los clientes a recomendar el espacio y que vean al propietario como una opción confiable para futuras reservas.
 
 ###### User Journey Mapping para Conductores Urbanos
 Este "User Journey Mapping" describe las etapas que un conductor urbano atraviesa al utilizar una aplicación de estacionamiento, desde el descubrimiento de la app hasta la evaluación de su experiencia. Identifica puntos de contacto clave (como aplicaciones y GPS), posibles dificultades (como opciones confusas), y oportunidades para mejorar la usabilidad y la información dentro de la aplicación.
