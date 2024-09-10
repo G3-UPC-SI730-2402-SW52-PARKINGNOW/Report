@@ -699,7 +699,7 @@ La "User Persona" de Anna Pacheco representa a los conductores urbanos que requi
 
 ###### User Person para Dueños de playa de estacionamientos
 
-La **"User Persona"** de Luis Córdova representa a propietarios de playas de estacionamiento que desean optimizar la gestión y aumentar sus ingresos. Luis, de 26 años, es dueño de una playa de estacionamiento y emplea tecnología para maximizar la ocupación y disminuir los tiempos de espera. Sus objetivos incluyen fidelizar a los clientes y expandir su negocio, aunque se enfrenta a desafíos como problemas tecnológicos y altos costos operativos.
+La **"User Persona"** de Luis Córdova representa a los dueños  de playas de estacionamiento que desean optimizar la gestión y aumentar sus ingresos. Luis, de 26 años, es dueño de una playa de estacionamiento y emplea tecnología para maximizar la ocupación y disminuir los tiempos de espera. Sus objetivos incluyen fidelizar a los clientes y expandir su negocio, aunque se enfrenta a desafíos como problemas tecnológicos y altos costos operativos.
 
 ![User Person s2](Assets/Luis%20Cordova.png)
 
@@ -746,7 +746,7 @@ En el **User Task Matrix**, hemos identificado las principales actividades reali
 
 El **User Task Matrix** nos permite analizar las tareas más frecuentes e importantes para cada segmento y utilizar esta información como referencia para tomar decisiones estratégicas.
 
-#### Usuarios:
+#### Conductores Urbanos Frecuentes:
 Para los usuarios, las tareas más recurrentes son:
 - Realizar el pago del estacionamiento a través de la aplicación.
 - Obtener las direcciones hacia el estacionamiento reservado.
@@ -764,7 +764,8 @@ En cuanto a la importancia, las tareas más relevantes para los usuarios son:
 Estas actividades son clave porque garantizan una experiencia de estacionamiento ágil y satisfactoria, abarcando todo el proceso, desde la búsqueda hasta el pago.
 
 #### Dueños de playas  de Estacionamientos:
-Para los propietarios, las actividades que se realizan con mayor frecuencia son:
+Para los dueños de playas de estacionamientos, las actividades que se realizan con mayor frecuencia son:
+
 - Gestionar y actualizar la disponibilidad de espacios.
 - Administrar las reservas de estacionamientos.
 - Procesar pagos de estacionamiento a través de la aplicación.
@@ -794,7 +795,7 @@ Este "User Journey Mapping" describe las etapas que un conductor urbano atravies
 
 ###### User Journey Mapping para Dueños de Playa de Estacionamientos
 
-Este "User Journey Mapping" para propietarios de playas de estacionamiento describe las diferentes etapas que atraviesan al utilizar una aplicación de gestión, desde la búsqueda de la herramienta adecuada y su configuración, hasta la instalación y el seguimiento para optimizar el funcionamiento. Se destacan los desafíos en la selección de la aplicación y la comprensión de sus funcionalidades, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
+Este "User Journey Mapping" para dueños de playas de estacionamiento describe las diferentes etapas que atraviesan al utilizar una aplicación de gestión, desde la búsqueda de la herramienta adecuada y su configuración, hasta la instalación y el seguimiento para optimizar el funcionamiento. Se destacan los desafíos en la selección de la aplicación y la comprensión de sus funcionalidades, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
 
 ![User Journey Mapping s2](Assets/Customer%20journey%20map%201%20Luis.png)
 
