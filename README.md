@@ -165,12 +165,11 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.1.1. Descripción de la Startup
 
-**PARKINGNOW** es una startup tecnológica enfocada en ofrecer una solución integral para el estacionamiento en tiempo real. Nuestra plataforma digital permite a los usuarios reservar y pagar por espacios de estacionamiento utilizando la localización geográfica y un **sensor infrarrojo** para una gestión más eficiente y automatizada. Basado en un modelo de negocio independiente y sostenible, **PARKINGNOW** se adapta tanto a usuarios frecuentes como a usuarios ocasionales mediante un sistema de transacciones. La innovación de **PARKINGNOW** radica en la integración de datos en tiempo real, incluidos los datos proporcionados por un sensor infrarrojo, para garantizar la disponibilidad de espacios y optimizar las rutas hacia los estacionamientos más cercanos. Este sensor infrarrojo detecta la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Cuando un vehículo ocupa o deja un espacio, el sensor infrarrojo envía una señal a la plataforma para actualizar la disponibilidad en tiempo real, mejorando así la eficiencia y la experiencia del usuario.
+**PARKINGNOW** es una empresa emergente del ámbito tecnológico que se especializa en ofrecer una solución completa para la gestión de estacionamientos en tiempo real. A través de su plataforma digital, los usuarios pueden reservar y pagar por espacios de estacionamiento mediante el uso de tecnología de geolocalización y sensores infrarrojos, lo que permite una administración más automatizada y eficiente. Con un modelo de negocio independiente y sostenible, **PARKINGNOW** está diseñado tanto para usuarios frecuentes como para aquellos que lo utilizan de forma ocasional, facilitando las transacciones entre ambos. La innovación clave de **PARKINGNOW** radica en el uso de datos en tiempo real, obtenidos a través de sensores infrarrojos, que garantizan la disponibilidad de espacios y optimizan las rutas hacia los estacionamientos más cercanos. Estos sensores detectan la presencia de vehículos interrumpiendo una señal de luz, y al ocupar o desocupar un espacio, el sensor envía una señal a la plataforma que actualiza automáticamente la información disponible, mejorando así la eficiencia y la experiencia del usuario.
 
-**Misión**: Ser el puente entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** facilita el acceso a espacios de estacionamiento utilizando un sensor infrarrojo para una gestión automatizada y eficiente, contribuyendo a la rentabilidad de quienes los poseen y cubriendo así las necesidades de ambos segmentos de mercado.
+**Misión**: Facilitar la conexión entre conductores y propietarios de estacionamientos, optimizando la experiencia de estacionamiento en tiempo real. **PARKINGNOW** utiliza sensores infrarrojos para automatizar la gestión de espacios, incrementando la rentabilidad para los propietarios y satisfaciendo las necesidades de ambos segmentos del mercado.
 
-**Visión**: Convertirnos en la plataforma líder en la gestión de estacionamientos urbanos en los próximos 5 años, mejorando la movilidad en las ciudades mediante soluciones tecnológicas innovadoras y sostenibles, como el uso de un sensor infrarrojo, que beneficien tanto a conductores como a propietarios de estacionamientos.
-
+**Visión**: Convertirse en la principal plataforma de gestión de estacionamientos urbanos en un plazo de cinco años, promoviendo una movilidad urbana más eficiente a través de soluciones tecnológicas innovadoras y sostenibles, como el uso de sensores infrarrojos, que beneficien tanto a los conductores como a los dueños de estacionamientos.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -187,171 +186,175 @@ En esta sección describiremos la descripción de nuestra Startup.
 
 ### 1.2. Solution Profile
 
-**PARKINGNOW** es una solución innovadora diseñada para transformar la experiencia de estacionamiento en las ciudades. Ofrece una plataforma digital que permite a los usuarios encontrar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando la localización geográfica y un **sensor infrarrojo**. Nuestra tecnología emplea este sensor para detectar automáticamente la presencia de vehículos en los espacios de estacionamiento al percibir cuando un objeto interrumpe su señal de luz. Esto permite actualizar en tiempo real la disponibilidad de los espacios y dirigir a los conductores hacia los estacionamientos más cercanos, optimizando sus rutas y reduciendo el tiempo de búsqueda. Esta funcionalidad mejora significativamente la experiencia de los conductores al proporcionar información precisa y en tiempo real sobre la disponibilidad de espacios. En resumen, **PARKINGNOW** ofrece una solución integral para los desafíos del estacionamiento urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+
+**PARKINGNOW** es una solución innovadora creada para revolucionar la experiencia de estacionamiento en entornos urbanos. La plataforma digital que ofrecemos permite a los usuarios localizar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando tecnología de geolocalización y un **sensor infrarrojo**. Este sensor detecta automáticamente la presencia de vehículos al registrar la interrupción de su señal lumínica. Gracias a esto, la disponibilidad de los espacios se actualiza instantáneamente, facilitando a los conductores la localización de los estacionamientos más cercanos, optimizando sus rutas y disminuyendo el tiempo de búsqueda. Esta funcionalidad mejora considerablemente la experiencia de los usuarios, ya que proporciona datos precisos y en tiempo real sobre los espacios disponibles. En resumen, **PARKINGNOW** ofrece una solución completa para abordar los retos del estacionamiento urbano, beneficiando tanto a los conductores como a los dueños de los estacionamientos.
 
 
 ### 1.2.1. Antecedentes y problemática
 
-En las ciudades con alto movimiento vehicular, es común ver vehículos estacionados de manera indebida, invadiendo veredas o interrumpiendo el flujo vehicular. Esta situación es un problema recurrente para los conductores que enfrentan la dificultad de encontrar estacionamiento, un desafío que se intensifica en áreas urbanas congestionadas. La demanda de espacios de estacionamiento es alta, y la información disponible sobre su disponibilidad suele ser limitada o desactualizada. Además, la ausencia de herramientas para reservar un espacio con anticipación agrava la frustración y aumenta el tiempo que los conductores deben invertir para encontrar un lugar donde estacionarse.
+En las ciudades con gran flujo vehicular, es frecuente observar vehículos mal estacionados, ocupando aceras o dificultando el tránsito. Esta situación representa un problema habitual para los conductores que encuentran dificultades para hallar un espacio donde estacionar, algo que se agrava en las zonas urbanas con mayor tráfico. La demanda de estacionamientos es elevada y la información disponible sobre la ocupación de estos espacios suele ser escasa o desactualizada. Asimismo, la falta de herramientas para reservar un lugar con anticipación incrementa la frustración y el tiempo que los conductores deben invertir en buscar dónde aparcar.
 
-Para entender mejor las necesidades de nuestros usuarios y alinear nuestro enfoque con los principios de Lean UX, hemos realizado un análisis de antecedentes y la problemática utilizando la técnica de "5W’s & 2H’s", una herramienta esencial en Lean UX para identificar oportunidades de diseño centrado en el usuario. A continuación, se presenta la información recopilada:
+Con el fin de comprender mejor las necesidades de nuestros usuarios y alinear nuestra estrategia con los principios de **Lean UX**, llevamos a cabo un análisis de los antecedentes y problemas utilizando la técnica de "5W's & 2H's", una metodología clave en **Lean UX** para identificar oportunidades de diseño centradas en el usuario. A continuación, se presenta la información obtenida:
 
 #### What
 
 **¿Cuál es el problema?**  
-El principal problema que **PARKINGNOW** busca resolver es la falta de estacionamientos disponibles y adecuados, lo que lleva a los conductores a estacionarse en zonas no permitidas, generando congestión y exponiéndose a riesgos como multas o robos. Además, la falta de tecnologías avanzadas para la gestión de espacios, como los sensores infrarrojos, limita la capacidad de los estacionamientos para manejar la disponibilidad en tiempo real.
+El principal reto que **PARKINGNOW** pretende solucionar es la falta de disponibilidad y adecuación de espacios de estacionamiento, lo que obliga a los conductores a aparcar en áreas no permitidas, generando congestión y exponiéndose a sanciones o robos. Además, la falta de tecnologías avanzadas como sensores infrarrojos limita la capacidad de los estacionamientos para gestionar la ocupación en tiempo real.
 
 #### When
 
-**¿Cuándo sucede el problema?**  
-El problema ocurre principalmente durante las horas pico, cuando la demanda de espacios de estacionamiento es mayor y los conductores no encuentran un lugar disponible que cumpla con sus expectativas.
+**¿Cuándo ocurre el problema?**  
+El problema se presenta principalmente en las horas de mayor afluencia, cuando la demanda de espacios de estacionamiento es más alta y los conductores no logran encontrar un lugar que cumpla con sus expectativas.
 
-**¿Cuándo utiliza el cliente el producto?**  
-Los clientes utilizan **PARKINGNOW** para verificar la disponibilidad de estacionamientos en tiempo real, realizar reservas, comparar tarifas y asegurarse de que el estacionamiento seleccionado cumpla con sus expectativas, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
+**¿Cuándo usan los clientes el producto?**  
+Los clientes recurren a **PARKINGNOW** para comprobar la disponibilidad de estacionamientos en tiempo real, hacer reservas, comparar tarifas y asegurarse de que el estacionamiento elegido satisfaga sus necesidades, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
 
 #### Where
 
 **¿Dónde surge el problema?**  
-El problema surge en áreas urbanas congestionadas donde los estacionamientos son escasos y la información sobre su disponibilidad es limitada o inaccesible. La falta de sistemas automatizados como sensores infrarrojos contribuye a la escasez de información precisa en tiempo real.
+El problema aparece en zonas urbanas densamente pobladas, donde los estacionamientos son escasos y la información sobre su disponibilidad es limitada o inaccesible. La falta de sistemas automatizados, como los sensores infrarrojos, contribuye a la falta de datos precisos y actualizados.
 
 #### Who
 
-**¿Quiénes están involucrados?**  
-Los principales involucrados en el problema son los conductores que necesitan un estacionamiento disponible, seguro y asequible, y los propietarios de estacionamientos que buscan optimizar la ocupación de sus espacios y atraer más clientes mediante tecnología avanzada como los sensores infrarrojos.
+**¿Quiénes están implicados?**  
+Los principales afectados son los conductores que necesitan estacionamientos disponibles, seguros y asequibles, y los propietarios de estacionamientos que buscan maximizar la ocupación de sus espacios y atraer más clientes a través de tecnologías avanzadas como los sensores infrarrojos.
 
-**¿A quiénes le sucede el problema?**  
-El problema afecta a todos los conductores que buscan estacionamiento, independientemente de su edad, género, ubicación o tipo de vehículo.
+**¿A quiénes afecta el problema?**  
+Este problema afecta a todos los conductores que buscan estacionamiento, sin importar su edad, género, ubicación o tipo de vehículo.
 
 **¿Quién utilizará el producto?**  
-El producto será utilizado por personas que viajan a diario, turistas, estudiantes, y cualquier conductor que necesite estacionar su vehículo en un lugar seguro y conveniente que se ajuste a sus preferencias y presupuesto.
+El producto está dirigido a personas que conducen de forma habitual, turistas, estudiantes y cualquier conductor que necesite aparcar su vehículo en un lugar seguro y conveniente que se ajuste a sus preferencias y presupuesto.
 
 #### Why
 
-**¿Por qué sucede el problema?**  
-El problema surge debido a la falta de sistemas tecnológicos avanzados en los estacionamientos tradicionales, como los sensores infrarrojos, que impiden la comunicación en tiempo real sobre la disponibilidad de espacios. Esto crea una desconexión entre la oferta y la demanda.
+**¿Por qué ocurre el problema?**  
+La falta de sistemas tecnológicos avanzados en los estacionamientos tradicionales, como los sensores infrarrojos, impide la actualización en tiempo real sobre la disponibilidad de espacios, creando una desconexión entre la oferta y la demanda.
 
-**¿Qué llevó al usuario a esta situación?**  
-La falta de información actualizada y la ausencia de herramientas eficientes para gestionar la disponibilidad de estacionamiento, como los sensores infrarrojos, conducen a situaciones en las que los conductores no encuentran espacios que satisfagan sus necesidades.
+**¿Qué llevó a los usuarios a esta situación?**  
+La ausencia de información actualizada y la falta de herramientas eficaces para gestionar la ocupación de los espacios, como los sensores infrarrojos, han hecho que los conductores no logren encontrar espacios que se adapten a sus necesidades.
 
 #### How
 
-**¿En qué condiciones los clientes usan nuestro producto?**  
-Los clientes pueden usar **PARKINGNOW** en diversas situaciones, como al planificar un viaje a una nueva ciudad, al buscar estacionamientos que se ajusten a sus preferencias, o durante eventos importantes donde encontrar estacionamiento puede ser más difícil. Los sensores infrarrojos proporcionan información en tiempo real, mejorando la experiencia del usuario.
+**¿En qué situaciones usan los clientes nuestro producto?**  
+Los clientes pueden utilizar **PARKINGNOW** en una amplia variedad de situaciones, como al planificar un viaje, buscar estacionamientos que se ajusten a sus necesidades o durante eventos concurridos donde encontrar un lugar puede ser complicado. Los sensores infrarrojos ofrecen información en tiempo real, lo que mejora la experiencia del usuario.
 
 **¿Cómo nos conocerán los usuarios?**  
-Los usuarios nos conocerán a través de campañas publicitarias en redes sociales que destacarán los beneficios y ventajas de **PARKINGNOW**, incluyendo la tecnología avanzada como los sensores infrarrojos para una gestión de estacionamiento más eficiente.
+Nos daremos a conocer a través de campañas publicitarias en redes sociales que resaltarán las ventajas y beneficios de **PARKINGNOW**, como el uso de tecnología avanzada, incluyendo los sensores infrarrojos para una gestión más eficiente del estacionamiento.
 
 #### How much
 
-**¿En qué cantidad sucede el problema?**  
-El problema de la falta de seguridad y disponibilidad de estacionamientos es significativo. Los constantes robos de vehículos y las multas por estacionamiento indebido son problemas comunes que afectan a muchos conductores. La falta de tecnología de detección como sensores infrarrojos agrava estos problemas.
+**¿Con qué frecuencia ocurre el problema?**  
+La falta de seguridad y disponibilidad de estacionamientos es un problema recurrente. Los robos de vehículos y las multas por estacionamientos indebidos son incidentes comunes que afectan a numerosos conductores. La ausencia de tecnologías de detección, como los sensores infrarrojos, exacerba estos problemas.
+
+
 
 ### 1.2.2. Lean UX Process
 
-En esta sección se realizará el proceso de Lean UX, que abarca la visión del modelo de negocio que será soportado por nuestro producto de software. Gracias a este enfoque metodológico, podemos dirigir nuestra atención hacia el diseño de nuestra solución y los problemas identificados mediante el pensamiento de diseño.
+En esta sección se llevará a cabo el **Lean UX Process**, que incluye la visión del modelo de negocio que sustentará nuestro producto de software. Gracias a este enfoque metodológico, podemos centrar nuestra atención en el diseño de la solución y en los problemas identificados mediante **design thinking**.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-A continuación, empleamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para orientar a nuestro equipo de trabajo en la creación de un servicio sin restricciones que puedan limitar la creatividad y la agilidad. Este enfoque nos impulsa a pensar en nuestro trabajo en términos que respondan a las necesidades de los clientes y nos prepara para un lanzamiento exitoso de nuestra idea.
+A continuación, usamos la plantilla de **Business Opportunity Statements** (Gothelf, 2022) para guiar a nuestro equipo en la creación de un servicio sin barreras que limiten la creatividad o la flexibilidad. Este enfoque nos anima a abordar nuestro trabajo de una manera que responda a las necesidades de los clientes y nos prepare para un exitoso lanzamiento de la idea.
 
 **Plantilla de Business Opportunity Statement:**
 
-El estado actual de [domain] se ha centrado principalmente en [segments, pain points, etc.]
+El estado actual de [domain] se ha enfocado principalmente en [segments, pain points, etc.]
 
-Lo que los productos/servicios existentes no logran abordar es [this gap].
+Lo que los productos/servicios actuales no logran abordar es [this gap].
 
-Nuestro producto/servicio abordará esta brecha mediante [vision / strategy].
+Nuestro producto/servicio resolverá esta brecha mediante [vision/strategy].
 
 Nuestro enfoque inicial será [this segment].
 
-Sabremos que tenemos éxito cuando veamos [these behaviors in our target audience].
+Sabremos que hemos tenido éxito cuando observemos [these behaviors in our target audience].
 
 **PARKINGNOW Lean UX Problem Statements:**
 
-- El estado actual de los servicios de estacionamiento en áreas urbanas se ha centrado principalmente en la disponibilidad limitada de espacios y en la falta de opciones para reservar con anticipación, lo que lleva a la frustración de los conductores y al uso indebido de espacios de estacionamiento.
+- Actualmente, los servicios de estacionamiento en áreas urbanas están mayormente enfocados en la oferta limitada de espacios y la falta de opciones para realizar reservas anticipadas, lo que genera frustración en los conductores y conduce al mal uso de los espacios de estacionamiento.
 
-- Lo que los productos/servicios existentes no logran abordar es la falta de información en tiempo real sobre la disponibilidad de espacios y la optimización de rutas hacia los estacionamientos más cercanos.
+- Lo que los productos/servicios actuales no consiguen resolver es la falta de información en tiempo real sobre la disponibilidad de espacios y la optimización de rutas hacia los estacionamientos más cercanos.
 
-- Nuestro producto/servicio abordará esta brecha mediante el desarrollo e implementación de una plataforma digital que utiliza la localización geográfica y datos en tiempo real proporcionados por un sensor infrarrojo para informar a los conductores sobre la disponibilidad de espacios y optimizar sus rutas de manera eficiente.
+- Nuestro producto/servicio abordará este vacío mediante el desarrollo y la implementación de una plataforma digital que utiliza la localización geográfica y datos en tiempo real proporcionados por un sensor infrarrojo para proporcionar a los conductores información sobre la disponibilidad de espacios y optimizar sus rutas de manera efectiva.
 
-- Nuestro enfoque inicial será captar el mercado de conductores urbanos en ciudades con alta congestión vehicular, donde la necesidad de soluciones de estacionamiento eficientes es mayor.
+- Nuestro enfoque inicial será captar a los conductores urbanos en ciudades con alta congestión vehicular, donde la demanda de soluciones eficientes de estacionamiento es más elevada.
 
-- Sabremos que tenemos éxito cuando veamos un aumento significativo en las reservas de estacionamientos a través de nuestra plataforma y una reducción en el tiempo promedio que los conductores dedican a buscar un espacio de estacionamiento.
+- Sabremos que hemos logrado el éxito cuando veamos un aumento considerable en las reservas de estacionamiento a través de nuestra plataforma y una reducción en el tiempo promedio que los conductores dedican a encontrar un espacio disponible.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Users:**
 
-- Conductores urbanos que buscan estacionamiento en tiempo real en áreas urbanas congestionadas.
-- Propietarios de estacionamientos que desean optimizar la ocupación de sus espacios y mejorar la comunicación con los clientes mediante el uso de sensores infrarrojos.
-- Empresas y servicios de transporte que requieren soluciones rápidas y eficientes para estacionar sus flotas.
+- Conductores urbanos que buscan espacios de estacionamiento en tiempo real en áreas congestionadas.
+- Propietarios de estacionamientos interesados en mejorar la ocupación de sus espacios y optimizar la comunicación con los clientes mediante sensores infrarrojos.
+- Empresas y servicios de transporte que necesitan soluciones rápidas y efectivas para estacionar sus flotas.
 
 **User Outcomes:**
 
 **Segmento de Conductores:**
 
-- Acceder a una plataforma en línea que facilite la búsqueda y reserva de estacionamientos disponibles en tiempo real gracias al uso de sensores infrarrojos.
-- Utilizar la aplicación para optimizar las rutas hacia los estacionamientos más cercanos y ahorrar tiempo.
-- Verificar la disponibilidad de espacios y tarifas de estacionamiento antes de llegar a su destino.
+- Acceso a una plataforma en línea que facilite la búsqueda y reserva de espacios disponibles en tiempo real, gracias a la tecnología de sensores infrarrojos.
+- Uso de la aplicación para optimizar las rutas hacia los estacionamientos más cercanos, ahorrando tiempo.
+- Comprobación de la disponibilidad y las tarifas de los espacios de estacionamiento antes de llegar al destino.
 
 **Segmento de Propietarios de Estacionamientos:**
 
-- Promocionar sus espacios de estacionamiento a una audiencia más amplia de conductores.
-- Gestionar todas las reservas y comunicaciones con los clientes desde una sola plataforma utilizando tecnología avanzada de sensores.
-- Mejorar la tasa de ocupación de sus espacios mediante herramientas de análisis y optimización proporcionadas por la plataforma.
+- Promocionar sus espacios de estacionamiento a un mayor número de conductores.
+- Gestionar reservas y comunicaciones con los clientes desde una única plataforma con tecnología de sensores avanzada.
+- Aumentar la ocupación de sus espacios mediante herramientas de análisis y optimización provistas por la plataforma.
 
 **Suposiciones de Negocios:**
 
-- Creemos que existe una demanda creciente de soluciones eficientes para encontrar y reservar espacios de estacionamiento en áreas urbanas congestionadas.
-- Aunque reconocemos la competencia en el sector de estacionamiento, estamos seguros de que podemos destacarnos ofreciendo una plataforma en línea que utilice datos en tiempo real proporcionados por sensores infrarrojos para mejorar la experiencia tanto para los conductores como para los propietarios de estacionamientos.
-- Creemos que los usuarios valorarán la conveniencia, la transparencia y la eficiencia de una plataforma que les permita encontrar y reservar estacionamientos en tiempo real.
+- Consideramos que existe una demanda creciente por soluciones eficientes que faciliten la búsqueda y reserva de estacionamientos en zonas urbanas con alta congestión.
+- A pesar de la competencia en el sector, creemos que podemos diferenciarnos ofreciendo una plataforma en línea que utilice datos en tiempo real mediante sensores infrarrojos, mejorando la experiencia tanto para los conductores como para los propietarios de estacionamientos.
+- Pensamos que los usuarios valorarán la conveniencia, transparencia y eficiencia de una plataforma que les permita encontrar y reservar espacios de estacionamiento en tiempo real.
 
 **Suposiciones de Usuarios:**
 
-- **¿Quién utiliza nuestra plataforma?** Nuestra plataforma es utilizada por conductores urbanos que necesitan estacionar sus vehículos de manera segura y conveniente, así como por propietarios de estacionamientos que desean maximizar la ocupación de sus espacios.
-- **¿Cómo se integra nuestro producto en la rutina diaria?** Nuestro producto se integra en la rutina diaria de los conductores al proporcionar una solución rápida y fácil de usar para encontrar y reservar estacionamientos, reduciendo así el tiempo dedicado a buscar espacios gracias al uso de sensores infrarrojos.
-- **¿Cuáles son los desafíos que aborda nuestro producto?** **PARKINGNOW** aborda los desafíos de la falta de información en tiempo real sobre la disponibilidad de estacionamientos y la optimización de rutas hacia los espacios más cercanos.
-- **¿Qué imagen deseamos proyectar con nuestro producto?** Deseamos proyectar una imagen de eficiencia, confiabilidad e innovación. Queremos que **PARKINGNOW** sea visto como la solución líder en la industria de estacionamiento urbano.
-- **¿Cuál es el propósito fundamental de nuestra aplicación?** El propósito fundamental de **PARKINGNOW** es facilitar el proceso de búsqueda, reserva y gestión de espacios de estacionamiento para conductores urbanos y propietarios de estacionamientos.
-- **¿Qué funcionalidades destacan en nuestra aplicación?** Las funcionalidades destacadas incluyen la búsqueda avanzada de estacionamientos basada en localización y disponibilidad en tiempo real, la reserva en línea de espacios, la optimización de rutas y herramientas de análisis para propietarios de estacionamientos.
+- **¿Quién usa nuestra plataforma?** Nuestra plataforma es utilizada por conductores urbanos que necesitan estacionar de forma segura y conveniente, y por propietarios de estacionamientos que desean maximizar el uso de sus espacios.
+- **¿Cómo se integra nuestro producto en la rutina diaria?** Nuestro producto se adapta a la rutina diaria de los conductores al proporcionar una solución rápida y sencilla para encontrar y reservar espacios, reduciendo el tiempo dedicado a buscar estacionamiento mediante sensores infrarrojos.
+- **¿Qué problemas resuelve nuestro producto?** **PARKINGNOW** resuelve la falta de información en tiempo real sobre la disponibilidad de estacionamientos y optimiza las rutas hacia los espacios más cercanos.
+- **¿Qué imagen queremos proyectar con nuestro producto?** Queremos que **PARKINGNOW** se perciba como una solución innovadora, confiable y eficiente, destacándonos en la industria del estacionamiento urbano.
+- **¿Cuál es el objetivo principal de nuestra aplicación?** El propósito de **PARKINGNOW** es hacer más fácil el proceso de búsqueda, reserva y gestión de espacios de estacionamiento tanto para conductores urbanos como para propietarios de estacionamientos.
+- **¿Qué funcionalidades son clave en nuestra aplicación?** Las funciones clave incluyen la búsqueda avanzada basada en la localización y la disponibilidad en tiempo real, la reserva en línea, la optimización de rutas y las herramientas de análisis para los propietarios de estacionamientos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [We believe that], [This will achieve] y [We will have demonstrated this when].
+Para formular las **Hypothesis Statements**, hemos seguido el formato de **Lean UX**: [We believe that], [This will achieve], y [We will have demonstrated this when].
 
 **Hipótesis 1:**
 
-- Creemos que si simplificamos el proceso de búsqueda y reserva de espacios de estacionamiento en nuestra plataforma utilizando sensores infrarrojos, esto logrará aumentar significativamente la cantidad de usuarios recurrentes, proyectando un aumento del 30% en la tasa de clientes que regresan dentro de los primeros seis meses de implementación.
+- Creemos que simplificando el proceso de búsqueda y reserva de estacionamientos a través de nuestra plataforma con el uso de sensores infrarrojos, aumentaremos significativamente el número de usuarios recurrentes, proyectando un incremento del 30% en clientes recurrentes dentro de los primeros seis meses de implementación.
 
-- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la cantidad de reservas realizadas por usuarios recurrentes durante el mismo período.
+- **Sabremos que hemos tenido éxito cuando observemos** un aumento del 30% en las reservas realizadas por usuarios recurrentes en el mismo periodo.
 
 **Hipótesis 2:**
 
-- Creemos que si implementamos un sistema de notificación en tiempo real sobre la disponibilidad de espacios de estacionamiento mediante sensores infrarrojos, esto logrará reducir el tiempo promedio de búsqueda de estacionamiento en un 20%.
+- Creemos que al implementar un sistema de notificaciones en tiempo real sobre la disponibilidad de espacios de estacionamiento, utilizando sensores infrarrojos, lograremos reducir el tiempo promedio de búsqueda en un 20%.
 
-- **Sabremos que estamos en lo cierto cuando observemos** una reducción del 20% en el tiempo promedio que los usuarios pasan buscando estacionamiento después de la implementación.
+- **Sabremos que hemos tenido éxito cuando observemos** una reducción del 20% en el tiempo promedio que los usuarios pasan buscando estacionamiento tras la implementación.
 
 **Hipótesis 3:**
 
-- Creemos que si ofrecemos descuentos exclusivos para usuarios frecuentes, esto logrará aumentar la conversión de usuarios ocasionales a usuarios frecuentes, proyectando un aumento del 25% en la cantidad de usuarios frecuentes dentro de los primeros seis meses de implementación.
+- Creemos que al ofrecer descuentos exclusivos a los usuarios frecuentes, lograremos convertir a más usuarios ocasionales en recurrentes, proyectando un aumento del 25% en usuarios frecuentes dentro de los primeros seis meses.
 
-- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 25% en la cantidad de usuarios que utilizan nuestra plataforma más de una vez al mes.
+- **Sabremos que hemos tenido éxito cuando observemos** un aumento del 25% en usuarios que utilicen nuestra plataforma más de una vez al mes.
 
 **Hipótesis 4:**
 
-- Creemos que si mejoramos la función de optimización de rutas en nuestra plataforma, permitiendo a los usuarios llegar más rápidamente a los estacionamientos gracias a la información proporcionada por sensores infrarrojos, esto logrará aumentar la satisfacción del usuario y reducir la frustración durante la búsqueda de estacionamiento.
+- Creemos que mejorando la optimización de rutas dentro de nuestra plataforma, permitiendo que los usuarios lleguen más rápido a los estacionamientos gracias a la información en tiempo real proporcionada por sensores infrarrojos, aumentaremos la satisfacción del usuario y reduciremos la frustración durante la búsqueda de espacios.
 
-- **Sabremos que estamos en lo cierto cuando observemos** un aumento en las calificaciones de satisfacción del usuario y una reducción en las quejas relacionadas con la búsqueda de estacionamiento.
+- **Sabremos que hemos tenido éxito cuando observemos** una mejora en las calificaciones de satisfacción del usuario y una disminución en las quejas relacionadas con la búsqueda de estacionamientos.
 
 **Hipótesis 5:**
 
-- Creemos que si implementamos un programa de fidelización que recompense a los usuarios por el uso continuo de nuestra plataforma, esto logrará aumentar la retención de clientes y el crecimiento orgánico de nuestra base de usuarios, proyectando un aumento del 30% en la retención de clientes dentro de los primeros seis meses de implementación del programa.
+- Creemos que si implementamos un programa de fidelización que recompense a los usuarios por el uso continuo de nuestra plataforma, lograremos incrementar la retención de clientes y fomentar un crecimiento orgánico en nuestra base de usuarios, proyectando un aumento del 30% en la retención de clientes dentro de los primeros seis meses.
 
-- **Sabremos que estamos en lo cierto cuando observemos** un aumento del 30% en la retención de clientes y un incremento en el número de usuarios que refieren a otros conductores a la plataforma.
-  
+- **Sabremos que hemos tenido éxito cuando observemos** un aumento del 30% en la retención de clientes y un incremento en la cantidad de usuarios que refieren a otros conductores a nuestra plataforma.
+
 ##### 1.2.2.4. Lean UX Canvas
 
-El Lean UX Canvas de PARKINGNOW identifica los problemas de los conductores para encontrar estacionamiento y de los propietarios para maximizar su uso. Propone soluciones como sensores infrarrojos y sistemas de reserva anticipada para mejorar la eficiencia y satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
+El **Lean UX Canvas** de **PARKINGNOW** identifica los problemas a los que se enfrentan los conductores al buscar estacionamiento y las dificultades de los propietarios para maximizar la ocupación de sus espacios. Se proponen soluciones como los sensores infrarrojos y los sistemas de reservas anticipadas para mejorar la eficiencia y la satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
+
 
 <p align="center">
   <img src="Assets/LeanUXCanvas.png" alt="Lean UX Canvas" style="max-width: 70%; height: auto;" />
