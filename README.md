@@ -1272,8 +1272,8 @@ Presentamos los primeros diseños de la **Landing Page** y la aplicación web.
 ![WireframeLP2](Assets/LandingPageWireframe2.png)
 
 #### 4.3.2. Landing Page Mock-up
-![MockupLP1](Assets/LandingPageMockup1.png)
-![MockupLP2](Assets/LandingPageMockup2.png)
+![alt text](Assets/LandingPageMockUp1.png)
+![alt text](Assets/LandingPageWireframe2.png)
 
 ### 4.4. Web Applications UX/UI Design
 
