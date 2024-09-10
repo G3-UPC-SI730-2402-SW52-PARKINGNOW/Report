@@ -1120,8 +1120,8 @@ La tipografía en **PARKINGNOW** desempeña un papel fundamental en la claridad 
 
 Para este proyecto, hemos utilizado dos fuentes tipográficas: la primera es **Kalam** y la segunda es **Tinos**.
 
-
 ![alt text](Assets/Typograpy.png)
+
 
 **Colors**
 
