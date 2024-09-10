@@ -64,8 +64,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Alonso Cacho Seminario *TB1:*** Participé en las secciones del capítulo 2 relacionadas con el diseño, grabación y análisis de entrevistas, además de las encuestas realizadas a nuestros segmentos objetivo. Colaboré en el primer Sprint para esta entrega.<br>**Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5. <br> **Rodrigo Liberato *TB1:*** Para este entregable, comunique a mis compañeros todos mis avances y cambios que aporte, apoye a los que lo necesitaban y mis aportes significativos fueron en el capitulo 2, analisis de los competidores, capitulo 4, Wireframe y Mockup design, asi como sus Flow, y por ultimo, diseñe la base de datos e hice el PPT para la presentacion. <br>**Omar Harold Rivera Ticllacuri *TB1:*** Durante el desarrollo del proyecto participe de manera activa contribuyendo con el Capitulo 2, con el desarrollo del diseño de los segmentos de user persona,  el Landing Page, y partes del Capitulo 5. Logrando asi los objetivos establecidos para esta entrega. <br>**Molina Asencios Samuel Elias *TB1:*** Durante el desarrollo del proyecto participe de manera activa preguntando y revisando la rubrica, tambien hize el desarrollo de los escenarios As-is para ambos segmentos  y agregue el lenguaje ubiquo que se usara en nuestro sistema luego desarrolle el diagrama de componentes para nuestro aplicativo movil| La participación activa en las entrevistas y análisis de los resultados permitió identificar las necesidades clave de los usuarios, lo que contribuyó a la mejora continua del producto durante los Sprints. La comunicación efectiva fue crucial para asegurar que el equipo técnico comprendiera los requerimientos y los stakeholders estuvieran alineados con los objetivos del proyecto.  |
-| **crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           | **Diego Alonso Cacho Seminario *TB1:*** Realicé las correcciones necesarias dadas por mis compañeros respecto a los puntos con los que aporté para la TB1, además subí correctamente mis aportes al repositorio en línea, respetando el formato requerido.<br>**Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br> **Rodrigo Liberato** TB1: Para este entregable, los aportes que realize por escrito fueron los commits que realize por Git y los analisis de los competidores. <br>**Omar Harold Rivera Ticllacuri *TB1:***  En el Capitulo 2, contribui al desarrollar los user person, user task matrix y user Journey Mapping. En el Capitulo 4, el desarrollo del Style Guidelines y Landing Page UI Design. En el capitulo 5, trabaje en el desarrollo del Sprint 1 del  Landing Page, Services & Applications Implementation. Y finalmente, desarrolle el Landing Page <br>**Molina Asencios Samuel Elias *TB1:***  Para este entregable desarrolle parte de el punto 4 que consistia en el desarrollo de los diagramas de componentes para el desarrollo de este componente se uso structurizer segun la rubrica | La gestión adecuada de las correcciones y el seguimiento del formato mejoraron la calidad de los documentos del equipo, garantizando una estructura clara y coherente en los entregables. La documentación precisa de los capítulos permitió que el equipo y los stakeholders tuvieran una referencia sólida para cada fase del proyecto. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5. | La participación activa fue fundamental para guiar al equipo en la comprensión de los objetivos y la dirección del proyecto. Su capacidad para comunicar las metas y explicar la problemática de manera clara y efectiva permitió que todos los miembros estuvieran alineados en el desarrollo de las soluciones. La presentación de los resultados del análisis de requerimientos y pruebas facilitó que el equipo técnico tuviera una visión clara de los pasos a seguir. Gracias a su liderazgo y su participación en estas tareas clave, se logró un avance constante en el proyecto, sentando las bases para futuras iteraciones de mejora. Su contribución fue esencial para la cohesión del equipo y el cumplimiento de los plazos establecidos. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. | La contribución  en la documentación y planificación del proyecto fue determinante para el éxito del equipo. Su habilidad para crear un entorno de trabajo inclusivo, asegurando que todos los miembros estuvieran informados y alineados con los objetivos del proyecto, ayudó a que las tareas se completaran de manera eficiente. La claridad y precisión en la documentación del perfil de la startup y los requerimientos del sistema establecieron una base sólida para el desarrollo. Al colaborar en el diseño del sistema y las configuraciones de implementación, se aseguró de que cada fase del proyecto estuviera bien organizada y alineada con las expectativas. Su capacidad para planificar y cumplir con los objetivos propuestos permitió que el equipo avanzara con seguridad y sin contratiempos, mejorando la calidad de los entregables en cada iteración. |
 
 
 
@@ -1409,99 +1409,102 @@ Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
-### 5.1. Software Configuration Management
+### 5.1. Gestión de la Configuración del Software
 
-Se definen convenciones para mantener la coherencia en el desarrollo del software, alineando al equipo en el uso de herramientas, prácticas de codificación y procesos de despliegue.
+Se establecen directrices para garantizar la coherencia en el desarrollo del software, unificando al equipo en el uso de herramientas, normas de codificación y métodos de implementación.
 
-#### 5.1.1. Software Development Environment Configuration
+#### 5.1.1. Configuración del Entorno de Desarrollo de Software
 
-En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
+A continuación se detallan las diversas herramientas de software que el equipo ha utilizado para llevar a cabo las tareas del proyecto **PARKINGNOW**.
 
-##### Product UX/UI Design
+##### Diseño UX/UI
 
 1. **UXPressia**: [https://uxpressia.com/](https://uxpressia.com/)  
-   Se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión centrada en el usuario.
+   Herramienta empleada para desarrollar User Personas, Empathy Maps, Journey Maps e Impact Maps, brindando un enfoque centrado en el usuario.
 
 2. **Figma**: [https://www.figma.com/](https://www.figma.com/)  
-   Herramienta de diseño colaborativo utilizada para la creación de wireframes, mock-ups y prototipos de aplicaciones móviles y de escritorio.
+   Plataforma colaborativa de diseño usada para la creación de wireframes, maquetas y prototipos para aplicaciones móviles y de escritorio.
 
 3. **Miro**: [https://miro.com/](https://miro.com/)  
-   Utilizada para la creación de los As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
+   Utilizada para desarrollar los As-Is y To-Be Scenario Maps, facilitando la visualización y planificación de diversos escenarios de uso de la plataforma.
 
-##### Software Development
+##### Desarrollo de Software
 
 4. **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
-   Entorno de desarrollo ligero empleado para la creación del landing page y las aplicaciones web, utilizando HTML5, CSS3, JavaScript y TypeScript.
+   Editor de código ligero utilizado para crear la landing page y aplicaciones web, haciendo uso de HTML5, CSS3, JavaScript y TypeScript.
 
 5. **WebStorm**:  
    Entorno de desarrollo utilizado para trabajar con HTML, CSS, JavaScript y frameworks como Vue y Angular.
 
 6. **Rider**:  
-   Entorno de desarrollo usado para trabajar con el lenguaje C# y la plataforma .NET, utilizada para crear Web Services basados en ASP.NET para el proyecto.
+   IDE utilizado para desarrollar con el lenguaje C# y la plataforma .NET, implementando servicios web basados en ASP.NET.
 
 7. **Spring Boot Framework**:  
-   Framework utilizado para desarrollar servicios web RESTful en Java, proporcionando una base escalable y robusta.
+   Framework utilizado para crear servicios web RESTful en Java, brindando una base sólida y escalable.
 
 8. **GitHub**: [https://github.com/](https://github.com/)  
-   Plataforma de control de versiones utilizada para la gestión del código fuente, aplicando el flujo de trabajo GitFlow para garantizar un desarrollo ordenado.
+   Plataforma usada para el control de versiones, aplicando GitFlow para una gestión estructurada del código.
 
 9. **Git**: [https://git-scm.com/](https://git-scm.com/)  
-   Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
+   Sistema de control de versiones utilizado para manejar los cambios en el código a través de commits, permitiendo la colaboración eficiente entre los desarrolladores.
 
-##### Project Management and Collaboration
+##### Gestión de Proyectos y Colaboración
 
 10. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
-   Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
+    Aplicación de mensajería utilizada para coordinar y discutir temas del proyecto en tiempo real.
 
 11. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
-   Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
+    Utilizado para la creación y edición colaborativa de documentos, permitiendo que varios miembros del equipo trabajen al mismo tiempo.
 
-##### Software Documentation
+##### Documentación de Software
 
 12. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
-   Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
+    Herramienta en línea utilizada para diseñar y gestionar de forma colaborativa las bases de datos del proyecto.
 
 13. **LucidChart**: [https://lucid.app/](https://lucid.app/)  
-   Plataforma utilizada para la creación de diagramas UML, wireflows y user flows, facilitando la visualización y planificación del sistema.
+    Plataforma usada para crear diagramas UML, wireflows y user flows, facilitando la planificación y visualización del sistema.
 
 14. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
-   Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
+    Herramienta empleada para modelar la arquitectura del software utilizando diagramas C4, proporcionando una representación clara de la estructura del proyecto.
 
-##### Software Testing
+##### Pruebas de Software
 
 15. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
-   Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
+    Utilizado para documentar y probar las APIs RESTful creadas con Spring Boot, permitiendo la generación de documentación interactiva.
 
 16. **Markdown**  
-   Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
+    Lenguaje de marcado ligero usado para la documentación del proyecto y en los archivos README del repositorio de la organización.
 
-#### 5.1.2. Source Code Management
+#### 5.1.2. Gestión del Código Fuente
 
-**PARKINGNOW** emplea **Git** y **GitHub** para el control de versiones, siguiendo el flujo de trabajo **GitFlow** con ramas para desarrollo, características, lanzamientos y correcciones. Se promueve el uso de **Conventional Commits** para mensajes claros.
+En **PARKINGNOW**, se utilizan **Git** y **GitHub** para gestionar las versiones del código, siguiendo el flujo de trabajo de **GitFlow**, que organiza el trabajo en ramas para desarrollo, nuevas funcionalidades, lanzamientos y correcciones. Se fomenta el uso de **Conventional Commits** para asegurar que los mensajes de commit sean claros y comprensibles.
 
-##### URL de los Repositorios:
-- **Organización:**  https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW
-- **Reporte:**  https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report
+##### Enlaces a los Repositorios:
+- **Organización:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW
+
+- **Reporte:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report
+
 - **Landing Page:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page
-- **Frontend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend
-- **Backend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend
 
+- **Frontend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend-
+
+- **Backend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend
 
 ### GitFlow
 
-En **PARKINGNOW**, se emplea **GitFlow** para la gestión del código, estructurando el trabajo en distintas ramas para una integración ordenada. Las ramas incluyen:
+En **PARKINGNOW**, el modelo de **GitFlow** se emplea para gestionar el código de manera estructurada, organizando el trabajo en diferentes ramas para facilitar la integración y el desarrollo continuo. Las ramas principales son:
 
-1. **Master Branch:** Contiene las versiones estables.
-2. **Develop Branch:** Para características en desarrollo.
-3. **Feature Branches:** Para nuevas funcionalidades, derivadas de develop y reintegradas tras completarse.
-4. **Release Branches:** Preparan versiones estables desde develop, ajustando detalles finales antes de fusionar en Master.
-5. **Hotfix Branches:** Arreglan errores urgentes en Master y se fusionan en ambas Master y develop.
+1. **Master Branch:** Aquí se almacenan las versiones estables del proyecto.
+2. **Develop Branch:** Esta rama se utiliza para integrar características en desarrollo.
+3. **Feature Branches:** Se crean desde `develop` para desarrollar nuevas funcionalidades, y una vez completadas, se fusionan de nuevo en `develop`.
+4. **Release Branches:** Se crean desde `develop` para preparar las versiones estables, realizando los ajustes finales antes de fusionarlas en `master`.
+5. **Hotfix Branches:** Estas ramas se crean para solucionar errores críticos que requieren ser arreglados rápidamente en la rama `master` y luego se fusionan tanto en `master` como en `develop`.
 
-La implementación de GitFlow se organiza con master como la versión estable, develop para integrar características, y ramas temporales (*feature/*, *release/*, *hotfix/*) para funcionalidades específicas, versiones finales y correcciones urgentes, respectivamente.
+La estructura de **GitFlow** en **PARKINGNOW** se organiza con `master` como la rama que contiene la versión estable del proyecto, `develop` para la integración de nuevas funcionalidades, y ramas temporales como `feature/*`, `release/*` y `hotfix/*` para gestionar nuevas características, versiones de producción y correcciones urgentes, respectivamente.
 
-### Commits Convencionales
+### Convenciones de Commits
 
-Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convención **Conventional Commits**. Estos mensajes deben seguir el formato estándar para facilitar la lectura y entendimiento del historial del proyecto:
+Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convención de **Conventional Commits**. Estos mensajes tienen un formato estándar que ayuda a comprender fácilmente el historial del proyecto:
 
 ```plaintext
 <type>[optional scope]: <description>
@@ -1648,27 +1651,71 @@ Se utiliza la documentación oficial de github para realizar el despliegue del l
    Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
 2. **Acceso a las Configuraciones:**
    Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
+![alt text](Assets/Configuration.png)
 3. **Selección de GitHub Pages:**
    Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+
+![alt text](Assets/GithubPages.png)
 4. **Configuración de la Rama Principal:**
    En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
+   ![alt text](Assets/GithubPages.png)
+
 5. **Confirmación del Deploy:**
    Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
+![alt text](Assets/URL.png)
 6. **Acceso a la Página:**
    Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy.
+![alt text](Assets/Landing.png)
 
+### 5.2. Implementación de Landing Page, Servicios y Aplicaciones
 
-### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
 
-#### 5.2.X. Sprint n
+A continuación veremos sobre la planificacion del sprint 1
 
-##### 5.2.X.1. Sprint Planning n
+##### 5.2.1.1. Planificación del Sprint 1
 
-##### 5.2.X.2. Sprint Backlog n
+| Sprint \# | Sprint 1 |
+| :---: | :---: |
+| **Antecedentes de la Planificación del Sprint** |  |
+| Fecha | 03/09/24 |
+| Hora | 22:10 horas |
+| Ubicación | Reunión virtual \- Zoom |
+| Preparado por | Diego Ulises Soto Quispe |
+| Asistentes | \-Diego Ulises Soto Quispe \-Rodrigo Liberato Saldaña \-Omar Harold Rivera Ticllacuri \-Samuel Elias Molina Asencios \-Loechle Arias Mateo Italo \-Ramos Huamanchumo Javier Aramis |
+| Resumen de la Revisión del Sprint n-1 |  |
+| Resumen de la Retrospectiva del Sprint n-1 |  |
+| **Objetivo del Sprint & Historias de Usuario** |  |
+| Objetivo del Sprint 1 | Landing Page ParkingNow |
+| Velocidad del Sprint 1 | Velocidad de 30 \- Primer Sprint |
+| Suma de Puntos de Historia | Sprint 1 \- 104 Story Points |
 
-##### 5.2.X.3. Development Evidence for Sprint Review
+##### 5.2.1.2. Backlog del Sprint 1
 
-##### 5.2.X.4. Testing Suite Evidence for Sprint Review
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Historia de Usuario |  | Ítem de Trabajo / Tarea |  |  |  |  |  |
+| ID | Título | ID | Título | Descripción | Estimación (Horas) | Asignado a | Estado |
+| SS01 | Sección Header | WT01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
+| SS02 | Sección Inicio | WT02 | Implementación de la sección Inicio | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
+| SS03 | Sección Características | WT03 | Implementación de la sección Características | Realizar la sección de Características | 2 | Loechle Arias Mateo Italo | Done |
+| SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
+| SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+
+##### 5.2.1.3. Evidencia del Desarrollo para la Revisión del Sprint
+
+| Repositorio | Rama | ID del Commit | Mensaje del Commit | Cuerpo del Mensaje del Commit | Fecha del Commit |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page)  | Feature/main | d033f50 | Initial commit | \- | 3 semanas atrás |
+|  | Feature/main | fcff3d9 | Update README.md | \- | 26/09/24 |
+|  | Feature/main | 236b776 | Update README.md | \- | 26/09/24 |
+|  | Feature/main | ab49487 | Update README.md | \- | 27/09/24 |
+|  | Feature/main | 2f0a9d7 | Update README.md | \- | 27/09/24 |
+
+##### 5.2.1.4. Evidencia de la Suite de Pruebas para la Revisión del Sprint
+
+En esta entrega correspondiente al Sprint 1, no se incluye esta sección, ya que el enfoque principal fue el desarrollo de la Landing Page como base. Esta fue completada satisfactoriamente de acuerdo con las necesidades de los usuarios, siguiendo las especificaciones del Sprint Backlog.
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 Tras finalizar el Sprint 1, pudimos implementar todas las secciones de nuestra Landing Page, asegurando que se vea perfectamente. También le dimos un formato llamativo que atrae la atención del usuario hacia sus distintos elementos. Además, incorporamos métodos de navegación en la página, como botones al principio y al final, que permiten desplazarse fácilmente entre las secciones. A continuación, te compartimos imágenes que muestran los avances logrados.
@@ -1730,42 +1777,41 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
 
 Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
 
-**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-**  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+**Link de la Landing Page desplegada:** [PARKINGNOW]
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
 
---ingresar imagen de los commits
+![alt text](Assets/Todos.png)
 
 Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
 
---ingresar imagen de los modificaciones del repositorio del landing page
+
 
 Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
+![alt text](Assets/Network.png)
 
---ingresar imagen de los branchs
 
 
 ### Conclusiones y recomendaciones
 
+El proyecto **PARKINGNOW** ha logrado avances significativos al desarrollar una solución tecnológica integral para abordar los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos que detectan en tiempo real con una plataforma intuitiva para los usuarios, **PARKINGNOW** no solo optimiza la ocupación de los espacios, sino que también simplifica la vida de los conductores urbanos. Esta solución ha demostrado su efectividad al reducir los tiempos de búsqueda de estacionamiento y aumentar la rentabilidad para los propietarios de estos espacios, creando un balance adecuado entre tecnología y experiencia del usuario.
 
-El proyecto PARKINGNOW ha alcanzado avances significativos en la creación de una solución tecnológica integral para resolver los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos de detección en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios de estacionamiento, sino que también facilita el día a día de los conductores urbanos. Esta solución ha demostrado ser eficaz tanto en la reducción de tiempos de búsqueda como en la mejora de la rentabilidad para los dueños de playas de estacionamiento, mostrando un balance ideal entre tecnología y experiencia del usuario.
+Durante todo el desarrollo, se ha priorizado la automatización, lo que ha permitido una integración fluida con los sistemas de gestión de estacionamientos ya existentes. Las entrevistas con usuarios y las pruebas en campo han confirmado que la solución no solo cumple con las expectativas iniciales, sino que va más allá al satisfacer las necesidades de los principales interesados. La aplicación no solo aborda la problemática de encontrar estacionamiento, sino que también contribuye a reducir el tráfico y a una gestión más eficiente de los recursos, alineándose con objetivos de sostenibilidad a largo plazo.
 
-A lo largo del desarrollo, se ha priorizado un enfoque en la automatización, lo que ha permitido la integración fluida con los sistemas de gestión de estacionamientos ya existentes. Las entrevistas de validación con usuarios y pruebas de campo han confirmado que la solución no solo cumple con las expectativas iniciales, sino que supera las necesidades de los principales actores involucrados. La aplicación no solo resuelve el problema de encontrar estacionamiento, sino que contribuye al alivio del tráfico urbano y a una gestión más eficiente de los recursos, alineándose con los objetivos de sostenibilidad a largo plazo.
-
-PARKINGNOW tiene el potencial de consolidarse como un referente en la gestión de estacionamientos urbanos, especialmente en grandes ciudades donde los problemas de tráfico y la falta de espacios de estacionamiento representan un desafío diario. La plataforma ha mostrado una capacidad destacada para escalar y adaptarse a diferentes contextos, tanto en términos geográficos como en la evolución tecnológica.
+**PARKINGNOW** tiene un gran potencial para convertirse en un referente en la gestión de estacionamientos urbanos, especialmente en grandes ciudades donde los problemas de tráfico y falta de espacios de estacionamiento son desafíos constantes. La plataforma ha demostrado ser escalable y adaptable a diversos contextos, tanto geográficos como tecnológicos.
 
 **Recomendaciones:**
 
-1. **Expansión de funcionalidades:** Se recomienda que PARKINGNOW continúe invirtiendo en el desarrollo de nuevas características que agreguen valor para los usuarios y propietarios de estacionamientos. Esto podría incluir la integración de sistemas de pago automatizados, alertas en tiempo real sobre disponibilidad de espacios y la mejora en la personalización de la experiencia del usuario a través de análisis predictivos de patrones de uso. Además, el uso de tecnología avanzada, como inteligencia artificial para pronósticos de ocupación, podría posicionar aún más a PARKINGNOW como un líder en la industria.
+1. **Ampliación de funcionalidades:** Es recomendable que **PARKINGNOW** siga invirtiendo en el desarrollo de nuevas características que aporten más valor a los usuarios y propietarios de estacionamientos. Esto podría incluir la integración de pagos automatizados, notificaciones en tiempo real sobre la disponibilidad de espacios y una mayor personalización de la experiencia del usuario a través de análisis predictivos de comportamiento. Además, el uso de tecnologías avanzadas como la inteligencia artificial para predecir ocupaciones podría posicionar aún más a **PARKINGNOW** como un líder en el sector.
 
-2. **Expansión geográfica y sectorial:** Con el éxito demostrado en los primeros mercados, PARKINGNOW debería buscar expandirse a otras ciudades con alta demanda de estacionamiento y problemas recurrentes de tráfico. Además, explorar nuevas oportunidades en sectores específicos, como aeropuertos, centros comerciales y eventos masivos, podría ampliar aún más el mercado objetivo de la plataforma.
+2. **Expansión geográfica y sectorial:** Con los buenos resultados obtenidos en los mercados iniciales, **PARKINGNOW** debería explorar su expansión a otras ciudades con una alta demanda de estacionamiento y problemas recurrentes de tráfico. Además, la plataforma podría buscar oportunidades en sectores específicos como aeropuertos, centros comerciales y eventos masivos para ampliar aún más su mercado.
 
-3. **Estrategia de marketing y educación:** Para aumentar la adopción de la plataforma, es clave diseñar una campaña de marketing digital dirigida tanto a conductores como a dueños de estacionamientos. El uso de testimonios de usuarios satisfechos y estudios de caso concretos que demuestren la reducción de tiempo y costos puede ser una herramienta eficaz para atraer nuevos usuarios. También es importante educar al público objetivo sobre el impacto positivo que tiene el uso de PARKINGNOW en la mejora del tráfico y la sostenibilidad urbana.
+3. **Estrategia de marketing y educación:** Para aumentar la adopción de la plataforma, se recomienda desarrollar una estrategia de marketing digital dirigida tanto a conductores como a propietarios de estacionamientos. Utilizar testimonios de usuarios satisfechos y estudios de caso que demuestren reducciones en el tiempo de búsqueda y los costos asociados puede ser una herramienta poderosa para atraer nuevos usuarios. También es importante educar al público objetivo sobre los beneficios de **PARKINGNOW** en la reducción del tráfico y el impulso de la sostenibilidad urbana.
 
-4. **Monitoreo y análisis continuo:** A medida que la plataforma crece, es esencial implementar sistemas de análisis continuo de los datos generados por los usuarios y los espacios de estacionamiento. El análisis de grandes volúmenes de datos permitirá la identificación temprana de problemas y la adaptación rápida a las necesidades cambiantes del mercado. Además, este enfoque de mejora continua garantizará que la experiencia del usuario siga siendo óptima y que el servicio mantenga su competitividad en el tiempo.
+4. **Monitoreo y análisis constante:** A medida que la plataforma crece, es vital implementar un sistema de análisis continuo de los datos generados por los usuarios y los espacios de estacionamiento. El análisis de grandes volúmenes de datos permitirá detectar problemas tempranamente y adaptarse rápidamente a las necesidades del mercado. Este enfoque garantizará que la experiencia del usuario se mantenga optimizada y que el servicio siga siendo competitivo.
 
-5. **Sostenibilidad y responsabilidad social:** A medida que el impacto de PARKINGNOW crece, es recomendable enfocarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores mediante la disminución de tiempo en busca de estacionamiento y la colaboración con proyectos de ciudades inteligentes posicionarán a PARKINGNOW no solo como una empresa rentable, sino también como un agente clave en la sostenibilidad urbana.
+5. **Sostenibilidad y responsabilidad social:** Conforme crece el impacto de **PARKINGNOW**, es aconsejable centrarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores al disminuir el tiempo de búsqueda de estacionamiento y colaborar con proyectos de ciudades inteligentes, posicionarán a **PARKINGNOW** no solo como una empresa rentable, sino también como un actor clave en la sostenibilidad urbana.
 
 
 ### Video About-the-Team
