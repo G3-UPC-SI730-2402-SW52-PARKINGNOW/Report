@@ -1730,13 +1730,12 @@ La sección de tipos de clientes en la landing page muestra a los posibles usuar
 **Imagen 4:** Sección tipo de cliente.
 
 Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
-
+![alt text](Assets/Integrantes.jpg)
 
 **Imagen 5:** Sección Contáctenos
 
 A continuación, se muestra la sección "Sobre nosotros" (about-us), donde se ofrece un resumen con información sobre los integrantes que están desarrollando la solución de software.
 
-![alt text](Assets/Integrantes.jpg)
 
 ![footer.png](Assets/Footer.png)
 **Imagen 6:** Sección footer.
