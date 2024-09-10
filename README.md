@@ -1096,310 +1096,301 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 
 ### 4.1. Style Guidelines
 
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
 #### 4.1.1. General Style Guidelines
 
+
+**Brand Overview**
+
+En muchas ciudades, conseguir un espacio de estacionamiento adecuado resulta complicado, especialmente debido a la falta de información en tiempo real y la carencia de herramientas para reservar espacios con anticipación. Esto provoca estacionamientos ilegales, tráfico congestionado y una experiencia frustrante para los conductores. **PARKINGNOW** fue creado para solucionar estos inconvenientes, proporcionando una plataforma que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Mediante el uso de tecnología avanzada, como **geolocalización** y **sensores infrarrojos**, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también contribuye a mejorar la fluidez del tráfico urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+
+**Brand name**
+
+El nombre de nuestra solución, **PARKINGNOW**, refleja claramente su objetivo principal: ofrecer una herramienta rápida y eficiente para encontrar y gestionar espacios de estacionamiento. La palabra "Parking" (estacionamiento) se combina con "Now" (ahora) para resaltar la inmediatez y simplicidad que brinda nuestra plataforma. Optamos por un nombre en inglés debido a su carácter universal y su capacidad para resonar en un mercado global.
+
+A continuación, se presenta el **Logo**:
+
+
+![alt text](Assets/parkingnow.png)
+
+**Typography**
+
+La tipografía en **PARKINGNOW** desempeña un papel fundamental en la claridad y la facilidad de navegación de nuestra interfaz. Hemos elegido una fuente moderna y fácilmente legible que asegura que la información clave sea accesible para los usuarios de manera rápida. La tipografía se estructura en cuatro niveles: **headings** (títulos), **body** (texto principal), **buttons** (botones) y **links** (enlaces), lo que garantiza una jerarquía visual definida y una experiencia de usuario consistente.
+
+Para este proyecto, hemos utilizado dos fuentes tipográficas: la primera es **Kalam** y la segunda es **Tinos**.
+
+
+![alt text](Assets/Typograpy.png)
+
+**Colors**
+
+La elección de colores es una parte fundamental del diseño. Una buena selección de colores comunica al usuario lo que realmente ofrecemos. Por eso, nuestro color primario es el azul y el color secundario es el verde azulado. También hemos seleccionado colores de estado que usaremos para informar al usuario mientras interactúa con nuestra aplicación. Los colores elegidos para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
+
+- **Color Primario (Azul Noche):** El azul noche simboliza tecnología y seguridad, dos aspectos clave de la experiencia de estacionamiento que ofrecemos. Este color transmite tranquilidad y confianza, elementos esenciales para los usuarios de nuestra plataforma.
+![alt text](Assets/Azul.png)
+
+- **Color Secundario (Amarillo):** Este color vibrante aporta energía y resalta la eficiencia y visibilidad de nuestro servicio. El amarillo es ideal para captar la atención del usuario y destacar elementos importantes en la plataforma, como botones o ítems resaltantes.
+![alt text](Assets/Amarrillo.png)
+
+- **Color Secundario (Gris):** El gris simboliza neutralidad y profesionalismo, proporcionando un equilibrio visual en la interfaz. Se utiliza en áreas menos destacadas, ofreciendo un contraste elegante y sutil.
+![alt text](Assets/BN.png)
+
+- **Color Secundario (Blanco):** El blanco representa simplicidad y pureza, proporcionando un fondo limpio que mejora la legibilidad y la experiencia del usuario en nuestra plataforma. Es esencial para destacar el contenido principal y ofrecer una apariencia ordenada.
+![alt text](Assets/BN2.png)
+
+- **Color Secundario (Negro):** El negro evoca sofisticación y seriedad, usado en detalles y tipografía para ofrecer un fuerte contraste con los otros colores. Refuerza la solidez y confiabilidad del servicio que brindamos.
+![alt text](Assets/BN3.png)
 #### 4.1.2. Web Style Guidelines
+
+Desarrollaremos un sitio web que sea completamente adaptable a dispositivos móviles, lo que significa que se ajustará a cualquier tamaño de pantalla sin afectar la experiencia del usuario. De esta forma, nuestra aplicación web siempre será intuitiva y visualmente atractiva, sin importar el dispositivo que se utilice. En base a esto, nuestra plataforma debe ajustarse a las diferentes resoluciones utilizadas por los dispositivos actuales.
+
+Utilizaremos el **patrón Z** en el diseño, asegurando que los usuarios comiencen su navegación desde la página de inicio visualizando el **logo**. Luego, se desplazarán naturalmente hacia la derecha para encontrar las opciones disponibles. Posteriormente, bajarán verticalmente para explorar el contenido general y finalizarán moviéndose horizontalmente hacia la derecha para acceder a información sobre nuestra startup y los medios de contacto.
+
+El diseño también integrará colores llamativos que capten la atención del usuario, transmitiendo sensaciones de tranquilidad, confianza y motivándolos a usar nuestra aplicación. Además, los espacios y efectos implementados ayudarán a los usuarios a comprender fácilmente el propósito de nuestra página de inicio y aplicación web.
+
+![alt text](Assets/PatronZ.jpg)
 
 ### 4.2. Information Architecture
 
-En esta sección, el equipo detalla las decisiones y fundamentos que guían la organización del contenido en las experiencias web y móvil de PARKINGNOW, incluyendo tanto la Landing Page como las Aplicaciones Web. Estas propuestas están diseñadas para asegurar que los visitantes y usuarios se adapten fácilmente a la funcionalidad de cada producto y puedan encontrar lo que necesitan sin esfuerzo. Las decisiones incluyen los sistemas de organización, etiquetado, navegación y búsqueda.
+En esta sección, el equipo detalla las decisiones que guían la organización del contenido en las experiencias web y móvil de **PARKINGNOW**, abarcando tanto la **Landing Page** como la **Aplicación Web**. Estas propuestas están diseñadas para que los usuarios puedan adaptarse fácilmente a las funciones de cada producto y encontrar lo que necesitan sin complicaciones. Las decisiones incluyen los sistemas de organización, etiquetado, navegación y búsqueda.
 
 #### 4.2.1. Organization Systems
 
-Para estructurar la arquitectura de la información de **PARKINGNOW**, se ha adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema facilita la navegación intuitiva y garantiza que los usuarios puedan encontrar fácilmente la información y las funciones que necesitan.
+Para estructurar la arquitectura de la información de **PARKINGNOW**, hemos adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema asegura una navegación intuitiva y permite a los usuarios encontrar rápidamente la información que buscan.
 
-#### **Landing Page** 
+#### **Landing Page**
 
-La **Landing Page** de **PARKINGNOW** se organiza de manera jerárquica para que los usuarios puedan acceder rápidamente a la información más relevante y a las acciones necesarias para interactuar con la plataforma:
+La **Landing Page** de **PARKINGNOW** está organizada jerárquicamente para que los usuarios accedan fácilmente a la información más relevante y realicen las acciones necesarias:
 
-1. **Barra de Navegación Principal**: Situada en la parte superior de la página, proporciona accesos rápidos a las secciones clave:
-   - **Inicio (Home)**: La página de inicio que da la bienvenida a los usuarios y proporciona una visión general de los servicios de **PARKINGNOW**. Incluye un banner destacado con un mensaje central y botones de llamada a la acción para el registro e inicio de sesión.
-   - **Servicios (Services)**: Desglosa los servicios ofrecidos tanto a conductores urbanos como a dueños de playas de estacionamiento. Esta sección está organizada para que cada tipo de usuario pueda rápidamente identificar cómo **PARKINGNOW** les beneficiará.
-   - **Transacción (Plans):** Explica las diferentes opciones de transacción disponibles para los usuarios, incluyendo características y beneficios de cada una. Esta sección está diseñada para facilitar la comprensión y comparación de opciones.
-   - **Contáctanos (Contact Us)**: Proporciona información de contacto, un formulario de consulta y enlaces a redes sociales, facilitando la comunicación entre los usuarios y el equipo de soporte de **PARKINGNOW**.
-   - **Nosotros (About Us)**: Describe la misión, visión, y el equipo detrás de **PARKINGNOW**, generando confianza y transparencia con los usuarios.
+1. **Barra de Navegación Principal**: Situada en la parte superior, ofrece accesos directos a las secciones principales:
+   - **Inicio (Home)**: Proporciona una visión general de los servicios de **PARKINGNOW** e incluye un banner destacado con botones de llamado a la acción para registro e inicio de sesión.
+   - **Servicios (Services)**: Describe los servicios ofrecidos tanto a conductores como a propietarios de estacionamientos. La sección está organizada para que cada usuario identifique rápidamente los beneficios que **PARKINGNOW** les ofrece.
+   - **Transacción (Plans):** Explica las diferentes opciones de transacción disponibles, con detalles sobre las características y beneficios de cada una.
+   - **Contáctanos (Contact Us)**: Facilita el contacto con el equipo de soporte a través de un formulario y enlaces a redes sociales.
+   - **Nosotros (About Us)**: Presenta la misión, visión y el equipo detrás de **PARKINGNOW**, promoviendo confianza y transparencia.
 
 2. **Estructura de Contenido Jerárquica**:
-   - **Encabezados y Subencabezados**: Organizan el contenido dentro de cada sección, permitiendo a los usuarios explorar más a fondo según sus intereses.
-   - **Botones de Llamada a la Acción (CTAs)**: Colocados estratégicamente para guiar a los usuarios hacia acciones deseadas, como registrarse, iniciar sesión o contactar con el equipo.
+   - **Encabezados y Subencabezados**: Organizan el contenido de cada sección para que los usuarios exploren según sus intereses.
+   - **Botones de Llamada a la Acción (CTAs)**: Colocados estratégicamente para guiar a los usuarios a acciones como registrarse o iniciar sesión.
 
 3. **Footer**:
-   - Incluye enlaces a secciones importantes como políticas de privacidad, términos de servicio, contacto, y enlaces a redes sociales. El footer proporciona una navegación adicional para usuarios que desean explorar más sobre **PARKINGNOW**.
+   - Incluye enlaces a políticas de privacidad, términos de servicio, contacto y redes sociales, ofreciendo una navegación adicional.
 
 #### **Aplicación Web**
 
-La **Aplicación Web** de **PARKINGNOW** está diseñada para ofrecer una experiencia personalizada para dos segmentos principales de usuarios: **Conductores Urbanos Frecuentes** y **Dueños de Playas de Estacionamiento**. La organización del contenido está estructurada de manera que cada tipo de usuario pueda navegar eficientemente por la aplicación.
+La **Aplicación Web** de **PARKINGNOW** está diseñada para proporcionar una experiencia personalizada a dos segmentos principales: **Conductores Urbanos Frecuentes** y **Dueños de Estacionamientos**. El contenido está estructurado de forma que cada usuario pueda navegar eficientemente.
 
 1. **Para Conductores Urbanos Frecuentes**:
-   - **Inicio (Home)**: Muestra una vista general de las reservas actuales y accesos rápidos a funcionalidades clave como la búsqueda de estacionamientos y favoritos.
-   - **Búsqueda de Estacionamiento (Search Parking)**: Permite a los usuarios buscar y ver la disponibilidad de espacios de estacionamiento en tiempo real, utilizando filtros avanzados para una experiencia de búsqueda más eficiente.
-   - **Favoritos (Favorites)**: Contiene una lista de los estacionamientos que el usuario ha marcado como favoritos, permitiendo un acceso rápido para futuras reservas.
-   - **Historial (History)**: Proporciona un registro completo de todas las reservas pasadas, ayudando a los usuarios a llevar un control de sus actividades de estacionamiento.
+   - **Inicio (Home)**: Muestra una vista general de las reservas actuales y accesos directos a funciones clave como búsqueda de estacionamientos y favoritos.
+   - **Búsqueda de Estacionamiento (Search Parking)**: Permite a los usuarios buscar y ver la disponibilidad de estacionamientos en tiempo real con filtros avanzados.
+   - **Favoritos (Favorites)**: Lista de estacionamientos marcados como favoritos para un acceso rápido.
+   - **Historial (History)**: Un registro de todas las reservas pasadas para ayudar a los usuarios a rastrear su actividad de estacionamiento.
 
-2. **Para Dueños de Playas de Estacionamiento**:
-   - **Inicio (Home)**: Proporciona un resumen de la ocupación actual y las notificaciones relevantes.
-   - **Monitoreo (Monitoring)**: Herramientas para supervisar en tiempo real la ocupación de los estacionamientos y gestionar las reservas.
-   - **Reservas (Reservations)**: Permite la gestión de reservas, incluyendo la capacidad de aprobar o rechazar solicitudes de espacio de estacionamiento.
-   - **Estadísticas (Statistics)**: Proporciona análisis detallados del uso de los estacionamientos y métricas de ingresos, ayudando a los propietarios a optimizar su operación.
-
-3. **Interacción y Flujo de Trabajo**:
-   - Las interfaces están diseñadas para ser intuitivas y fáciles de usar, permitiendo a los usuarios completar tareas rápidamente con un mínimo de pasos.
-   - Cada sección dentro de la aplicación está claramente etiquetada y utiliza una combinación de texto e íconos para mejorar la usabilidad y la comprensión.
+2. **Para Dueños de Estacionamientos**:
+   - **Inicio (Home)**: Muestra un resumen de la ocupación y notificaciones relevantes.
+   - **Monitoreo (Monitoring)**: Herramientas para supervisar la ocupación en tiempo real y gestionar reservas.
+   - **Reservas (Reservations)**: Permite gestionar reservas, aprobando o rechazando solicitudes.
+   - **Estadísticas (Statistics)**: Proporciona análisis detallados del uso de estacionamientos e ingresos, ayudando a optimizar operaciones.
 
 #### 4.2.2. Labeling Systems
 
-En este apartado se describen los sistemas de etiquetado utilizados en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW**. El etiquetado está diseñado para facilitar la navegación y mejorar la experiencia del usuario, asegurando que cada sección y funcionalidad sea fácilmente reconocible y accesible.
+Los sistemas de etiquetado en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW** están diseñados para facilitar la navegación y mejorar la experiencia del usuario, asegurando que las secciones y funciones sean fácilmente reconocibles y accesibles.
 
 #### **Etiquetas de Encabezados (Headings)**
-Las etiquetas de encabezado en **PARKINGNOW** se utilizan para definir claramente las secciones principales de la página y la aplicación. Esto permite a los usuarios identificar rápidamente el contenido de cada sección:
 
-- **Inicio/Home**: Este encabezado se utiliza en la página principal para dar la bienvenida a los usuarios y proporcionar una introducción general a la plataforma. Aquí se muestra un banner con la misión de la empresa y botones de acceso rápido para registro e inicio de sesión.
+- **Inicio/Home**: Encabezado en la página principal que da la bienvenida a los usuarios con un banner.
   
-- **Servicios/Services**: Sección que describe las funciones principales de la plataforma, como búsqueda y reserva de estacionamientos, optimización de rutas y monitoreo en tiempo real de espacios disponibles.
+- **Servicios/Services**: Describe las funciones principales de la plataforma.
 
-- **Planes y Precios/Transaction Pricing:** Encabezado que detalla las opciones de precios y planes de transacción disponibles para los usuarios, tanto para conductores urbanos como para propietarios de estacionamientos.
+- **Planes y Precios/Transaction Pricing:** Detalla las opciones de precios y planes disponibles.
 
-- **Contactanos/Contact Us**: Proporciona información de contacto y un formulario para que los usuarios puedan enviar consultas o solicitar soporte.
+- **Contáctanos/Contact Us**: Facilita el contacto con un formulario y medios de soporte.
 
-- **Sobre Nosotros/About Us**: Ofrece información sobre la empresa, su misión, visión y el equipo detrás de **PARKINGNOW**.
+- **Sobre Nosotros/About Us**: Proporciona información sobre la empresa, misión y visión.
 
 #### **Etiquetas Textuales (Text Labels)**
-Las etiquetas textuales son utilizadas para identificar categorías específicas o acciones dentro de la plataforma. Estas etiquetas ayudan a los usuarios a navegar de manera efectiva y realizar acciones específicas:
 
-- **Buscar Estacionamiento/Find Parking**: Utilizada en la barra de búsqueda, permite a los usuarios ingresar su ubicación deseada y buscar estacionamientos disponibles en tiempo real.
+- **Buscar Estacionamiento/Find Parking**: Utilizada en la barra de búsqueda para ingresar ubicación y buscar estacionamientos.
 
-- **Reservar/Reserve**: Botón que permite a los usuarios seleccionar y confirmar un espacio de estacionamiento disponible.
+- **Reservar/Reserve**: Botón que permite confirmar una reserva.
 
-- **Historial/History**: Etiqueta utilizada para acceder al historial de reservas del usuario, mostrando las reservas pasadas y las futuras.
+- **Historial/History**: Muestra el historial de reservas.
 
-- **Favoritos/Favorites**: Sección donde los usuarios pueden ver los estacionamientos marcados como favoritos para un acceso rápido en futuras visitas.
+- **Favoritos/Favorites**: Lista de estacionamientos marcados como favoritos.
 
-- **Configuraciones/Settings**: Permite a los usuarios acceder a sus preferencias de cuenta, notificaciones y ajustes de la aplicación.
+- **Configuraciones/Settings**: Acceso a preferencias y ajustes de cuenta.
 
 #### **Etiquetas Icónicas (Iconic Labels)**
-Las etiquetas icónicas se basan en imágenes o iconos que transmiten significado visualmente. Estas etiquetas son intuitivas y ayudan a los usuarios a comprender rápidamente las funcionalidades sin necesidad de texto:
 
-- **Icono de Búsqueda (Lupa)**: Representa la función de búsqueda de estacionamientos, facilitando la identificación rápida de esta acción.
+- **Icono de Búsqueda (Lupa)**: Representa la búsqueda de estacionamientos.
 
-- **Icono de Calendario**: Utilizado para indicar la fecha y hora de las reservas en la sección de reservas y confirmación.
+- **Icono de Calendario**: Indica la fecha y hora de las reservas.
 
-- **Icono de Estrella**: Marca los estacionamientos favoritos del usuario, permitiendo un fácil acceso a estos en el futuro.
+- **Icono de Estrella**: Marca los estacionamientos favoritos.
 
-- **Icono de Coche**: Representa la función de seguimiento del vehículo en el estacionamiento, asegurando que el usuario pueda ubicar su coche fácilmente.
+- **Icono de Coche**: Representa el seguimiento del vehículo en el estacionamiento.
 
-- **Icono de Notificación**: Utilizado para alertar a los usuarios sobre actualizaciones importantes, como cambios en la disponibilidad de estacionamientos o confirmaciones de reservas.
-
-Estas etiquetas se encuentran distribuidas en la barra de navegación y en las distintas secciones de la página y la aplicación, guiando a los usuarios de manera intuitiva y mejorando la experiencia de uso en **PARKINGNOW**.
+- **Icono de Notificación**: Alerta a los usuarios sobre actualizaciones importantes.
 
 #### 4.2.3. SEO Tags and Meta Tags
-Los SEO Tag y Meta Tags ayudaran a que la pagina estatica y la aplicacion web sea posible de analizar facilmente y se pueda gestionar de manera eficiente y optima.
 
-**Titulo**
-El titulo de nuestra Startup se definira de la siguiente manera:
+Los **SEO Tags** y **Meta Tags** optimizarán la visibilidad de la página y aplicación web de **PARKINGNOW** en motores de búsqueda.
 
-``<title> PARKINGNOW </title>``
+**Title**
+``<title>PARKINGNOW</title>``
 
 **Description**
-Las descriopciones de nuestra Startup se definira de la siguiente manera:
-
-``<meta name="description" content="ParkingNow es una aplicacion que ayudara a los usuarios a reservar lugares de estacionamiento"/>``
+``<meta name="description" content="ParkingNow es una aplicacion que ayuda a los usuarios a reservar lugares de estacionamiento"/>``
 
 **Keywords**
-Algunas Keywords como "viewport" se definira de la siguiente manera:
-
 ``<meta name="viewport" content="width=device-width, initial-scale=1.0">``
 
 **Author**
-Nuestra marca sera registrada en nuestra pagina de la siguiente manera:
-
-``<meta name="copyright" content="© 2024 PARKINGNOW. Todos los derechos reservados"./``
+``<meta name="copyright" content="© 2024 PARKINGNOW. Todos los derechos reservados."/>``
 
 #### 4.2.4. Searching Systems
-Estos metodos de busqueda ayudaran a los usuarios a navegar por nuestra aplicacion web con mas facilidad y podran encontrar lo que estan buscando de forma intuitiva. Los metodos de busqueda para nuestra aplicacion web seran las siguientes:
 
-**Busqueda por caracteres:** Los usuarios podran buscar sus establecimientos por medio del nombre o dueño en la barra de busqueda de playa de estacionamiento.
+Los sistemas de búsqueda permitirán a los usuarios navegar fácilmente y encontrar lo que necesitan en la aplicación web.
 
-**Busqueda por ubicacion:** Los usuarios podran usar la ubicacion exacta para encontrar el establecimiento en la barra de busqeuda de playa de estacionamiento.
+- **Búsqueda por caracteres:** Los usuarios pueden buscar establecimientos por nombre o propietario.
 
-**Busqueda por mapa:** Para hacerlo de forma mas intuitiva, decidimos que los usuarios tambien puedan usar el mapa para buscar locales lejanos o cercanos a su ubicacion.
+- **Búsqueda por ubicación:** Utiliza la ubicación exacta para encontrar el estacionamiento.
+
+- **Búsqueda por mapa:** Los usuarios pueden usar el mapa para buscar locales cercanos o lejanos.
 
 #### 4.2.5. Navigation Systems
 
-El metodo de navegacion para nuestro usuario por medio de las paginas de la aplicacion web sera intuitivo y sencillo para el usuario, donde tendra todo la vista y los colores llamativos ayudara a que sepa que hacer al momento de realizar alguna accion, como inicar sesion, registrarse, realizar una reserva, ver las estadisticas de sus establecimientos, etc. Asimismo la busqueda de playas de estacionamiento sera rapido y sin interrupciones para los usuarios.
+La navegación será intuitiva, guiando a los usuarios para realizar acciones como iniciar sesión, registrarse o realizar una reserva sin complicaciones.
 
 ### 4.3. Landing Page UI Design
 
-En el siguiente punto, mostraremos los dieños más tempranos de la pagina estatica y la aplicacion web.
+Presentamos los primeros diseños de la **Landing Page** y la aplicación web.
 
 #### 4.3.1. Landing Page Wireframe
 
 ![WireframeLP1](Assets/LandingPageWireframe1.png)
-
 ![WireframeLP2](Assets/LandingPageWireframe2.png)
 
 #### 4.3.2. Landing Page Mock-up
 ![MockupLP1](Assets/LandingPageMockup1.png)
-
 ![MockupLP2](Assets/LandingPageMockup2.png)
+
 ### 4.4. Web Applications UX/UI Design
 
-En esta seccion, se presentara los resultados del diseño de la Aplicacion Web en Figma.
+Presentamos los resultados del diseño de la **Aplicación Web** en **Figma**.
 
 #### 4.4.1. Web Applications Wireframes
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-En estas imagenes, podemos ver el wireframde la home page, donde da la bienvenida al suauri y brinda informacion sobre quienes somos y que es lo queremos. En la parte de la derecha podemos ver el Inicio de Sesion, y las formas en que los usuarios se pueden registrar en la aplicacion web, es decir, como conductor o dueño de una playa de estacionamiento
-
 ![Wireframe1](Assets/Wireframe_1.png)
-
-En estas imagenes se puede ver donde el usuario selecciona si es que es un conductor o el dueño de una playa de estacionamiento. Asimismo, se pueden ver las pantallas de confirmarcion de reservas, registro y de opinion enviada.
-
 ![Wireframe2](Assets/Wireframe_2.png)
-
-En estas imagenes se peuden ver la forma en que se vera al momento de buscar un lugar para la reserva, de esta manera el usuario podra ver el nombre del establecimiento, las reseñas, descripcion, fotos del estacionamient, podra dejar una reseña o reservar en el establecimiento.
-
-Además en la segunda imagen podra ver su historial y revisar sus lugares marcados como favoritos.
-
 ![Wireframe3](Assets/Wireframe_3.png)
-
-En las siguientes imagenes lo que se puede ver es el Dashboard del dueño de playas de estacionamiento, donde tendra las siguientes opciones: Inicio, registro de locales, reservas, monitoreo de Automoviles y alarmas de los locales, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
-
 ![Wireframe4](Assets/Wireframe_4.png)
 ![Wireframe5](Assets/Wireframe_5.png)
-
-En las siguientes imagenes lo que se puede ver es el Dashboard de los condutores, donde tendra las siguientes opciones: Inicio, reservas, soporte a tiempo real,seguimiento y alarmas del automovil que posea el escaner, las configuraciones, notificaciones que llegaran a la aplicacion dependiendo de las preferencias del usuario y por ultimo, cerrar sesion.
-
 ![Wireframe6](Assets/Wireframe_6.png)
 ![Wireframe7](Assets/Wireframe_7.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-User goal: Registrarse como conductor o dueno de playa de estacionamiento.
+User goal: Registrarse como conductor o dueño de estacionamiento.
 ![Wireflow1](Assets/Wireflow_1.png)
 
-User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
+User goal: Iniciar sesión como conductor o dueño de estacionamiento.
 ![Wireflow2](Assets/Wireflow_2.png)
 
-User goal: Hacer una reserva como conductor en la aplicacion.
+User goal: Hacer una reserva.
 ![Wireflow3](Assets/Wireflow_3.png)
 
-User goal: Dejar una opinion a una playa de estacionamiento.
+User goal: Dejar una reseña.
 ![Wireflow4](Assets/Wireflow_4.png)
 
-User goal: Recibir soporte en la pestaña de "Soporte" como conductor.
+User goal: Recibir soporte como conductor.
 ![Wireflow5](Assets/Wireflow_5.png)
 
-User Goal: Como usuario revisar el estado de mi carro por medio del sensor.
+User Goal: Revisar el estado del vehículo.
 ![Wireflow6](Assets/Wireflow_6.png)
 
-User Goal: Como dueño de la playa de estacionamiento, revisar las reservas programadas para el dia de hoy.
+User Goal: Revisar reservas programadas como dueño.
 ![Wireflow7](Assets/Wireflow_7.png)
 
-User Goal: Como dueño de la playa de estacionamiento monitorear las alertas y carros que se quedan en el estacionamiento.
+User Goal: Monitorear alertas y ocupación como dueño.
 ![Wireflow8](Assets/Wireflow_8.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
-Las dos siguientes imagenes son la homepage y la pagina donde se describen las caracteristicas de nuestro producto.
-
 ![Mock-up1](Assets/Mockup_1.png)
-
-
-Aqui se pueden ver las pestañas de inicio de sesion, registro y por ultimo para realizar el pago de una reserva.
-
 ![Mock-up2](Assets/Mockup_2.png)
-
-Aqui se pueden ver las pestañas de confirmacion de pago de reserva, registro y de envio de opinion.
-
 ![Mock-up3](Assets/Mockup_3.png)
-
-En las siguientes 4 imagenes se puede ver el mapa de busqueda para las playas de estacionamiento, la forma de reservar un espacio y como dejar una opinion en los establecimientos.
 ![Mock-up4](Assets/Mockup_4.png)
-
 ![Mock-up5](Assets/Mockup_5.png)
-
-A continuacion se puede ver el Dashboard de los usuarios conductores, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
-
 ![Mock-up6](Assets/Mockup_6.png)
-
 ![Mock-up7](Assets/Mockup_7.png)
-
 ![Mock-up8](Assets/Mockup_8.png)
-
 ![Mock-up9](Assets/Mockup_9.png)
-
-A continuacion se puede ver el Dashboard de los Dueños de playas de estacionamiento, donde tendran las opciones que se mencionaron en la seccion del Wireframe.
-
 ![Mock-up10](Assets/Mockup_10.png)
-
 ![Mock-up11](Assets/Mockup_11.png)
-
 ![Mock-up12](Assets/Mockup_12.png)
-
 ![Mock-up13](Assets/Mockup_13.png)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-User goal: Registrarse como conductor o dueno de playa de estacionamiento.
+User goal: Registrarse como conductor o dueño de estacionamiento.
 ![Userflow1](Assets/Userflow_1.png)
 
-User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
+User goal: Iniciar sesión como conductor o dueño de estacionamiento.
 ![Userflow2](Assets/Userflow_2.png)
 
-User goal: Dejar una opinion como conductor en la aplicacion.
+User goal: Dejar una reseña.
 ![Userflow3](Assets/Userflow_3.png)
 
-User goal: Hacer una reserva como conductor en la aplicacion.
+User goal: Hacer una reserva.
 ![Userflow4](Assets/Userflow_4.png)
 
-User Goal: Como conductor revisar mis reservas actias, poder reservar y ver los lugares marcados como favoritos
+User Goal: Revisar reservas activas y favoritos.
 ![Userflow5](Assets/Userflow_5.png)
 
-User Goal: Como dueño de una playa de estacionamientos revisar los locales y estadisticas.
+User Goal: Revisar locales y estadísticas como dueño.
 ![Userflow6](Assets/Userflow_6.png)
 
-
 ### 4.5. Web Applications Prototyping
+
 Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
 
 ![Prototyping](Assets/Prototyping.png)
 
-
 ### 4.6. Domain-Driven Software Architecture
 
-Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
+Los diagramas de arquitectura de software nos permiten diseñar nuestro sistema utilizando el enfoque de **Domain Driven Design**.
 
 #### 4.6.1. Software Architecture Context Diagram
 
-Este diagrama de contexto muestra la interacción entre nuestros segmentos objetivo y la aplicación PARKINGNOW, destacando las conexiones con sistemas externos como geolocalización y procesamiento de pagos.
-
+Este diagrama muestra la interacción entre los usuarios de **PARKINGNOW** y sistemas externos como geolocalización y procesamiento de pagos.
 
 ![structurizr-SystemContext](Assets/structurizr-SystemContext.png)
 
-
 #### 4.6.2. Software Architecture Container Diagrams
 
-Este diagrama de contenedores ilustra los componentes clave de la plataforma PARKINGNOW y cómo interactúan entre sí y con sistemas externos. Se destacan la Aplicación Web, la API Backend, la Base de Datos, y servicios externos como la pasarela de pago y geolocalización. Cada contenedor cumple una función específica para asegurar el funcionamiento integral del sistema.
+Este diagrama de contenedores ilustra los componentes principales de la plataforma **PARKINGNOW**, como la **Aplicación Web**, la **API Backend**, la **Base de Datos**, y los servicios externos.
 
 ![Diagrama de Contenedores](Assets/structurizr-Container-001.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
-***Parking Component diagram***
-Diagrama que refiere a todo el componente que involucra los parkeos (playas de estacionamiento)
-![Component Diagram](./Assets/component_parking.png) 
 
-***Reservation Component diagram***
-Diagrama que refiere a todo el componente que involucra a las reservaciones
-![Component Diagram](./Assets/component_reserva.png) 
+***Parking Component diagram***  
+Diagrama que cubre todo lo relacionado con los estacionamientos.
+![Component Diagram](./Assets/component_parking.png)
 
-***Location Component diagram***
-Diagrama que refiere a todo el componente que involucra a la gestion de ubicación en tiempo real
-![Component Diagram](./Assets/component_location.png) 
+***Reservation Component diagram***  
+Diagrama que cubre todo lo relacionado con las reservas.
+![Component Diagram](./Assets/component_reserva.png)
 
-
+***Location Component diagram***  
+Diagrama que cubre todo lo relacionado con la gestión de ubicación en tiempo real.
+![Component Diagram](./Assets/component_location.png)
 
 ### 4.7. Software Object-Oriented Design
 
@@ -1409,10 +1400,13 @@ Diagrama que refiere a todo el componente que involucra a la gestion de ubicaci�
 
 ### 4.8. Database Design
 
-En este punto se mostrara la base de datos utilizada en nuestro projecto en relacion a los contextos definidos anteriormente.
+En este apartado se mostrará el diseño de base de datos utilizado en nuestro proyecto, siguiendo los contextos definidos anteriormente.
+
 #### 4.8.1. Database Diagram
+
 Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
 ![Base de datos](Assets/ParkingNow_Database-2024-09-05_13-28.png)
+
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
