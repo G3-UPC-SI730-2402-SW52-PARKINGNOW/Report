@@ -420,12 +420,13 @@ A continuacion, se presentara la tabla de competidores para analizar cada punto 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
-A continuacion, encontraremos la tabla de Matriz de FODA y C.A.M.E para poder analisar nuestrar estrategias a futuro para competir contra los competidores anteriormente mencionados.
+A continuacion, encontraremos la tabla de Matriz de FODA y C.A.M.E para poder analisar nuestrar estrategias a futuro.
 
-| ***MATRIZ FODA y C.A.M.E***|**Oportunidades:** La demanda de este servicio aumenta bastante con los años | **Amenazas:** Cambios en la politica de mobilidad urbana|
+| ***MATRIZ FODA y C.A.M.E*** | **Oportunidades:** La demanda por este tipo de servicio ha tenido un crecimiento considerable a lo largo de los años | **Amenazas:** Cambios en las políticas de movilidad urbana |
 |---|---|---|
-|**Fortalezas:** Innovacion, publico objetivo más amplio y soporte en tiempo real para los consumidores| La estrategia que podemos tomar en este caso seria la de dar el mejor soporte a los consumidores para que no vayan a otras aplicaciones, además que nuestra propuesta de sensores es algo poco visto que las personas encontraran llamativo y estaran dispuestos a aprender de ello. | Preveer todos estos posibles cambios en la politica gracias a un analisis más amplio de acuerdo al tema |
-|**Debilidades:** Mercado competitivo y nuevo | Aumentar la promocion de nuestra app y promocionar nuestra innovacion para que los usuarios puedan validarnos como la mejor opcion del mercado.  | Si bien, las politicas pueden afectarnos, a los otros competidores tambien, podemos diseñas campañas de marketing enfocadas a que lo que hacemos no necesita un cambio en la politica de la mobilidad urbana, sino, que mejoramos la gestion de esta en distintos lugares del pais.  |
+| **Fortalezas:** Innovación, un público objetivo más extenso y soporte en tiempo real para los usuarios | La estrategia que podemos adoptar en este caso es ofrecer un soporte al cliente de la mejor calidad, para evitar que migren a otras aplicaciones. Además, nuestra propuesta de sensores es una tecnología poco común que atraerá a los usuarios, quienes estarán dispuestos a aprender y utilizarla. | Anticipar los posibles cambios en las políticas urbanas mediante un análisis exhaustivo del entorno relacionado. |
+| **Debilidades:** Mercado muy competitivo y relativamente nuevo | Incrementar la promoción de nuestra aplicación y resaltar nuestra propuesta innovadora para que los usuarios nos perciban como la opción más adecuada en el mercado. | Aunque las políticas puedan afectarnos, también afectarán a nuestros competidores. Podemos diseñar campañas de marketing que destaquen que nuestro servicio no requiere cambios en las políticas de movilidad urbana, sino que, por el contrario, mejora la gestión de esta en diversas regiones del país. |
+
 
 ### 2.2. Entrevistas
 
@@ -433,7 +434,7 @@ Esta sección se centra en la recopilación de información mediante entrevistas
 
 #### 2.2.1. Diseño de entrevistas
 
-Incluye la elaboración de preguntas principales y complementarias dirigidas a cada segmento, considerando aspectos demográficos, características de personalidad y preferencias tecnológicas para construir perfiles precisos de los usuarios.
+Desarrolla preguntas clave y adicionales dirigidas a cada segmento, teniendo en cuenta factores demográficos, rasgos de personalidad y preferencias tecnológicas, con el objetivo de crear perfiles detallados y precisos de los usuarios.
 
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
 
@@ -683,26 +684,29 @@ Segmento objetivo 2: [https://forms.gle/pCNNRar5TBzSPoX38](https://forms.gle/pCN
 ![Pregunta 9 - Segmento 1](Assets/Seg2-P9.png)
 
 ### 2.3. Needfinding
-En esta sección se presentarán los artefactos generados a partir del proceso de recopilación llevado a cabo en los segmentos objetivos. Este proceso culmina con la creación de los User Personas, la User Task Matrix, los User Journey Maps, el Empathy Mapping y el As-Is Scenario Mapping.
+En esta sección se presentarán los artefactos generados a partir del proceso de recopilación llevado a cabo en los segmentos objetivos. Este proceso culmina con la creación de los User Personas, la User Task Matrix, los user Journey Maps, el Empathy Mapping, el As-Is Scenario Mapping y el ubiquitous language.
+
 #### 2.3.1. User Personas
-En esta sección del documento, se presentan perfiles ficticios que representan a los grupos de interés identificados y que fueron objeto de entrevistas. La información proporcionada incluye datos demográficos, rasgos de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos típicos. Estos detalles están basados en las entrevistas realizadas previamente. Se han utilizado herramientas de UXPressia para facilitar la elaboración de estos perfiles.
 
+En esta sección del documento se presentan perfiles ficticios que representan a los grupos de interés identificados durante las entrevistas. La información recopilada incluye datos demográficos, características de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos comunes. Estos datos se basan en las entrevistas realizadas anteriormente. Para facilitar la creación de estos perfiles, se han utilizado herramientas de **UXPressia**.
 
-###### User Person para Conductores Urbanos
+###### User Persona para Conductores Urbanos
 
-La "User Persona" de Anna Pacheco representa a conductores urbanos que necesitan estacionamientos rápidos y eficientes cerca de sus destinos. Anna es una organizadora de eventos de 29 años, motivada por la comodidad y la rapidez en sus desplazamientos. Se frustra con la falta de disponibilidad de estacionamientos y busca soluciones prácticas y transparentes.
+La "User Persona" de Anna Pacheco representa a los conductores urbanos que requieren estacionamientos rápidos y eficientes cerca de sus destinos. Anna es una organizadora de eventos de 29 años, motivada por la comodidad y la eficiencia en sus traslados. Siente frustración por la escasez de espacios de estacionamiento y busca soluciones que sean prácticas y transparentes.
+
 
 ![User Person s1](Assets/Anna%20Pacheco.png)
 
 ###### User Person para Dueños de playa de estacionamientos
 
-La "User Persona" de Luis Cordova representa a propietarios de estacionamientos interesados en mejorar la gestión y aumentar ingresos. Luis, de 26 años y dueño de un estacionamiento, utiliza tecnología para optimizar la ocupación y reducir tiempos de espera. Sus objetivos incluyen la fidelización de clientes y la expansión del negocio, pero enfrenta frustraciones con problemas tecnológicos y altos costos operativos.
+La **"User Persona"** de Luis Córdova representa a propietarios de playas de estacionamiento que desean optimizar la gestión y aumentar sus ingresos. Luis, de 26 años, es dueño de una playa de estacionamiento y emplea tecnología para maximizar la ocupación y disminuir los tiempos de espera. Sus objetivos incluyen fidelizar a los clientes y expandir su negocio, aunque se enfrenta a desafíos como problemas tecnológicos y altos costos operativos.
+
 ![User Person s2](Assets/Luis%20Cordova.png)
 
 
 ## 2.3.2. User Task Matrix
 
-En el User Task Matrix hemos identificado las actividades que realizan nuestros dos segmentos y hemos evaluado la importancia de cada una de estas tareas para cada segmento.
+En el **User Task Matrix**, hemos identificado las principales actividades realizadas por nuestros dos segmentos y evaluado la relevancia de cada tarea según el segmento correspondiente.
 
 ### Indicadores de Importancia:
 - ALTA
@@ -727,69 +731,70 @@ En el User Task Matrix hemos identificado las actividades que realizan nuestros 
 | Verificar disponibilidad de estacionamiento en tiempo real | Alta           | Alta               |
 | Consultar historial de estacionamientos utilizados | Media          | Baja               |
 
-
-### Segmento Objetivo: Dueños de Estacionamientos
+### Segmento Objetivo: Propietarios de Estacionamientos
 | **Tarea**                                           | **Frecuencia** | **Importancia**   |
 |-----------------------------------------------------|----------------|--------------------|
-| Administrar y actualizar la disponibilidad de espacios | Alta           | Alta               |
-| Ajustar precios de los espacios de estacionamiento  | Media          | Alta               |
-| Gestionar reservas de estacionamientos             | Alta           | Alta               |
+| Gestionar y actualizar la disponibilidad de espacios | Alta           | Alta               |
+| Ajustar las tarifas de los espacios de estacionamiento | Media          | Alta               |
+| Administrar las reservas de estacionamientos        | Alta           | Alta               |
 | Procesar pagos de estacionamiento a través de la aplicación | Alta           | Media              |
-| Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.) | Media          | Alta               |
-| Revisar reportes de uso y disponibilidad            | Media          | Media              |
+| Revisar y modificar las características del estacionamiento (precio, seguridad, etc.) | Media          | Alta               |
+| Analizar reportes de uso y disponibilidad            | Media          | Media              |
 | Recibir y gestionar comentarios y valoraciones de los usuarios | Baja           | Media              |
 | Promocionar descuentos y ofertas especiales         | Media          | Media              |
 | Consultar el historial de transacciones y reservas  | Baja           | Media              |
 
-A través del User Task Matrix, podemos identificar las frecuencias e importancias entre los diferentes segmentos que presentamos y usar esta información como guía.
+El **User Task Matrix** nos permite analizar las tareas más frecuentes e importantes para cada segmento y utilizar esta información como referencia para tomar decisiones estratégicas.
 
 #### Usuarios:
-Para los usuarios, las tareas que presentan mayor frecuencia son:
-- Pagar por estacionamiento a través de la aplicación.
-- Recibir direcciones al estacionamiento reservado.
-- Filtrar estacionamientos por criterios (precio, seguridad, etc.).
-- Verificar disponibilidad de estacionamiento en tiempo real.
+Para los usuarios, las tareas más recurrentes son:
+- Realizar el pago del estacionamiento a través de la aplicación.
+- Obtener las direcciones hacia el estacionamiento reservado.
+- Filtrar estacionamientos según criterios específicos (precio, seguridad, etc.).
+- Comprobar la disponibilidad de estacionamientos en tiempo real.
 
-Estas tareas son cruciales para mejorar la experiencia del usuario en la búsqueda y uso de estacionamientos.
+Estas tareas son esenciales para mejorar la experiencia del usuario en el proceso de búsqueda y utilización de estacionamientos.
 
-Para los usuarios, las tareas que presentan mayor importancia son:
-- Pagar por estacionamiento a través de la aplicación.
-- Recibir direcciones al estacionamiento reservado.
-- Filtrar estacionamientos por criterios (precio, seguridad, etc.).
-- Verificar disponibilidad de estacionamiento en tiempo real.
+En cuanto a la importancia, las tareas más relevantes para los usuarios son:
+- Pagar el estacionamiento a través de la aplicación.
+- Recibir indicaciones para llegar al estacionamiento reservado.
+- Filtrar los estacionamientos en base a criterios como precio y seguridad.
+- Consultar la disponibilidad en tiempo real.
 
-Estas tareas son importantes porque aseguran una experiencia de estacionamiento eficiente y satisfactoria, desde la búsqueda hasta el pago y la dirección.
+Estas actividades son clave porque garantizan una experiencia de estacionamiento ágil y satisfactoria, abarcando todo el proceso, desde la búsqueda hasta el pago.
 
-#### Dueños de Estacionamientos:
-Para los dueños de estacionamientos, las tareas que presentan mayor frecuencia son:
-- Administrar y actualizar la disponibilidad de espacios.
-- Gestionar reservas de estacionamientos.
+#### Propietarios de Estacionamientos:
+Para los propietarios, las actividades que se realizan con mayor frecuencia son:
+- Gestionar y actualizar la disponibilidad de espacios.
+- Administrar las reservas de estacionamientos.
 - Procesar pagos de estacionamiento a través de la aplicación.
-- Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.).
+- Revisar y ajustar las características del estacionamiento, como el precio y la seguridad.
 
-Estas tareas son esenciales para la gestión efectiva de sus espacios de estacionamiento y para asegurar que los usuarios tengan una experiencia positiva.
+Estas tareas son fundamentales para asegurar una gestión eficiente de los espacios y garantizar una buena experiencia para los clientes.
 
-Para los dueños de estacionamientos, las tareas que presentan mayor importancia son:
-- Administrar y actualizar la disponibilidad de espacios.
-- Ajustar precios de los espacios de estacionamiento.
+En términos de importancia, las tareas más cruciales para los propietarios son:
+- Gestionar y actualizar la disponibilidad de espacios.
+- Ajustar las tarifas de los espacios de estacionamiento.
 - Revisar reportes de uso y disponibilidad.
-- Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.).
+- Modificar las características del estacionamiento, como el precio y la seguridad.
 
-Estas tareas son importantes porque permiten a los dueños optimizar la gestión de sus espacios y responder a las demandas del mercado de manera efectiva.
+Estas actividades permiten optimizar la administración de los espacios y responder eficazmente a las necesidades del mercado.
 
 #### Diferencias:
-Al analizar ambos segmentos objetivo, se observa que los usuarios están enfocados en la eficiencia y la comodidad en el proceso de estacionamiento, mientras que los dueños de estacionamientos se concentran en la gestión y optimización de sus espacios. Aunque cada segmento tiene objetivos distintos, ambos se benefician de un sistema que facilite la disponibilidad, la gestión y la experiencia de estacionamiento.
+Al comparar ambos segmentos, se observa que los conductores están más enfocados en la conveniencia y eficiencia del proceso de estacionamiento, mientras que los propietarios de estacionamientos se centran en la gestión y maximización de la ocupación de sus espacios. Aunque tienen enfoques diferentes, ambos segmentos requieren un sistema que facilite la disponibilidad y la gestión de los espacios, y que mejore la experiencia general del estacionamiento.
 
-#### 2.3.3. User Journey Mapping
-En esta sección, hemos creado los mapas de recorrido del usuario para cada tipo de usuario (cliente y propietario de estacionamiento). Para el cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, continúa con la selección y reserva de un espacio, el pago a través de la aplicación, y la obtención de direcciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos cruciales en su experiencia. Por otro lado, desde la perspectiva del propietario de estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar los precios, procesar las reservas, y asegurarse de que el proceso de pago y uso se realice de manera fluida. El objetivo es ofrecer una experiencia satisfactoria que incentive a los clientes a recomendar el espacio y considerar al propietario como una opción confiable para futuros estacionamientos.
+## 2.3.3. User Journey Mapping
+En esta sección, hemos desarrollado los mapas de recorrido del usuario para ambos tipos de usuarios: clientes y propietarios de estacionamientos. Desde la perspectiva del cliente, el proceso comienza con la búsqueda de un espacio de estacionamiento, seguido por la selección y reserva del espacio, el pago a través de la aplicación, y la obtención de las indicaciones hacia el lugar reservado. Finalmente, el cliente llega al espacio y lo utiliza. Este recorrido revela las metas, desafíos, oportunidades y pasos clave en la experiencia del usuario. Por otro lado, desde el punto de vista del propietario del estacionamiento, el enfoque está en gestionar la disponibilidad de espacios, ajustar precios, procesar las reservas y asegurar que los pagos y el uso del espacio se realicen de forma fluida. El objetivo final es ofrecer una experiencia positiva que incentive a los clientes a recomendar el espacio y que vean al propietario como una opción confiable para futuras reservas.
+
 ###### User Journey Mapping para Conductores Urbanos
-Este "User Journey Mapping" muestra las etapas que un conductor urbano atraviesa al usar una app de estacionamiento, desde descubrir la app hasta evaluar su experiencia. Identifica puntos de contacto (como apps y GPS), problemas (como opciones confusas) y oportunidades para mejorar la usabilidad y la información de la app.
+Este "User Journey Mapping" describe las etapas que un conductor urbano atraviesa al utilizar una aplicación de estacionamiento, desde el descubrimiento de la app hasta la evaluación de su experiencia. Identifica puntos de contacto clave (como aplicaciones y GPS), posibles dificultades (como opciones confusas), y oportunidades para mejorar la usabilidad y la información dentro de la aplicación.
+
 
 ![User Journey Mapping s1](Assets/Customer%20journey%20map%202%20Anna.png)
 
-###### User Journey Mapping para Dueños de playa de Estacionamientos
+###### User Journey Mapping para Dueños de Playa de Estacionamientos
 
-Este "User Journey Mapping" para dueños de estacionamientos describe las etapas de uso de una app de gestión, desde encontrar la herramienta adecuada y configurarla, hasta su instalación y seguimiento para optimización. Destaca desafíos en la selección de la app y la comprensión de sus funciones, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
+Este "User Journey Mapping" para propietarios de playas de estacionamiento describe las diferentes etapas que atraviesan al utilizar una aplicación de gestión, desde la búsqueda de la herramienta adecuada y su configuración, hasta la instalación y el seguimiento para optimizar el funcionamiento. Se destacan los desafíos en la selección de la aplicación y la comprensión de sus funcionalidades, con oportunidades para mejorar la personalización, la facilidad de uso y el soporte técnico.
 
 ![User Journey Mapping s2](Assets/Customer%20journey%20map%201%20Luis.png)
 
@@ -799,74 +804,78 @@ Este "User Journey Mapping" para dueños de estacionamientos describe las etapas
 A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 
 ### Segmento objetivo: Conductores Urbanos Frecuentes
-Este "Empathy Map" representa a conductores urbanos frecuentes que enfrentan problemas para encontrar estacionamiento. Expresa sus frustraciones por la falta de opciones disponibles y su deseo de contar con herramientas que les brinden información en tiempo real sobre espacios seguros y accesibles.
+
+Este "Empathy Map" refleja a conductores urbanos habituales que tienen dificultades para localizar estacionamientos. Muestra su frustración debido a la escasez de opciones disponibles y su necesidad de contar con herramientas que les ofrezcan información actualizada en tiempo real sobre espacios seguros y accesibles.
+
 
 ![Empathy Map](Assets/Empathy_map.png)
 
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
-El mapa de empatía para **Dueños de Playas de Estacionamientos** identifica sus necesidades y preocupaciones al gestionar espacios de estacionamiento, destacando oportunidades para optimizar operaciones y mejorar la experiencia del cliente con **PARKINGNOW**.
+El "Empathy Map" para **Dueños de Playas de Estacionamientos** señala sus necesidades y preocupaciones al administrar sus espacios de estacionamiento, resaltando oportunidades para optimizar la gestión y mejorar la experiencia de los clientes con **PARKINGNOW**.
+
 
 ![Empathy Map](./Assets/Dueños%20de%20playas%20de%20estacionamientos%20-%20Empathy%20Mapping.png)
 
 
 #### 2.3.5. As-is Scenario Mapping
 
-El As-Is nos proporciona un análisis visual de los escenarios actuales para identificar oportunidades de mejora en la experiencia del usuario.
+El As-Is ofrece un análisis visual de los escenarios actuales, ayudando a identificar oportunidades de mejora en la experiencia del usuario.
 
 ### Segmento Conductores Urbanos Frecuentes
 
-El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** resalta los desafíos y mejoras necesarias en la experiencia de estacionamiento, permitiendo optimizar las soluciones de **PARKINGNOW**.
+El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** pone en evidencia los desafíos y áreas de mejora en la experiencia de estacionamiento, lo que permite optimizar las soluciones que ofrece **PARKINGNOW**.
+
 
 ![As is Scenario](./Assets/as_is_segment_1.jpg) 
 
+### Segmento Dueños de Playas de Estacionamientos
 
-### Segmento Dueños de playas de estacionamientos
+El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, abarcando desde la preparación del espacio hasta la gestión post-servicio. Esto contribuye a mejorar la eficiencia y la satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
 
-El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, desde la preparación del espacio hasta la gestión post-servicio, ayudando a mejorar la eficiencia y satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
 
 ![As is Scenario](./Assets/as_is_segment_2.jpg)
-
 ### 2.4. Ubiquitous Language
-**Espacio de Estacionamiento:** Un lugar específico dentro de un estacionamiento donde un vehículo puede ser aparcado.
 
-**Reserva:** La acción de reservar un espacio de estacionamiento específico por un periodo de tiempo determinado, garantizando su disponibilidad.
+**Espacio de Estacionamiento:** Un lugar designado dentro de un estacionamiento donde los vehículos pueden ser aparcados.
 
-**Disponibilidad en Tiempo Real:** Información actualizada instantáneamente sobre los espacios de estacionamiento libres y ocupados.
+**Reserva:** El acto de apartar un espacio de estacionamiento por un tiempo específico, garantizando que estará disponible cuando el usuario lo necesite.
 
-**Geolocalización:** El uso de tecnologías de ubicación para determinar la posición geográfica del usuario y mostrar opciones de estacionamiento cercanas.
+**Disponibilidad en Tiempo Real:** Información instantánea y actualizada sobre los espacios de estacionamiento ocupados y libres.
 
-**Mapa Interactivo:** Un mapa digital dentro de la aplicación que muestra la ubicación de estacionamientos disponibles en tiempo real.
+**Geolocalización:** Utilización de tecnologías de ubicación para determinar la posición del usuario y mostrarle las opciones de estacionamiento cercanas.
 
-**Tarifas por Hora:** El costo asociado con la reserva de un espacio de estacionamiento, calculado por horas de uso.
+**Mapa Interactivo:** Mapa digital integrado en la aplicación que visualiza en tiempo real los estacionamientos disponibles cercanos.
 
-**Pago en Línea:** El proceso de completar el pago para una reserva a través de métodos de pago digitales, como tarjetas de crédito, débito o billeteras electrónicas.
+**Tarifas por Hora:** El costo calculado por el uso de un espacio de estacionamiento, basado en el tiempo medido en horas.
 
-**Historial de Reservas:** Un registro de todas las reservas pasadas realizadas por el usuario, que incluye detalles como fecha, hora, ubicación y costo.
+**Pago en Línea:** Proceso de completar el pago de una reserva utilizando métodos de pago digitales, tales como tarjetas de crédito, débito o billeteras electrónicas.
 
-**Notificaciones en Tiempo Real:** Alertas enviadas al usuario para informarles sobre cambios en la disponibilidad, confirmaciones de reserva, o vencimientos de tiempo de estacionamiento.
+**Historial de Reservas:** Registro de las reservas anteriores del usuario, incluyendo detalles como fecha, hora, ubicación y monto pagado.
 
-**Usuario:** Persona que utiliza la aplicación para buscar, reservar y pagar por espacios de estacionamiento.
+**Notificaciones en Tiempo Real:** Mensajes enviados al usuario para informarle sobre cambios en la disponibilidad de espacios, confirmaciones de reserva o alertas de vencimiento de tiempo de estacionamiento.
 
-**Propietario de Estacionamiento:** Persona o entidad que posee y administra un estacionamiento y que ofrece espacios para la reserva a través de la aplicación.
+**Usuario:** Persona que usa la aplicación para buscar, reservar y pagar por espacios de estacionamiento.
 
-**Administrador del Sistema:** Persona responsable de la gestión y mantenimiento de la aplicación, incluyendo la supervisión de la disponibilidad de los espacios y la gestión de usuarios y datos.
+**Propietario de Estacionamiento:** Persona o entidad que posee y gestiona un estacionamiento, y que ofrece espacios disponibles para reservas a través de la aplicación.
 
-**Check-in:** El proceso de confirmar la llegada al espacio de estacionamiento reservado, activando el tiempo de uso.
+**Administrador del Sistema:** Encargado de supervisar y mantener el funcionamiento de la aplicación, gestionando la disponibilidad de los espacios, los usuarios y los datos.
 
-**Check-out:** El proceso de marcar la salida del espacio de estacionamiento, finalizando el tiempo de uso y actualizando la disponibilidad.
+**Check-in:** Proceso de registrar la llegada del usuario al espacio de estacionamiento reservado, iniciando el tiempo de uso.
 
-**Zona de Estacionamiento:** Una área geográfica específica que contiene múltiples espacios de estacionamiento, gestionada dentro de la aplicación.
+**Check-out:** Proceso de registrar la salida del espacio de estacionamiento, finalizando el tiempo de uso y actualizando la disponibilidad.
 
-**Tiempo de Gracia:** Un periodo corto de tiempo permitido antes o después de la reserva, en el cual el usuario puede llegar sin incurrir en cargos adicionales.
+**Zona de Estacionamiento:** Área geográfica que contiene múltiples espacios de estacionamiento, gestionada a través de la aplicación.
 
-**Multa por Exceso de Tiempo:** Un cargo adicional aplicado si un usuario excede el tiempo de estacionamiento reservado.
+**Tiempo de Gracia:** Breve periodo permitido antes o después de la reserva, en el cual el usuario puede llegar sin incurrir en cargos adicionales.
 
-**Sistema de Validación:** Mecanismo para verificar que un vehículo tenga una reserva válida para un espacio de estacionamiento específico.
+**Multa por Exceso de Tiempo:** Cargo adicional aplicado si el usuario sobrepasa el tiempo reservado para el estacionamiento.
 
-**Interfaz de Usuario (UI):** La parte visual de la aplicación con la que los usuarios interactúan para realizar reservas, hacer pagos y recibir notificaciones.
+**Sistema de Validación:** Mecanismo para confirmar que un vehículo tiene una reserva válida para un espacio de estacionamiento determinado.
 
-**Backend:** Infraestructura que aloja y gestiona los datos de la aplicación, incluyendo la disponibilidad de espacios y la información de los usuarios.
+**Interfaz de Usuario (UI):** Elementos visuales de la aplicación con los que los usuarios interactúan para realizar reservas, pagos y recibir notificaciones.
+
+**Backend:** Infraestructura tecnológica que gestiona y almacena los datos de la aplicación, tales como la disponibilidad de espacios y la información de los usuarios.
 
 ## Capítulo III: Requirements Specification
 
