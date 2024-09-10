@@ -1755,7 +1755,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
   </tr>
 
   <tr>
-    <td> CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
+    <td>  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/</td>
     <td> Desplegar Landing Page de PARKINGNOW</td>
   </tr>
 </table>
@@ -1764,7 +1764,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
 
 Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
 
-**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-** CAMBIAR https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
+**Link de la Landing Page desplegada:** [PARKINGNOW](https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/) **-**  https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
