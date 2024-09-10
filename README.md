@@ -1418,13 +1418,13 @@ Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
 
 ### 5.1. Software Configuration Management
 
-En esta sección, el equipo establece las decisiones y convenciones para mantener la consistencia durante el ciclo de vida del desarrollo del software. Estas convenciones son cruciales para asegurar que todo el equipo esté alineado en términos de uso de herramientas, prácticas de codificación, y procesos de despliegue.
+Se definen convenciones para mantener la coherencia en el desarrollo del software, alineando al equipo en el uso de herramientas, prácticas de codificación y procesos de despliegue.
 
 #### 5.1.1. Software Development Environment Configuration
 
 En este apartado se mencionarán los distintos productos de software empleados por el equipo de desarrollo para llevar a cabo las actividades relacionadas con la elaboración del proyecto **PARKINGNOW**.
 
-#### Product UX/UI Design
+##### Product UX/UI Design
 
 1. **UXPressia**: [https://uxpressia.com/](https://uxpressia.com/)  
    Se utilizó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps, proporcionando una visión centrada en el usuario.
@@ -1435,7 +1435,7 @@ En este apartado se mencionarán los distintos productos de software empleados p
 3. **Miro**: [https://miro.com/](https://miro.com/)  
    Utilizada para la creación de los As-Is y To-Be Scenario Maps, ayudando a visualizar y planificar los diferentes escenarios de uso de la plataforma.
 
-#### Software Development
+##### Software Development
 
 4. **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
    Entorno de desarrollo ligero empleado para la creación del landing page y las aplicaciones web, utilizando HTML5, CSS3, JavaScript y TypeScript.
@@ -1455,7 +1455,7 @@ En este apartado se mencionarán los distintos productos de software empleados p
 9. **Git**: [https://git-scm.com/](https://git-scm.com/)  
    Software de control de versiones utilizado para gestionar los cambios en el código a través de commits y facilitar el trabajo colaborativo.
 
-#### Project Management and Collaboration
+##### Project Management and Collaboration
 
 10. **WhatsApp**: [https://web.whatsapp.com/](https://web.whatsapp.com/)  
    Aplicación de mensajería utilizada para la coordinación y discusión de temas relacionados con el proyecto en tiempo real.
@@ -1463,7 +1463,7 @@ En este apartado se mencionarán los distintos productos de software empleados p
 11. **Google Docs**: [https://docs.google.com/](https://docs.google.com/)  
    Utilizado para la creación y edición colaborativa de documentos relacionados con el proyecto, permitiendo a varios miembros trabajar simultáneamente.
 
-#### Software Documentation
+##### Software Documentation
 
 12. **Vertabelo**: [https://vertabelo.com/](https://vertabelo.com/)  
    Herramienta online utilizada para el diseño, creación y gestión colaborativa de bases de datos para el proyecto.
@@ -1474,7 +1474,7 @@ En este apartado se mencionarán los distintos productos de software empleados p
 14. **Structurizr**: [https://www.structurizr.com/](https://www.structurizr.com/)  
    Herramienta utilizada para modelar la arquitectura de software mediante diagramas C4, permitiendo un modelado claro de la estructura del proyecto.
 
-#### Software Testing
+##### Software Testing
 
 15. **Swagger / OpenAPI Specification**: [https://swagger.io/specification/](https://swagger.io/specification/)  
    Utilizado para documentar y probar las APIs RESTful desarrolladas con Spring Boot, facilitando la creación de documentación interactiva.
@@ -1482,43 +1482,29 @@ En este apartado se mencionarán los distintos productos de software empleados p
 16. **Markdown**  
    Lenguaje de marcado ligero utilizado para documentar el proyecto y en los archivos README del repositorio de la organización.
 
-### 5.1.2. Source Code Management
+#### 5.1.2. Source Code Management
 
-La gestión del código fuente es una parte fundamental del desarrollo de cualquier proyecto de software, ya que permite rastrear cambios, revertir versiones y coordinar a varios desarrolladores trabajando simultáneamente. En PARKINGNOW, utilizaremos **Git** como sistema de control de versiones y **GitHub** como plataforma para alojar nuestros repositorios.
+**PARKINGNOW** emplea **Git** y **GitHub** para el control de versiones, siguiendo el flujo de trabajo **GitFlow** con ramas para desarrollo, características, lanzamientos y correcciones. Se promueve el uso de **Conventional Commits** para mensajes claros.
 
-### URL de los Repositorios:
-- **Organización:**  https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito
-- **Reporte:**  https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report
-- **Landing Page:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page
-- **Frontend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend
-- **Backend:** https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend
+##### URL de los Repositorios:
+- **Organización:**  https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW
+- **Reporte:**  https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report
+- **Landing Page:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page
+- **Frontend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend
+- **Backend:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend
 
 
 ### GitFlow
 
-Para la gestión del desarrollo de código, PARKINGNOW sigue el flujo de trabajo **GitFlow**, que permite la creación de ramas para distintas funciones y asegura un proceso de integración continuo y ordenado. A continuación, se detallan las ramas y su funcionamiento:
+En **PARKINGNOW**, se emplea **GitFlow** para la gestión del código, estructurando el trabajo en distintas ramas para una integración ordenada. Las ramas incluyen:
 
-1. **Master Branch:** Rama principal que contiene las versiones estables del proyecto. Todas las demás ramas se derivan de aquí.
-2. **Develop Branch:** Rama secundaria que almacena las características en desarrollo antes de fusionarse a la rama principal.
-3. **Feature Branches:** Ramas temporales que se crean para desarrollar nuevas funcionalidades. Estas se crean desde `develop` y, al completarse, se fusionan de nuevo en `develop`.
-4. **Feature Branches:**
-   - Son ramas temporales que se crean para desarrollar nuevas funcionalidades o solucionar problemas específicos. Estas ramas se crean a partir de **develop** y, una vez finalizado el trabajo, se fusionan nuevamente en **develop**. Cada **feature branch** debe tener un nombre descriptivo, como `feature/nueva-funcionalidad`, que indique la naturaleza de la tarea en desarrollo.
+1. **Master Branch:** Contiene las versiones estables.
+2. **Develop Branch:** Para características en desarrollo.
+3. **Feature Branches:** Para nuevas funcionalidades, derivadas de develop y reintegradas tras completarse.
+4. **Release Branches:** Preparan versiones estables desde develop, ajustando detalles finales antes de fusionar en Master.
+5. **Hotfix Branches:** Arreglan errores urgentes en Master y se fusionan en ambas Master y develop.
 
-5. **Release Branches:**
-   - Estas ramas se crean cuando el equipo decide que la rama **develop** está lista para ser convertida en una nueva versión estable. A partir de aquí, se realizan los últimos ajustes y correcciones antes de fusionarse en la **Master**. Esta rama también permite preparar versiones de prueba para el equipo de QA.
-
-6. **Hotfix Branches:**
-   - Son ramas dedicadas a solucionar errores críticos en la **Master** que no pueden esperar a la siguiente versión. Se crean a partir de **Master** y, una vez solucionado el error, se fusionan tanto en **Master** como en **develop** para asegurar que las correcciones también se apliquen a la rama de desarrollo.
-
-### Implementación de GitFlow
-
-Para implementar **GitFlow** en PARKINGNOW, se utiliza la siguiente estructura de ramas:
-
-- **Master:** La versión estable del proyecto, lista para ser lanzada o en producción.
-- **Develop:** La rama de desarrollo donde se integran todas las nuevas características antes de ser lanzadas.
-- **Feature Branches:** Ramas temporales, nombradas `feature/nombre-funcionalidad`, para el desarrollo de características individuales.
-- **Release Branches:** Ramas temporales, nombradas `release/nombre-version`, utilizadas para preparar versiones finales antes de ser fusionadas en **Master**.
-- **Hotfix Branches:** Ramas temporales, nombradas `hotfix/nombre-problema`, que permiten arreglar errores críticos en la **Master** y luego se fusionan en **Develop** para mantener el proyecto sincronizado.
+La implementación de GitFlow se organiza con master como la versión estable, develop para integrar características, y ramas temporales (*feature/*, *release/*, *hotfix/*) para funcionalidades específicas, versiones finales y correcciones urgentes, respectivamente.
 
 ### Commits Convencionales
 
@@ -1662,38 +1648,21 @@ El código no debe exceder las **80 columnas** por línea. En caso de necesitar 
 
 En esta sección se detalla la configuración necesaria para el despliegue de la solución **PARKINGNOW**, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
 
-A continuación, se describen los pasos para realizar el despliegue de la **Landing Page** del proyecto **PARKINGNOW**:
+**Landing Page**: 
 
+Se utiliza la documentación oficial de github para realizar el despliegue del landing page: https://docs.github.com/es/pages/quickstart, el cual se resumen de la siguiente manera: 
 1. **Actualización de Ramas:**
    Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
-
 2. **Acceso a las Configuraciones:**
    Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
-
-![Configuración de GitHub Pages](./Assets/Configuration.png)
-
-
 3. **Selección de GitHub Pages:**
    Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
-
-   ![Selección de Rama](./Assets/Deploy.png)
-
-
 4. **Configuración de la Rama Principal:**
    En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
-
-  ![Confirmación del Despliegue](./Assets/GithubPages.png)
-
 5. **Confirmación del Deploy:**
    Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
-
-   ![Comprobación del Despliegue](./Assets/URL.png)
-
-
 6. **Acceso a la Página:**
-   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy. Aquí está el enlace para el proyecto **PARKINGNOW**: https://upc-pre-si729-sw54-code-mondonguito.github.io/Landing-Page/
-
-   ![Acceso a la Página](./Assets/Landing.png)
+   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy.
 
 
 ### 5.2. Landing Page, Services & Applications Implementation
