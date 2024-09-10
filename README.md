@@ -1660,15 +1660,115 @@ Se utiliza la documentación oficial de github para realizar el despliegue del l
 
 ### 5.2. Landing Page, Services & Applications Implementation
 
-#### 5.2.X. Sprint n
+#### 5.2.1. Sprint 1
 
-##### 5.2.X.1. Sprint Planning n
+##### 5.2.1.1. Sprint Planning n
+En esta sección se especifican los detalles del Sprint Planning Meeting, que es una reunión que se lleva a cabo al inicio de cada sprint con la finalidad de establecer las tareas que se realizarán durante el período determinado.
 
-##### 5.2.X.2. Sprint Backlog n
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            28/08/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 pm         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota y coordinacion a traves de Whastapp   
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+        ParkingNow
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            Todos los miembros del grupo ParkingNow
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+Se definieron historias de usuario enfocadas en crear el Landing Page y desarrollar la funcionalidad de AlquilaFacil, logrando su despliegue a tiempo. Además, la documentación se mejoró con una visión de negocio ampliada y la adición de artefactos relevantes. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Hemos logrado una gran organización y comunicación gracias a herramientas como Google Meet, pero aún podemos mejorar nuestra coordinación y colaboración. Es crucial mejorar cómo estimamos el tiempo para desarrollar wireframes y mockups para evitar retrasos y asegurar un flujo de trabajo fluido. Además, adoptar más consistentemente el uso de Markdown en nuestra documentación hará que la información sea más accesible y fácil de entender para el equipo.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            9  
+        </td>
+    </tr>
+</table>
 
-##### 5.2.X.3. Development Evidence for Sprint Review
+##### 5.2.1.2. Sprint Backlog 1
+https://trello.com/b/9jnCCDvn
 
-##### 5.2.X.4. Testing Suite Evidence for Sprint Review
+##### 5.2.1.3. Development Evidence for Sprint Review
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review.
 Tras finalizar el Sprint 1, pudimos implementar todas las secciones de nuestra Landing Page, asegurando que se vea perfectamente. También le dimos un formato llamativo que atrae la atención del usuario hacia sus distintos elementos. Además, incorporamos métodos de navegación en la página, como botones al principio y al final, que permiten desplazarse fácilmente entre las secciones. A continuación, te compartimos imágenes que muestran los avances logrados.
