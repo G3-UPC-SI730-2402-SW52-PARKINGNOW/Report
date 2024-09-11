@@ -1791,15 +1791,15 @@ Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proc
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
 
-![alt text](Assets/Todos.png)
+![alt text](Assets/General.png)
 
 Esta imagen proporciona una representación visual de las fechas en que se realizaron modificaciones en el repositorio de nuestra Landing Page, así como el número de cambios efectuados en cada commit. Este gráfico es útil para entender cómo ha evolucionado el proyecto a lo largo del tiempo y la intensidad del desarrollo.
 
-
+![alt text](Assets/pagina.png)
 
 Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
-![alt text](Assets/Network.png)
 
+![alt text](Assets/Branch.png)
 
 
 ### Conclusiones y recomendaciones
