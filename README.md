@@ -1647,25 +1647,34 @@ En esta sección se detalla la configuración necesaria para el despliegue de la
 **Landing Page**: 
 
 Se utiliza la documentación oficial de github para realizar el despliegue del landing page: https://docs.github.com/es/pages/quickstart, el cual se resumen de la siguiente manera: 
+
 1. **Actualización de Ramas:**
    Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
 2. **Acceso a las Configuraciones:**
    Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
-![alt text](Assets/Configuration.png)
+
+![alt text](Assets/Settings.png)
+
 3. **Selección de GitHub Pages:**
    Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+![alt text](Assets/Page.png)
 
-![alt text](Assets/GithubPages.png)
 4. **Configuración de la Rama Principal:**
    En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
-   ![alt text](Assets/GithubPages.png)
+
+![alt text](Assets/Main.png)
 
 5. **Confirmación del Deploy:**
    Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
-![alt text](Assets/URL.png)
+
+![alt text](Assets/Save.png)
+
+![alt text](<Assets/Sitio web.png>)
+
 6. **Acceso a la Página:**
    Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy.
-![alt text](Assets/Landing.png)
+
+![alt text](Assets/Listo.png)
 
 ### 5.2. Implementación de Landing Page, Servicios y Aplicaciones
 
