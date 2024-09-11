@@ -1395,12 +1395,31 @@ Diagrama que cubre todo lo relacionado con la gestión de ubicación en tiempo r
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
-
+![alt text](<Assets/ParkingNow - Class Diagrams.png>)
 #### 4.7.2. Class Dictionary
 
 ### 4.8. Database Design
 
 En este apartado se mostrará el diseño de base de datos utilizado en nuestro proyecto, siguiendo los contextos definidos anteriormente.
+
+
+
+| Clase         | Descripción |
+| ------------- | ----------- |
+| **Alarma**    | Representa una alarma que puede ser activada cuando ocurre un evento específico. Incluye atributos como `id`, `estado` y `activado`, y permite manipular las alarmas a través de métodos como `activar()` y `desactivar()`. |
+| **Transaccion** | Gestiona las transacciones del sistema, relacionadas con el uso de servicios o pagos. Atributos como `estandarizar`, `fecha_pago`, y `monto_total` permiten definir detalles financieros. Contiene métodos como `getInfoEstado()`. |
+| **Usuario**   | Contiene la información básica del usuario, como su `id`, `nombre`, `apellido`, y su nivel de acceso dentro del sistema. Ofrece métodos como `getInfo()` y `getAcceso()`. |
+| **Vinculo**   | Define la relación entre usuarios y el sistema, asociando vehículos o estacionamientos al perfil del usuario. Contiene el método `getVinculo()`. |
+| **Servicio_al_cliente** | Permite la gestión de servicios relacionados con el usuario, con atributos como `id`, `nombre_servicio`, y `estado`. Incluye métodos para obtener información y gestionar el servicio. |
+| **Conductores** | Representa a los conductores dentro del sistema, asociados a los vehículos que usan el sistema de estacionamiento. Contiene métodos para obtener información de vehículos y el historial. |
+| **Promociones** | Gestiona las promociones aplicables al sistema, permitiendo la creación y activación de promociones específicas. Contiene atributos como `id`, `descuento`, y `disponibilidad`. |
+| **Notificacion** | Gestiona el envío de notificaciones a los usuarios del sistema. Tiene atributos como `id`, `descripcion`, y `estado`, y métodos para enviar o cancelar notificaciones. |
+| **Dueno_de_local** | Representa a los dueños de los estacionamientos. Contiene atributos como `nombre`, `direccion`, y métodos para gestionar los locales y obtener información de los mismos. |
+| **Espacio**   | Representa los espacios dentro de los locales de estacionamiento, cada uno con atributos como `id`, `disponibilidad`, y `capacidad`. Incluye métodos como `verificarDisponibilidad()`. |
+| **Local**     | Define los locales que contienen múltiples espacios de estacionamiento. Contiene atributos como `direccion`, `capacidad_total`, y `horario`, y está relacionado con la clase `Espacio`. |
+| **Tarifa**    | Define las tarifas aplicables a los espacios de estacionamiento. Incluye atributos como `detalle`, `precio`, y `fecha`, y tiene métodos como `getInfo()`. |
+| **Recibo**    | Gestiona los recibos de las transacciones, con atributos como `id_recibo`, `monto`, `fecha_emision`, y métodos para procesar y emitir recibos. |
+| **ProcesoPago** | Gestiona el procesamiento de pagos dentro del sistema. Se asocia con `Recibo` para registrar la información financiera de cada transacción. |
 
 #### 4.8.1. Database Diagram
 
