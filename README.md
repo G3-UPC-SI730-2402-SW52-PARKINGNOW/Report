@@ -175,12 +175,12 @@ En esta sección describiremos la descripción de nuestra Startup.
 
  **Integrantes**                                              | **Descripción**                                                                                                                                                                                                                                                | **Conocimientos**                               |
 |--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| ![Foto de Diego](Assets/Diego.jpg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
-| ![Foto de Javier](Assets/javier.webp) <br> Ramos Huamanchumo, Javier Aramis | Mi nombre es Javier Ramos, actualmente me encuentro en el proceso de traslado hacia la carrera de Ingeniería de Software, ya que deseo formalizar mis conocimientos en el área que me apasiona y a la que me dedico laboralmente. Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. | Javascript, AWS, Contentful | 
+| ![Foto de Diego](Assets/Diego.jpeg) <br> Diego Ulises Soto Quispe | Soy estudiante de 5to ciclo en la carrera de Ingeniería de Software. Soy responsable en las labores que se asignan y puntual con los trabajos por entregar, fuera del mundo de programación, me gusta jugar basquet, salir a pasear, jugar videojuegos y manejar en bicicleta. | HTML, Base de datos en SQL Server, C++, Python, NoSQL, JSON |
+| ![Foto de Javier](Assets/javier.jpeg) <br> Ramos Huamanchumo, Javier Aramis | Mi nombre es Javier Ramos, actualmente me encuentro en el proceso de traslado hacia la carrera de Ingeniería de Software, ya que deseo formalizar mis conocimientos en el área que me apasiona y a la que me dedico laboralmente. Tengo experiencia en AWS, diversas tecnologías frontend, backend y CMS. | Javascript, AWS, Contentful | 
 | ![Foto de Omar](Assets/Omar.jpeg) <br> Omar Harold Rivera Ticllacuri | Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia sobre el desarrollo de software de entretenimiento. Por ende, apoyaré al grupo en todo lo posible para poder desarrollar adecuadamente el trabajo y la propuesta que se nos asignó. | C++, C#, Python, Unity 2D/3D, Html y Css|
 | ![Foto de Samuel](Assets/Samuel.jpeg) <br> Samuel Elias Molina Asencios | Soy estudiante de 7mo ciclo en la carrera de Ingeniería de Software. Actualmente formo parte de un equipo de desarrollo ejecutando el rol de Analista desarrollador de software, me gusta mucho el arte y el deporte, en mis tiempos libres toco Piano o voy a nadar no hay nada mejor que la natación. | SQL, NoSQL, C++, Java, JavaScript, Firebird, Vue, Quasar, Node js, Jreport, PHP, Sniffer, HTML, CSS.|
 | ![Foto de Rodrigo](Assets/Rodrigo.png) <br> Rodrigo Liberato Saldaña | Soy estudiante de 6to ciclo de la carrera de Ingenieria de software, soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
-| ![Foto de Mateo](Assets/Mateo.jpg) <br> Loechle Arias Mateo Italo |  Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
+| ![Foto de Mateo](Assets/Mateo.jpeg) <br> Loechle Arias Mateo Italo |  Soy estudiante de Ingeniería de Software, tengo 19 años y actualmente me encuentro en el quinto ciclo de mi carrera. Soy una persona con la cual tengo la disciplina y responsable para desarrollar proyectos de software y software de entretenimiento. Cuento con experiencia soy una persona que valora el esfuerzo e intenta apoyar en todo lo posible. La responsabilidad y honestidad son unas de mis cualidades y que seran de ayuda para que el trabajo salga lo mejor posible | C++, SQL, Java, PHP, HTML, CSS.|
 
 
 
@@ -405,7 +405,7 @@ A continuacion, se presentara la tabla de competidores para analizar cada punto 
 
 | ***Competidor***          || ParkingNow| Parkimeter| ElParking| Aparcados|
 | ------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ***Logo***| |![ParkingNow](Assets/ParkingNowlogo.png) |![PaKimeter](Assets/Parkimeter.jpeg) |![ElParking](Assets/ElParking.png)|![Aparcados](Assets/Aparcados.jpg)
+| ***Logo***| |![ParkingNow](Assets/ParkingNowlogo.png) |![PaKimeter](Assets/Parkimeter.jpeg) |![ElParking](Assets/ElParking.png)|![Aparcados](Assets/Aparcados.jpeg)
 | ***Perfil***| Overview| Es una aplicacion web que brinda la posibilidad de reservar espacios de estacionamiento en múltiples ciudades ademas que brinda la conexion entre los consumidores y dueños de estacionamientos| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en  diversas ciudades de Europa y América Latina| Es una aplicacion web y movil que ofrece servicios de reserva de plazas de aparcamiento en diversas ciudades de España principalmente, pero expandiéndose alrededor del mundo|
 || ***Ventaja competitiva ¿Qué valor ofrece a los clientes?*** | Cancelación gratuita hasta con 24 horas de antelación de la reserva, inclusion de un sensor para el automovil y ser el puente entre los consumidores y dueños de playas de estacionamientos en zonas urbanas| Ofrece descuentos de hasta el 70% y no cobra gastos de gestión | Permite más que solo pagar estacionamientos, sino gestionar multas y pagar parquímetros| La app incluye geolocalización y ofrece notificaciones a tiempo real|
 | ***Perfil de Marketing*** | ***Mercado objetivo***| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas y personas dueñas de estacionamientos de playas.| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas| Personas que buscaban soluciones de estacionamiento en áreas urbanas congestionadas|
@@ -828,14 +828,14 @@ El As-Is ofrece un análisis visual de los escenarios actuales, ayudando a ident
 El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** pone en evidencia los desafíos y áreas de mejora en la experiencia de estacionamiento, lo que permite optimizar las soluciones que ofrece **PARKINGNOW**.
 
 
-![As is Scenario](./Assets/as_is_segment_1.jpg) 
+![As is Scenario](./Assets/as_is_segment_1.jpeg) 
 
 ### Segmento Dueños de Playas de Estacionamientos
 
 El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, abarcando desde la preparación del espacio hasta la gestión post-servicio. Esto contribuye a mejorar la eficiencia y la satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
 
 
-![As is Scenario](./Assets/as_is_segment_2.jpg)
+![As is Scenario](./Assets/as_is_segment_2.jpeg)
 ### 2.4. Ubiquitous Language
 
 **Espacio de Estacionamiento:** Un lugar designado dentro de un estacionamiento donde los vehículos pueden ser aparcados.
@@ -1148,7 +1148,7 @@ Utilizaremos el **patrón Z** en el diseño, asegurando que los usuarios comienc
 
 El diseño también integrará colores llamativos que capten la atención del usuario, transmitiendo sensaciones de tranquilidad, confianza y motivándolos a usar nuestra aplicación. Además, los espacios y efectos implementados ayudarán a los usuarios a comprender fácilmente el propósito de nuestra página de inicio y aplicación web.
 
-![alt text](Assets/PatronZ.png)
+![alt text](Assets/PatronZ.jpeg)
 
 ### 4.2. Information Architecture
 
@@ -1394,7 +1394,9 @@ Diagrama que cubre todo lo relacionado con la gestión de ubicación en tiempo r
 ### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
+
 ![alt text](<Assets/ParkingNow - Class Diagrams.png>)
+
 #### 4.7.2. Class Dictionary
 
 ### 4.8. Database Design
@@ -1774,7 +1776,7 @@ La sección de tipos de clientes en la landing page muestra a los posibles usuar
 **Imagen 4:** Sección tipo de cliente.
 
 Seguidamente se presenta la sección de contacto, aquí nuestros posibles usuarios pueden realizarnos preguntas personalizadas acerca de la aplicación que se está presentando.
-![alt text](Assets/Integrantes.jpg)
+![alt text](Assets/Integrantes.jpeg)
 
 **Imagen 5:** Sección Contáctenos
 
