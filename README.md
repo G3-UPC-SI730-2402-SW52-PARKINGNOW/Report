@@ -1677,18 +1677,18 @@ A continuación veremos sobre la planificacion del sprint 1
 
 | Sprint \# | Sprint 1 |
 | :---: | :---: |
-| **Antecedentes de la Planificación del Sprint** |  |
-| Fecha | 03/09/24 |
-| Hora | 22:10 horas |
-| Ubicación | Reunión virtual \- Zoom |
-| Preparado por | Diego Ulises Soto Quispe |
-| Asistentes | \-Diego Ulises Soto Quispe \-Rodrigo Liberato Saldaña \-Omar Harold Rivera Ticllacuri \-Samuel Elias Molina Asencios \-Loechle Arias Mateo Italo \-Ramos Huamanchumo Javier Aramis |
-| Resumen de la Revisión del Sprint n-1 |  |
-| Resumen de la Retrospectiva del Sprint n-1 |  |
-| **Objetivo del Sprint & Historias de Usuario** |  |
-| Objetivo del Sprint 1 | Landing Page ParkingNow |
-| Velocidad del Sprint 1 | Velocidad de 30 \- Primer Sprint |
-| Suma de Puntos de Historia | Sprint 1 \- 104 Story Points |
+| **Sprint Planning Background** |  |
+| Date | 03/09/24 |
+| Time | 22:10 horas |
+| Location | Virtual meeting \- Zoom |
+| Prepared By | Diego Ulises Soto Quispe |
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Loechle Arias Mateo Italo <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios <br> \- Ramos Huamanchumo, Javier Aramis|
+| Sprint 1 Review Summary | La opinión del product owner y las partes interesadas con respecto al avance realizado sobre el desarrollo de la landing page de PARKINGNOW fue positiva, cumpliendo con los objetivos esperados. |
+| Sprint 1 Retrospective Summary | Se completó la implementación de la primera versión de la landing page, aunque se identificaron algunas deficiencias en cuanto al diseño visual y la usabilidad de la plataforma. Se mejorará en futuros sprints. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
+| Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
+| Sum of Story Points | Sprint 1 \- 104 Story Points |
 
 ##### 5.2.1.2. Backlog del Sprint 1
 
