@@ -154,6 +154,15 @@ del ABET – EAC - Student Outcome 5.
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+- [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
@@ -1822,6 +1831,134 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ![alt text](Assets/Branch.png)
 
+### Sprint 2
+
+##### 5.2.2.1.Sprint Planning 2 
+
+Los detalles de Sprint Planning se realizo al inicio de este sprint para poder definir las tareas respectivas para cada uno de los integrantes y mostrar nuestros avances semanales.
+
+##### 5.2.2.2. Sprint Planning 2
+
+| Sprint # | Sprint 2 |
+| :---: | :---: |
+| **Sprint Planning Background** |  |
+| Date | 21/09/24 |
+| Time | 13:00 PM |
+| Location | Virtual meeting \- Zoom |
+| Prepared By | Diego Ulises Soto Quispe |
+| Attendees | \- Diego Ulises Soto Quispe <br> \- Loechle Arias Mateo Italo <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios <br> \- Ramos Huamanchumo, Javier Aramis |
+| Sprint 2 Review Summary | El objetivo principal de este Sprint fue mejorar la experiencia del usuario con la optimización de las funcionalidades de la página PARKINGNOW. Se completaron tareas técnicas de la API y la administracion de visitantes de la pagina. |
+| Sprint 2 Retrospective Summary | La aplicacion de la API fue exitosa por más de los inconvenientes que se tuvo, por ello se intentara buscar las mejoras respectivas con el feedback obtenido.|
+| **Sprint Goal & User Stories** | US13, US17, US20, US16, US18, US19|
+| Sprint 2 Goal | Desarrollar la gestión de usuarios y la creación de APIs básicas para la plataforma PARKINGNOW. |
+| Sprint 2 Velocity | Velocidad de 30 - Segundo Sprint |
+| Sum of Story Points | Sprint 2 - 30 Story Points |
+
+
+##### Sprint Backlog 2
+
+![alt text](<Assets/Trello 2.png>)
+
+Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
+
+| Sprint \# | Sprint 2 |  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |  | Work-Item / Task |  |  |  |  |  |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US13 | Creación de Endpoint | WT01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
+| US17 | Implementación de Logs | WT02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
+| US20 | Creación de API | WT03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
+| US16 | Simplificación del Proceso de Reservas | WT04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
+| US18 | Gestión Básica de Promociones | WT05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
+| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | WT06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
+|  | feature/chapter-5 | b3ba393 | Added 5.2.2.6 section on README.md | \- | 24/09/24 |
+|  | feature/chapter-5 | a5224f0 | Update README.md | \- | 23/09/24 |
+|  | feature/chapter-5 | 0581697 | Updated README.md and added Trello board screenshot | \- | 17/09/24 |
+|  | feature/chapter-5 | 74b2f9c | Update README.md | \- | 24/09/24 |
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Debido al desarrollo del Landing Page y del Front End Application dentro del Sprint 2, se omite esta sección para el presente avance del proyecto. En futuro desarrollo se brindará información con mayor detalle.
+
+##### 5.2.2.5.Execution Evidence for Sprint Review.
+
+Para el Frontend
+
+Link: https://parkingnow-app.web.app/login
+
+1.- Login
+
+![alt text](Assets/Login.png)
+
+2.- Recuperar Contraseña
+
+![alt text](Assets/Fortgot.png)
+
+3.- Registro para ambos usuarios
+
+![alt text](Assets/Register.png)
+
+4.- Registro del conductor 
+
+![alt text](<Assets/Register driver.png>)
+
+5.- Rehistro del dueño de playa de estacionamiento
+
+![alt text](<Assets/Register owner.png>)
+
+6.- Pantalla del conductor
+
+![alt text](<Assets/Dashboard driver.png>)
+
+7.- Pantalla del dueño de playa de estacionamiento
+
+![alt text](<Assets/Dashboard owner.png>)
+
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+| Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada | Especificacion de parametros | Ejemplo de llamada| Explicacion del Response|
+|- |- |- |- |-| - |
+| reservations-api.service.json | GET | ``fetch('src/app/reservations/services/reservations-api.service.json')`` | Siempre se necesitara la ID para hallar los datos| ``fetch('src/app/reservations/services/reservations-api.service.json') .then(response => response.json()) .then(data => {this.reservations = data;});`` | En esta seccion, se retornan los IDs de las reservas que se hicieorn en la aplicacion | 
+| reviews-api.service.json | GET | ``fetch('src/app/reviews/services/reviews-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/reviews/services/reviews-api.service.json') .then(response => response.json()) .then(data => {this.reviews = data;});`` | En esta seccion, se retornan los IDs de las reviews que se hicieorn en la aplicacion  | 
+| parking-aviability-api.service.json | GET | ``fetch('src/app/parking/services/parkingAV-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/parking/services/parkingAV-api.service.json') .then(response => response.json()) .then(data => {this.parkingAV = data;});`` | En esta seccion, se retornan los IDs de los sitios libres en los estacionamientos que se hicieorn en la aplicacion |
+| users-api.service.json | GET | (Not used) | Siempre se necesitara la ID para hallar los datos requeridos | Language spanish to english index.html | En esta seccion, se retornan los IDs de los usuarios que se hicieorn en la aplicacion |
+| promotions-api.service.json | GET | ``fetch('src/app/promotions/services/promotions-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/promotions/services/promotions-api.service.json') .then(response => response.json()) .then(data => {this.promotions = data;});`` | En esta seccion, se retornan los IDs de las promociones que se hicieorn en la aplicacion |
+| security-api.service.json | GET | ``fetch('src/app/security/services/security-api.service.json')`` | Siempre se necesitara la ID para hallar los datos requeridos | ``fetch('src/app/security/services/security-api.service.json') .then(response => response.json()) .then(data => {this.security = data;});`` | En esta seccion, se retornan los IDs de los servicios de seguridad que se hicieorn en la aplicacion |
+
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente repositorio
+
+
+
+Asimismo como el frontend en el siguiente repositorio
+
+
+
+Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
+
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+En esta entrega, la meta a conseguir fue un avance en el desarrollo de la primera versión del Frontend Web Application y desplegar una version actualizada del Landing Page. Para ello, se uso heramientas como GitHub para el control de versiones, Visual Studio Code y Webstorm como editor de código principal, todo esto en conjunto a  tecnologías como HTML, CSS, JavaScript, para la construcción de las interfaces. A continuación, se presentan los diagramas que muestran los commits realizados por cada miembro del equipo durante el desarrollo de este sprint.
+
+
+Esta imagen proporciona una representación visual de las fechas en que se realizaron los commits en el repositorio de nuestro Frontend Web Application y la Landing Page. Este gráfico es escencial para compreder el cremiento del proyecto con el tiempo, reflejando los aportes de los miembros durante este Sprint.
+
+![alt text](Assets/Frontend1.png)
+
+![alt text](Assets/Frontend2.png)
+
+Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. También proporcionan información sobre el número de visitantes que ha tenido el repositorio a lo largo del tiempo.
+
+![alt text](Assets/Net1.png)
+
+![alt text](Assets/Net2.png)
+
+
 
 ### Conclusiones y recomendaciones
 
@@ -1842,7 +1979,6 @@ Durante todo el desarrollo, se ha priorizado la automatización, lo que ha permi
 4. **Monitoreo y análisis constante:** A medida que la plataforma crece, es vital implementar un sistema de análisis continuo de los datos generados por los usuarios y los espacios de estacionamiento. El análisis de grandes volúmenes de datos permitirá detectar problemas tempranamente y adaptarse rápidamente a las necesidades del mercado. Este enfoque garantizará que la experiencia del usuario se mantenga optimizada y que el servicio siga siendo competitivo.
 
 5. **Sostenibilidad y responsabilidad social:** Conforme crece el impacto de **PARKINGNOW**, es aconsejable centrarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores al disminuir el tiempo de búsqueda de estacionamiento y colaborar con proyectos de ciudades inteligentes, posicionarán a **PARKINGNOW** no solo como una empresa rentable, sino también como un actor clave en la sostenibilidad urbana.
-
 
 ### Video About-the-Team
 
