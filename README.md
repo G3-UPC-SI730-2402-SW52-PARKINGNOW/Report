@@ -2081,7 +2081,7 @@ Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente reposi
 
 Asimismo como el frontend en el siguiente repositorio
 
-![alt text](<Assets/frontend deploy .png>)
+![alt text](<Assets/frontendd .png>)
 
 Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
 
@@ -2095,7 +2095,7 @@ En esta entrega, el objetivo fue avanzar en el desarrollo de la primera versión
 La imagen a continuación ofrece una representación visual de las fechas en las que se hicieron los commits en el repositorio de nuestra Aplicación Web Frontend y la página de aterrizaje. Este gráfico es fundamental para entender cómo ha evolucionado el proyecto con el tiempo, destacando las contribuciones de los miembros del equipo durante el Sprint.
 
 ![alt text](<Assets/Deploy 1.png>)
-![alt text](Assets/lengujaes.png)
+
 
 
 Los gráficos presentados también proporcionan una vista general de las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. Además, muestran datos sobre el número de visitantes que ha recibido el repositorio a lo largo del tiempo.
