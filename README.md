@@ -2094,6 +2094,12 @@ A continuación se muestran los pasos seguidos:
 <img src="assets/deploy-4.jpeg"/>
 
 
+Y podemos ver nuestra app en producción con el link que nos da el servicio: 
+https://parking-now.netlify.app/register
+
+Eso es configurable y podemos asignar un nombre de dominio.
+
+
 Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
 
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
