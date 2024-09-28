@@ -2081,7 +2081,7 @@ Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente reposi
 
 Asimismo como el frontend en el siguiente repositorio
 
-![alt text](<Assets/frontendd .png>)
+![alt text](<Assets/1.png>)
 
 Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
 
