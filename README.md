@@ -38,7 +38,7 @@ Ciclo: 5to <br>
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 10/09/2024  | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe<br><br>Ramos Huamanchumo, Javier Aramis | Se agregó el contenido del capítulo 1 (apartados 1.1, 1.2 y 1.3); el contenido del capítulo 2 (apartados 2.1, 2.2, 2.3, 2.4); el contenido del capítulo 3 (apartados 3.1, 3.2, 3.3 y 3.4); el contenido del capítulo 4 (apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8); y el contenido del capítulo 5 (apartados 5.1 y 5.2). |
-| TP1     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe<br><br>Ramos Huamanchumo, Javier Aramis |                                                                                                                                                                                       |
+| TP1     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe<br><br>Ramos Huamanchumo, Javier Aramis |    Se agregó el contenido del capítulo 5, apartados 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8|                                                                                                                                                                                                                              |
 | TB2     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe<br><br>Ramos Huamanchumo, Javier Aramis |                                                                                                                                                                                       |
 | TF1     |             | Loechle Arias Mateo Italo<br><br>Rodrigo Liberato Saldaña<br><br>Samuel Elias Molina Asencios<br><br>Omar Harold Rivera Ticllacuri<br><br>Diego Ulises Soto Quispe<br><br>Ramos Huamanchumo, Javier Aramis |                                                                                                                                                                                       |
 
@@ -46,12 +46,24 @@ Ciclo: 5to <br>
 # Project Report Collaboration Insights
 
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de GitHub perteneciente a la organización del equipo: [Repositorio GitHub](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report).
+Link: https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report
 
 Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
 - Se crearon los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron enlaces de imagen a través de la carpeta `Assets` en la rama `develop` del repositorio del informe.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
+
+![alt text](Assets/TB1.png)
+
+TP:Durante la preparación del informe, se realizaron las siguientes tareas.
+
+- Se escribieron y organizaron los contenidos asignados a cada miembro en formato Markdown, haciendo commits para asegurar el progreso en el repositorio.
+- Se crearon los documentos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imágenes desde la carpeta `Assets` en la rama `develop` del repositorio del informe.
+- Se organizaron reuniones para coordinar el avance de los elementos del informe y para compartir los progresos del Sprint 2, que se centra en el desarrollo del front-end de la aplicación web.}
+  
+  ![alt text](Assets/TB1.png)
+
 
 # ABET – EAC - Student Outcome 5
 
@@ -64,8 +76,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5. <br>**Omar Harold Rivera Ticllacuri:** Durante el desarrollo del proyecto, participé activamente en el Capítulo 2, creando los user persona y colaborando en el diseño de la Landing Page. También aporté en partes del Capítulo 5, ayudando a definir aspectos clave del proyecto.  <br>**Javier Ramos Huamamchumo** <br> **TB1**: A lo largo del desarrollo del proyecto, desempeñé un papel activo en los capitulos 2 y 5, donde contribuí significativamente en el diseño de la página de aterrizaje y asistiendo en la definición de elementos cruciales para el proyecto. <br> **Rodrigo Liberato Saldaña:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación.  <br>**Samuel Elias Molina Asencios** <br> **TB1**: Durante el desarrollo del proyecto, fui responsable de la creación del escenario, el desarrollo del lenguaje ubicuo y el diseño del empathy map. A través del escenario, logré visualizar cómo los usuarios interactuarían con el sistema en contextos reales, lo que ayudó a anticipar posibles necesidades y mejoras. El lenguaje ubicuo que propuse permitió que todos los involucrados en el proyecto, desde desarrolladores hasta stakeholders, tuvieran una comprensión compartida y clara de los términos y conceptos clave, evitando malentendidos. <br>**Mateo Italo Loechle Arias**:Durante la entrega de la tb1 , tuve la responsabilidad de realizar el capitulo 5 , de igual manera aporte en la realizacion del algunos aspectos del punto 4   | La participación activa fue fundamental para guiar al equipo en la comprensión de los objetivos y la dirección del proyecto. Su capacidad para comunicar las metas y explicar la problemática de manera clara y efectiva permitió que todos los miembros estuvieran alineados en el desarrollo de las soluciones. La presentación de los resultados del análisis de requerimientos y pruebas facilitó que el equipo técnico tuviera una visión clara de los pasos a seguir. Gracias a su liderazgo y su participación en estas tareas clave, se logró un avance constante en el proyecto, sentando las bases para futuras iteraciones de mejora. Su contribución fue esencial para la cohesión del equipo y el cumplimiento de los plazos establecidos.  |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br>**Omar Harold Rivera Ticllacuri:** En el Capítulo 2, desarrollé los user persona, la matriz de tareas de usuario, y el user journey mapping. En el Capítulo 4, trabajé en las Style Guidelines y en el diseño UI de la Landing Page, asegurando una experiencia coherente y atractiva. <br> **Javier Ramos Huamanchumo** <br> **TB1**: Revisé todos los capítulos para asegurar cohesión, comenzando por el Capítulo 1, donde establecí el perfil de nuestra startup y el contexto teórico, utilizando un lenguaje claro. En el Capítulo 3, detallé los requerimientos del sistema y las historias de usuario, y luego, supervisé los Capítulos 4 y 5 para garantizar que el diseño del sistema y su implementación estuvieran alineados con nuestros objetivos. <br> **Rodrigo Liberato Saldaña:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. <br> **Samuel Elias Molina Asencios:** Para este entregable, los aportes que realicé por escrito fueron algunas modificaciones sobre la landing page asi mismo desarrolle los Ubiquitos. <br> **Mateo Italo Loechle Arias**: En el capitulo 4 realize el Labeling Systems, SEO tags and meta tags , searching systems and nav systems. Tambien aporte en el punto 5 con el sprint backlog y un poco el landing page. | La contribución  en la documentación y planificación del proyecto fue determinante para el éxito del equipo. Su habilidad para crear un entorno de trabajo inclusivo, asegurando que todos los miembros estuvieran informados y alineados con los objetivos del proyecto, ayudó a que las tareas se completaran de manera eficiente. La claridad y precisión en la documentación del perfil de la startup y los requerimientos del sistema establecieron una base sólida para el desarrollo. Al colaborar en el diseño del sistema y las configuraciones de implementación, se aseguró de que cada fase del proyecto estuviera bien organizada y alineada con las expectativas. Su capacidad para planificar y cumplir con los objetivos propuestos permitió que el equipo avanzara con seguridad y sin contratiempos, mejorando la calidad de los entregables en cada iteración.  |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5.<br> **Diego Ulises Soto Quispe *TP1:***: En el TP1, lideré discusiones sobre las metas del proyecto y facilité la comprensión de los objetivos, asegurando que todos los miembros del equipo estuvieran informados y alineados en el proceso. <br> **Omar Harold Rivera Ticllacuri:** Durante el desarrollo del proyecto, participé activamente en el Capítulo 2, creando los user persona y colaborando en el diseño de la Landing Page. También aporté en partes del Capítulo 5, ayudando a definir aspectos clave del proyecto.  <br>**Javier Ramos Huamamchumo** <br> **TB1**: A lo largo del desarrollo del proyecto, desempeñé un papel activo en los capitulos 2 y 5, donde contribuí significativamente en el diseño de la página de aterrizaje y asistiendo en la definición de elementos cruciales para el proyecto. <br> **Rodrigo Liberato Saldaña:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación.  <br>**Samuel Elias Molina Asencios** <br> **TB1**: Durante el desarrollo del proyecto, fui responsable de la creación del escenario, el desarrollo del lenguaje ubicuo y el diseño del empathy map. A través del escenario, logré visualizar cómo los usuarios interactuarían con el sistema en contextos reales, lo que ayudó a anticipar posibles necesidades y mejoras. El lenguaje ubicuo que propuse permitió que todos los involucrados en el proyecto, desde desarrolladores hasta stakeholders, tuvieran una comprensión compartida y clara de los términos y conceptos clave, evitando malentendidos. <br>**Mateo Italo Loechle Arias**:Durante la entrega de la tb1 , tuve la responsabilidad de realizar el capitulo 5 , de igual manera aporte en la realizacion del algunos aspectos del punto 4   | La participación activa fue fundamental para guiar al equipo en la comprensión de los objetivos y la dirección del proyecto. Su capacidad para comunicar las metas y explicar la problemática de manera clara y efectiva permitió que todos los miembros estuvieran alineados en el desarrollo de las soluciones. La presentación de los resultados del análisis de requerimientos y pruebas facilitó que el equipo técnico tuviera una visión clara de los pasos a seguir. Gracias a su liderazgo y su participación en estas tareas clave, se logró un avance constante en el proyecto, sentando las bases para futuras iteraciones de mejora. Su contribución fue esencial para la cohesión del equipo y el cumplimiento de los plazos establecidos.  |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br> **Diego Ulises Soto Quispe *TP1***: En el TP1, fomenté un entorno colaborativo al documentar el perfil de la startup y los requerimientos del sistema, asegurando que el equipo tuviera claridad sobre las metas y tareas. Además, colaboré en el diseño y la implementación, lo que permitió una planificación efectiva y el cumplimiento de los objetivos del proyecto. <br>**Omar Harold Rivera Ticllacuri:** En el Capítulo 2, desarrollé los user persona, la matriz de tareas de usuario, y el user journey mapping. En el Capítulo 4, trabajé en las Style Guidelines y en el diseño UI de la Landing Page, asegurando una experiencia coherente y atractiva. <br> **Javier Ramos Huamanchumo** <br> **TB1**: Revisé todos los capítulos para asegurar cohesión, comenzando por el Capítulo 1, donde establecí el perfil de nuestra startup y el contexto teórico, utilizando un lenguaje claro. En el Capítulo 3, detallé los requerimientos del sistema y las historias de usuario, y luego, supervisé los Capítulos 4 y 5 para garantizar que el diseño del sistema y su implementación estuvieran alineados con nuestros objetivos. <br> **Rodrigo Liberato Saldaña:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. <br> **Samuel Elias Molina Asencios:** Para este entregable, los aportes que realicé por escrito fueron algunas modificaciones sobre la landing page asi mismo desarrolle los Ubiquitos. <br> **Mateo Italo Loechle Arias**: En el capitulo 4 realize el Labeling Systems, SEO tags and meta tags , searching systems and nav systems. Tambien aporte en el punto 5 con el sprint backlog y un poco el landing page. | La contribución  en la documentación y planificación del proyecto fue determinante para el éxito del equipo. Su habilidad para crear un entorno de trabajo inclusivo, asegurando que todos los miembros estuvieran informados y alineados con los objetivos del proyecto, ayudó a que las tareas se completaran de manera eficiente. La claridad y precisión en la documentación del perfil de la startup y los requerimientos del sistema establecieron una base sólida para el desarrollo. Al colaborar en el diseño del sistema y las configuraciones de implementación, se aseguró de que cada fase del proyecto estuviera bien organizada y alineada con las expectativas. Su capacidad para planificar y cumplir con los objetivos propuestos permitió que el equipo avanzara con seguridad y sin contratiempos, mejorando la calidad de los entregables en cada iteración.  |
 
 
 
@@ -196,19 +208,19 @@ En esta sección describiremos la descripción de nuestra Startup.
 ### 1.2. Solution Profile
 
 
-**PARKINGNOW** es una solución innovadora creada para revolucionar la experiencia de estacionamiento en entornos urbanos. La plataforma digital que ofrecemos permite a los usuarios localizar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando tecnología de geolocalización y un **sensor infrarrojo**. Este sensor detecta automáticamente la presencia de vehículos al registrar la interrupción de su señal lumínica. Gracias a esto, la disponibilidad de los espacios se actualiza instantáneamente, facilitando a los conductores la localización de los estacionamientos más cercanos, optimizando sus rutas y disminuyendo el tiempo de búsqueda. Esta funcionalidad mejora considerablemente la experiencia de los usuarios, ya que proporciona datos precisos y en tiempo real sobre los espacios disponibles. En resumen, **PARKINGNOW** ofrece una solución completa para abordar los retos del estacionamiento urbano, beneficiando tanto a los conductores como a los dueños de los estacionamientos.
+PARKINGNOW es una solución innovadora creada para revolucionar la experiencia de estacionamiento en entornos urbanos. La plataforma digital que ofrecemos permite a los usuarios localizar, reservar y pagar por espacios de estacionamiento en tiempo real, utilizando tecnología de geolocalización y un sensor infrarrojo. Este sensor detecta automáticamente la presencia de vehículos al registrar la interrupción de su señal lumínica. Gracias a esto, la disponibilidad de los espacios se actualiza instantáneamente, facilitando a los conductores la localización de los estacionamientos más cercanos, optimizando sus rutas y disminuyendo el tiempo de búsqueda. Esta funcionalidad mejora considerablemente la experiencia de los usuarios, ya que proporciona datos precisos y en tiempo real sobre los espacios disponibles. En resumen, PARKINGNOW ofrece una solución completa para abordar los retos del estacionamiento urbano, beneficiando tanto a los conductores como a los dueños de los estacionamientos.
 
 
 ### 1.2.1. Antecedentes y problemática
 
 En las ciudades con gran flujo vehicular, es frecuente observar vehículos mal estacionados, ocupando aceras o dificultando el tránsito. Esta situación representa un problema habitual para los conductores que encuentran dificultades para hallar un espacio donde estacionar, algo que se agrava en las zonas urbanas con mayor tráfico. La demanda de estacionamientos es elevada y la información disponible sobre la ocupación de estos espacios suele ser escasa o desactualizada. Asimismo, la falta de herramientas para reservar un lugar con anticipación incrementa la frustración y el tiempo que los conductores deben invertir en buscar dónde aparcar.
 
-Con el fin de comprender mejor las necesidades de nuestros usuarios y alinear nuestra estrategia con los principios de **Lean UX**, llevamos a cabo un análisis de los antecedentes y problemas utilizando la técnica de "5W's & 2H's", una metodología clave en **Lean UX** para identificar oportunidades de diseño centradas en el usuario. A continuación, se presenta la información obtenida:
+Con el fin de comprender mejor las necesidades de nuestros usuarios y alinear nuestra estrategia con los principios de Lean UX, llevamos a cabo un análisis de los antecedentes y problemas utilizando la técnica de "5W's & 2H's", una metodología clave en Lean UX para identificar oportunidades de diseño centradas en el usuario. A continuación, se presenta la información obtenida:
 
 #### What
 
 **¿Cuál es el problema?**  
-El principal reto que **PARKINGNOW** pretende solucionar es la falta de disponibilidad y adecuación de espacios de estacionamiento, lo que obliga a los conductores a aparcar en áreas no permitidas, generando congestión y exponiéndose a sanciones o robos. Además, la falta de tecnologías avanzadas como sensores infrarrojos limita la capacidad de los estacionamientos para gestionar la ocupación en tiempo real.
+El principal reto que PARKINGNOW pretende solucionar es la falta de disponibilidad y adecuación de espacios de estacionamiento, lo que obliga a los conductores a aparcar en áreas no permitidas, generando congestión y exponiéndose a sanciones o robos. Además, la falta de tecnologías avanzadas como sensores infrarrojos limita la capacidad de los estacionamientos para gestionar la ocupación en tiempo real.
 
 #### When
 
@@ -216,7 +228,7 @@ El principal reto que **PARKINGNOW** pretende solucionar es la falta de disponib
 El problema se presenta principalmente en las horas de mayor afluencia, cuando la demanda de espacios de estacionamiento es más alta y los conductores no logran encontrar un lugar que cumpla con sus expectativas.
 
 **¿Cuándo usan los clientes el producto?**  
-Los clientes recurren a **PARKINGNOW** para comprobar la disponibilidad de estacionamientos en tiempo real, hacer reservas, comparar tarifas y asegurarse de que el estacionamiento elegido satisfaga sus necesidades, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
+Los clientes recurren a PARKINGNOW para comprobar la disponibilidad de estacionamientos en tiempo real, hacer reservas, comparar tarifas y asegurarse de que el estacionamiento elegido satisfaga sus necesidades, gracias a la información en tiempo real proporcionada por los sensores infrarrojos.
 
 #### Where
 
@@ -245,10 +257,10 @@ La ausencia de información actualizada y la falta de herramientas eficaces para
 #### How
 
 **¿En qué situaciones usan los clientes nuestro producto?**  
-Los clientes pueden utilizar **PARKINGNOW** en una amplia variedad de situaciones, como al planificar un viaje, buscar estacionamientos que se ajusten a sus necesidades o durante eventos concurridos donde encontrar un lugar puede ser complicado. Los sensores infrarrojos ofrecen información en tiempo real, lo que mejora la experiencia del usuario.
+Los clientes pueden utilizar PARKINGNOW en una amplia variedad de situaciones, como al planificar un viaje, buscar estacionamientos que se ajusten a sus necesidades o durante eventos concurridos donde encontrar un lugar puede ser complicado. Los sensores infrarrojos ofrecen información en tiempo real, lo que mejora la experiencia del usuario.
 
 **¿Cómo nos conocerán los usuarios?**  
-Nos daremos a conocer a través de campañas publicitarias en redes sociales que resaltarán las ventajas y beneficios de **PARKINGNOW**, como el uso de tecnología avanzada, incluyendo los sensores infrarrojos para una gestión más eficiente del estacionamiento.
+Nos daremos a conocer a través de campañas publicitarias en redes sociales que resaltarán las ventajas y beneficios de PARKINGNOW, como el uso de tecnología avanzada, incluyendo los sensores infrarrojos para una gestión más eficiente del estacionamiento.
 
 #### How much
 
@@ -259,11 +271,11 @@ La falta de seguridad y disponibilidad de estacionamientos es un problema recurr
 
 ### 1.2.2. Lean UX Process
 
-En esta sección se llevará a cabo el **Lean UX Process**, que incluye la visión del modelo de negocio que sustentará nuestro producto de software. Gracias a este enfoque metodológico, podemos centrar nuestra atención en el diseño de la solución y en los problemas identificados mediante **design thinking**.
+En esta sección se llevará a cabo el Lean UX Process, que incluye la visión del modelo de negocio que sustentará nuestro producto de software. Gracias a este enfoque metodológico, podemos centrar nuestra atención en el diseño de la solución y en los problemas identificados mediante design thinking.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-A continuación, usamos la plantilla de **Business Opportunity Statements** (Gothelf, 2022) para guiar a nuestro equipo en la creación de un servicio sin barreras que limiten la creatividad o la flexibilidad. Este enfoque nos anima a abordar nuestro trabajo de una manera que responda a las necesidades de los clientes y nos prepare para un exitoso lanzamiento de la idea.
+A continuación, usamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para guiar a nuestro equipo en la creación de un servicio sin barreras que limiten la creatividad o la flexibilidad. Este enfoque nos anima a abordar nuestro trabajo de una manera que responda a las necesidades de los clientes y nos prepare para un exitoso lanzamiento de la idea.
 
 **Plantilla de Business Opportunity Statement:**
 
@@ -328,7 +340,7 @@ Sabremos que hemos tenido éxito cuando observemos [these behaviors in our targe
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Para formular las **Hypothesis Statements**, hemos seguido el formato de **Lean UX**: [We believe that], [This will achieve], y [We will have demonstrated this when].
+Para formular las Hypothesis Statements, hemos seguido el formato de Lean UX: [We believe that], [This will achieve], y [We will have demonstrated this when].
 
 **Hipótesis 1:**
 
@@ -362,7 +374,7 @@ Para formular las **Hypothesis Statements**, hemos seguido el formato de **Lean 
 
 ##### 1.2.2.4. Lean UX Canvas
 
-El **Lean UX Canvas** de **PARKINGNOW** identifica los problemas a los que se enfrentan los conductores al buscar estacionamiento y las dificultades de los propietarios para maximizar la ocupación de sus espacios. Se proponen soluciones como los sensores infrarrojos y los sistemas de reservas anticipadas para mejorar la eficiencia y la satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
+El Lean UX Canvas de PARKINGNOW identifica los problemas a los que se enfrentan los conductores al buscar estacionamiento y las dificultades de los propietarios para maximizar la ocupación de sus espacios. Se proponen soluciones como los sensores infrarrojos y los sistemas de reservas anticipadas para mejorar la eficiencia y la satisfacción del usuario, validando su efectividad mediante hipótesis y métricas claras.
 
 
 <p align="center">
@@ -644,7 +656,7 @@ Segmento objetivo \#2:
 
 **Conclusiones de ambos segmentos:**
 
-Los resultados del **segmento 1** indican que, aunque las necesidades de estacionamiento varían en frecuencia, hay un consenso en la importancia de conocer la disponibilidad de espacios antes de llegar. La disposición a pagar tarifas adicionales es alta, siempre que estas sean razonables. Los factores de costo, proximidad y seguridad son cruciales al elegir un lugar para estacionar. Existen frustraciones comunes con la búsqueda de estacionamiento, y se valora la tecnología para mejorar la experiencia, como recibir avisos en tiempo real y recomendaciones de rutas. La opción de asistencia para estacionar también es deseada. Por otro lado, en el **segmento 2**, los dueños de playas de estacionamiento encuentran la gestión de pocos espacios generalmente sencilla, aunque la organización y el manejo del tiempo pueden ser desafiantes. Consideran clave contar con información en tiempo real para evitar revisiones constantes y valoran la automatización como una herramienta para ahorrar tiempo y mejorar la eficiencia en pagos. La seguridad, tanto para clientes como para ellos mismos, es esencial, especialmente en áreas residenciales, y ven útil acceder a datos relevantes de los usuarios para aumentar esa seguridad
+Los resultados del segmento 1 indican que, aunque las necesidades de estacionamiento varían en frecuencia, hay un consenso en la importancia de conocer la disponibilidad de espacios antes de llegar. La disposición a pagar tarifas adicionales es alta, siempre que estas sean razonables. Los factores de costo, proximidad y seguridad son cruciales al elegir un lugar para estacionar. Existen frustraciones comunes con la búsqueda de estacionamiento, y se valora la tecnología para mejorar la experiencia, como recibir avisos en tiempo real y recomendaciones de rutas. La opción de asistencia para estacionar también es deseada. Por otro lado, en el segmento 2, los dueños de playas de estacionamiento encuentran la gestión de pocos espacios generalmente sencilla, aunque la organización y el manejo del tiempo pueden ser desafiantes. Consideran clave contar con información en tiempo real para evitar revisiones constantes y valoran la automatización como una herramienta para ahorrar tiempo y mejorar la eficiencia en pagos. La seguridad, tanto para clientes como para ellos mismos, es esencial, especialmente en áreas residenciales, y ven útil acceder a datos relevantes de los usuarios para aumentar esa seguridad
 
 **Entrevista completa:**
 
@@ -697,7 +709,7 @@ En esta sección se presentarán los artefactos generados a partir del proceso d
 
 #### 2.3.1. User Personas
 
-En esta sección del documento se presentan perfiles ficticios que representan a los grupos de interés identificados durante las entrevistas. La información recopilada incluye datos demográficos, características de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos comunes. Estos datos se basan en las entrevistas realizadas anteriormente. Para facilitar la creación de estos perfiles, se han utilizado herramientas de **UXPressia**.
+En esta sección del documento se presentan perfiles ficticios que representan a los grupos de interés identificados durante las entrevistas. La información recopilada incluye datos demográficos, características de personalidad, motivaciones, preferencias, metas, desafíos y comportamientos comunes. Estos datos se basan en las entrevistas realizadas anteriormente. Para facilitar la creación de estos perfiles, se han utilizado herramientas de UXPressia.
 
 ###### User Persona para Conductores Urbanos
 
@@ -708,14 +720,14 @@ La "User Persona" de Anna Pacheco representa a los conductores urbanos que requi
 
 ###### User Person para Dueños de playa de estacionamientos
 
-La **"User Persona"** de Luis Córdova representa a los dueños  de playas de estacionamiento que desean optimizar la gestión y aumentar sus ingresos. Luis, de 26 años, es dueño de una playa de estacionamiento y emplea tecnología para maximizar la ocupación y disminuir los tiempos de espera. Sus objetivos incluyen fidelizar a los clientes y expandir su negocio, aunque se enfrenta a desafíos como problemas tecnológicos y altos costos operativos.
+La "User Persona" de Luis Córdova representa a los dueños  de playas de estacionamiento que desean optimizar la gestión y aumentar sus ingresos. Luis, de 26 años, es dueño de una playa de estacionamiento y emplea tecnología para maximizar la ocupación y disminuir los tiempos de espera. Sus objetivos incluyen fidelizar a los clientes y expandir su negocio, aunque se enfrenta a desafíos como problemas tecnológicos y altos costos operativos.
 
 ![User Person s2](Assets/Luis%20Cordova.png)
 
 
 ## 2.3.2. User Task Matrix
 
-En el **User Task Matrix**, hemos identificado las principales actividades realizadas por nuestros dos segmentos y evaluado la relevancia de cada tarea según el segmento correspondiente.
+En el User Task Matrix, hemos identificado las principales actividades realizadas por nuestros dos segmentos y evaluado la relevancia de cada tarea según el segmento correspondiente.
 
 ### Indicadores de Importancia:
 - ALTA
@@ -727,33 +739,28 @@ En el **User Task Matrix**, hemos identificado las principales actividades reali
 - MEDIA
 - BAJA
 
-### Segmento Objetivo: Conductores Urbanos Frecuentes
-| **Tarea**                                           | **Frecuencia** | **Importancia**   |
-|-----------------------------------------------------|----------------|--------------------|
-| Buscar estacionamientos disponibles                | Media          | Alta               |
-| Comparar precios de estacionamientos               | Alta           | Media              |
-| Reservar estacionamientos con anticipación          | Media          | Alta               |
-| Pagar por estacionamiento a través de la aplicación | Alta           | Alta               |
-| Recibir direcciones al estacionamiento reservado   | Alta           | Alta               |
-| Filtrar estacionamientos por criterios (precio, seguridad, etc.) | Alta           | Alta               |
-| Recibir notificaciones sobre descuentos y ofertas  | Media          | Baja               |
-| Verificar disponibilidad de estacionamiento en tiempo real | Alta           | Alta               |
-| Consultar historial de estacionamientos utilizados | Media          | Baja               |
+| **Segmento Objetivo**          | **Tarea**                                                | **Frecuencia** | **Importancia** |
+|--------------------------------|--------------------------------------------------------|----------------|-----------------|
+| Conductores Urbanos Frecuentes | Buscar estacionamientos disponibles                     | Media          | Alta            |
+| Conductores Urbanos Frecuentes | Comparar precios de estacionamientos                    | Alta           | Media           |
+| Conductores Urbanos Frecuentes | Reservar estacionamientos con anticipación              | Media          | Alta            |
+| Conductores Urbanos Frecuentes | Pagar por estacionamiento a través de la aplicación     | Alta           | Alta            |
+| Conductores Urbanos Frecuentes | Recibir direcciones al estacionamiento reservado        | Alta           | Alta            |
+| Conductores Urbanos Frecuentes | Filtrar estacionamientos por criterios (precio, seguridad, etc.) | Alta | Alta |
+| Conductores Urbanos Frecuentes | Recibir notificaciones sobre descuentos y ofertas       | Media          | Baja            |
+| Conductores Urbanos Frecuentes | Verificar disponibilidad de estacionamiento en tiempo real | Alta       | Alta            |
+| Conductores Urbanos Frecuentes | Consultar historial de estacionamientos utilizados      | Media          | Baja            |
+| Dueños de Playa de Estacionamientos | Administrar y actualizar la disponibilidad de espacios | Alta | Alta     |
+| Dueños de Playa de Estacionamientos | Ajustar precios de los espacios de estacionamiento   | Media          | Alta            |
+| Dueños de Playa de Estacionamientos | Gestionar reservas de estacionamientos              | Alta           | Alta            |
+| Dueños de Playa de Estacionamientos | Procesar pagos de estacionamiento a través de la aplicación | Alta | Media |
+| Dueños de Playa de Estacionamientos | Revisar y ajustar las características del estacionamiento (precio, seguridad, etc.) | Media | Alta |
+| Dueños de Playa de Estacionamientos | Revisar reportes de uso y disponibilidad             | Media          | Media           |
+| Dueños de Playa de Estacionamientos | Recibir y gestionar comentarios y valoraciones de los usuarios | Baja | Media |
+| Dueños de Playa de Estacionamientos | Promocionar descuentos y ofertas especiales          | Media          | Media           |
+| Dueños de Playa de Estacionamientos | Consultar el historial de transacciones y reservas   | Baja           | Media           |
 
-### Segmento Objetivo: Dueños de playas de Estacionamientos
-| **Tarea**                                           | **Frecuencia** | **Importancia**   |
-|-----------------------------------------------------|----------------|--------------------|
-| Gestionar y actualizar la disponibilidad de espacios | Alta           | Alta               |
-| Ajustar las tarifas de los espacios de estacionamiento | Media          | Alta               |
-| Administrar las reservas de estacionamientos        | Alta           | Alta               |
-| Procesar pagos de estacionamiento a través de la aplicación | Alta           | Media              |
-| Revisar y modificar las características del estacionamiento (precio, seguridad, etc.) | Media          | Alta               |
-| Analizar reportes de uso y disponibilidad            | Media          | Media              |
-| Recibir y gestionar comentarios y valoraciones de los usuarios | Baja           | Media              |
-| Promocionar descuentos y ofertas especiales         | Media          | Media              |
-| Consultar el historial de transacciones y reservas  | Baja           | Media              |
-
-El **User Task Matrix** nos permite analizar las tareas más frecuentes e importantes para cada segmento y utilizar esta información como referencia para tomar decisiones estratégicas.
+El User Task Matrix nos permite analizar las tareas más frecuentes e importantes para cada segmento y utilizar esta información como referencia para tomar decisiones estratégicas.
 
 #### Conductores Urbanos Frecuentes:
 Para los usuarios, las tareas más recurrentes son:
@@ -822,7 +829,7 @@ Este "Empathy Map" refleja a conductores urbanos habituales que tienen dificulta
 
 ### Segmento objetivo: Dueños de playas de estacionamientos
 
-El "Empathy Map" para **Dueños de Playas de Estacionamientos** señala sus necesidades y preocupaciones al administrar sus espacios de estacionamiento, resaltando oportunidades para optimizar la gestión y mejorar la experiencia de los clientes con **PARKINGNOW**.
+El "Empathy Map" para Dueños de Playas de Estacionamientos señala sus necesidades y preocupaciones al administrar sus espacios de estacionamiento, resaltando oportunidades para optimizar la gestión y mejorar la experiencia de los clientes con PARKINGNOW.
 
 
 ![Empathy Map](./Assets/Dueños%20de%20playas%20de%20estacionamientos%20-%20Empathy%20Mapping.png)
@@ -834,14 +841,14 @@ El As-Is ofrece un análisis visual de los escenarios actuales, ayudando a ident
 
 ### Segmento Conductores Urbanos Frecuentes
 
-El "As-is Scenario Mapping" para **Conductores Urbanos Frecuentes** pone en evidencia los desafíos y áreas de mejora en la experiencia de estacionamiento, lo que permite optimizar las soluciones que ofrece **PARKINGNOW**.
+El "As-is Scenario Mapping" para Conductores Urbanos Frecuentes pone en evidencia los desafíos y áreas de mejora en la experiencia de estacionamiento, lo que permite optimizar las soluciones que ofrece PARKINGNOW.
 
 
 ![As is Scenario](./Assets/as_is_segment_1.jpeg) 
 
 ### Segmento Dueños de Playas de Estacionamientos
 
-El "As-is Scenario Mapping" para **Dueños de Playas de Estacionamientos** identifica sus desafíos y necesidades, abarcando desde la preparación del espacio hasta la gestión post-servicio. Esto contribuye a mejorar la eficiencia y la satisfacción en la gestión de sus estacionamientos con **PARKINGNOW**.
+El "As-is Scenario Mapping" para Dueños de Playas de Estacionamientos identifica sus desafíos y necesidades, abarcando desde la preparación del espacio hasta la gestión post-servicio. Esto contribuye a mejorar la eficiencia y la satisfacción en la gestión de sus estacionamientos con PARKINGNOW.
 
 
 ![As is Scenario](./Assets/as_is_segment_2.jpeg)
@@ -911,7 +918,7 @@ Centrado en la administración y uso eficiente de recursos, este mapeo destaca l
 
 ## EPICS
 
-Las **epics** establecidas para el proyecto **PARKINGNOW** están orientadas a cubrir las principales necesidades tanto de los usuarios como del equipo de desarrollo. Estas epics engloban funcionalidades fundamentales para la plataforma de gestión de estacionamientos en tiempo real, garantizando una interacción fluida para visitantes y desarrolladores. Desde la experiencia del usuario en el landing page hasta la administración técnica del backend, frontend y los servicios web, las epics ofrecen una hoja de ruta clara para el desarrollo de las funcionalidades clave, asegurando una implementación exitosa y alineada con los objetivos del proyecto.
+Las epics establecidas para el proyecto PARKINGNOW están orientadas a cubrir las principales necesidades tanto de los usuarios como del equipo de desarrollo. Estas epics engloban funcionalidades fundamentales para la plataforma de gestión de estacionamientos en tiempo real, garantizando una interacción fluida para visitantes y desarrolladores. Desde la experiencia del usuario en el landing page hasta la administración técnica del backend, frontend y los servicios web, las epics ofrecen una hoja de ruta clara para el desarrollo de las funcionalidades clave, asegurando una implementación exitosa y alineada con los objetivos del proyecto.
 
 | **Epic / Story ID** | **Título**                                    | **Descripción**                                                                                                                                                             |
 |---------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -933,13 +940,13 @@ Las **epics** establecidas para el proyecto **PARKINGNOW** están orientadas a c
 | **EP16**            | Actualización Automática de Disponibilidad en la App | **Como** usuario de la app PARKINGNOW, **deseo** que la disponibilidad de los estacionamientos se actualice automáticamente en la app **para** evitar reservar un espacio ya ocupado. |
 | **EP17**            | Funcionalidad de Favoritos                    | **Como** usuario, **deseo** poder marcar estacionamientos como favoritos en la plataforma **para** acceder rápidamente a los lugares que uso frecuentemente. |
 | **EP18**            | Integración con Calendarios Digitales          | **Como** usuario, **deseo** integrar mis reservas de estacionamiento con mi calendario digital **para** recibir recordatorios y planificar mejor mi tiempo. |
-| **EP19**            | Mejora del Tiempo de Respuesta del Backend en la App | **Como** usuario, **deseo** que las consultas y búsquedas en la app sean rápidas y eficientes **para** evitar esperas prolongadas y mejorar mi experiencia general. |
+| **EP19**            | Mejora del Tiempo de Respuesta del Backend en la App | **Como** developer, **deseo** que las consultas y búsquedas en la app sean rápidas y eficientes **para** evitar esperas prolongadas y mejorar mi experiencia general. |
 
 
 ---
 
 ### User Stories 
-Las **historias de usuario** del proyecto **PARKINGNOW** están enfocadas en optimizar la experiencia del usuario final y simplificar las tareas del equipo de desarrollo. Estas historias abarcan diversos componentes de la plataforma, como la **landing page**, la integración y optimización del **backend**, el diseño de interfaces de usuario eficaces en el **frontend**, y la implementación de servicios robustos a través de **web services**. Cada historia está formulada para ser clara y aplicable, con criterios de aceptación bien definidos que guían el proceso de desarrollo y aseguran que las funcionalidades implementadas cumplan con los requisitos del negocio y las expectativas del usuario final.
+Las historias de usuario del proyecto PARKINGNOW están enfocadas en optimizar la experiencia del usuario final y simplificar las tareas del equipo de desarrollo. Estas historias abarcan diversos componentes de la plataforma, como la landing page, la integración y optimización del backend, el diseño de interfaces de usuario eficaces en el frontend, y la implementación de servicios robustos a través de web services. Cada historia está formulada para ser clara y aplicable, con criterios de aceptación bien definidos que guían el proceso de desarrollo y aseguran que las funcionalidades implementadas cumplan con los requisitos del negocio y las expectativas del usuario final.
 
 | **Epic / Story ID** | **Título**                                    | **Descripción**                                                                                                                                                             | **Criterios de Aceptación**                                                                                                                | **Relacionado con (Epic ID)** |
 |---------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
@@ -1012,7 +1019,7 @@ Las **historias de usuario** del proyecto **PARKINGNOW** están enfocadas en opt
 
 **Descripción del Impact Map: Conductor Urbano Frecuente para PARKINGNOW**
 
-Este **Impact Map** de **PARKINGNOW** se centra en aumentar la fidelización de conductores urbanos habituales, mejorando tanto la seguridad como la accesibilidad de los estacionamientos en áreas urbanas. Establece metas comerciales, como incrementar la retención de usuarios en un 30%, e identifica soluciones como sistemas de navegación, sensores infrarrojos para monitorear en tiempo real y alertas sobre la disponibilidad de espacios. Las historias de usuario vinculadas se enfocan en la optimización de rutas, la validación de la seguridad y la gestión de notificaciones para mejorar la experiencia del usuario.
+Este Impact Map de PARKINGNOW se centra en aumentar la fidelización de conductores urbanos habituales, mejorando tanto la seguridad como la accesibilidad de los estacionamientos en áreas urbanas. Establece metas comerciales, como incrementar la retención de usuarios en un 30%, e identifica soluciones como sistemas de navegación, sensores infrarrojos para monitorear en tiempo real y alertas sobre la disponibilidad de espacios. Las historias de usuario vinculadas se enfocan en la optimización de rutas, la validación de la seguridad y la gestión de notificaciones para mejorar la experiencia del usuario.
 
 <p align="center">
   <img src="Assets/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
@@ -1021,7 +1028,7 @@ Este **Impact Map** de **PARKINGNOW** se centra en aumentar la fidelización de 
 
 **Descripción del Impact Map: Dueño de Playa de Estacionamiento para PARKINGNOW**
 
-Este **Impact Map** está dirigido a los **dueños de playas de estacionamiento**, enfocado en mejorar la gestión y optimización de sus espacios. El objetivo es aumentar la eficiencia operativa y la satisfacción del cliente en un 30% en los próximos seis meses. Para lograrlo, se plantean soluciones como un sistema de gestión de reservas en tiempo real, visualización de disponibilidad de espacios a través de sensores, y herramientas de retroalimentación de clientes. Estas funcionalidades permiten a los propietarios maximizar la ocupación, reducir tiempos de espera y mejorar la calidad del servicio gracias al feedback directo de los usuarios.
+Este Impact Map está dirigido a los dueños de playas de estacionamiento, enfocado en mejorar la gestión y optimización de sus espacios. El objetivo es aumentar la eficiencia operativa y la satisfacción del cliente en un 30% en los próximos seis meses. Para lograrlo, se plantean soluciones como un sistema de gestión de reservas en tiempo real, visualización de disponibilidad de espacios a través de sensores, y herramientas de retroalimentación de clientes. Estas funcionalidades permiten a los propietarios maximizar la ocupación, reducir tiempos de espera y mejorar la calidad del servicio gracias al feedback directo de los usuarios.
 
 <p align="center">
   <img src="Assets/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
@@ -1110,13 +1117,13 @@ En este apartado, se mostrará de manera organizada los estilos y herramientas q
 #### 4.1.1. General Style Guidelines
 
 
-**Brand Overview**
+Brand Overview
 
-En muchas ciudades, conseguir un espacio de estacionamiento adecuado resulta complicado, especialmente debido a la falta de información en tiempo real y la carencia de herramientas para reservar espacios con anticipación. Esto provoca estacionamientos ilegales, tráfico congestionado y una experiencia frustrante para los conductores. **PARKINGNOW** fue creado para solucionar estos inconvenientes, proporcionando una plataforma que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Mediante el uso de tecnología avanzada, como **geolocalización** y **sensores infrarrojos**, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también contribuye a mejorar la fluidez del tráfico urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
+En muchas ciudades, conseguir un espacio de estacionamiento adecuado resulta complicado, especialmente debido a la falta de información en tiempo real y la carencia de herramientas para reservar espacios con anticipación. Esto provoca estacionamientos ilegales, tráfico congestionado y una experiencia frustrante para los conductores. PARKINGNOW fue creado para solucionar estos inconvenientes, proporcionando una plataforma que conecta a los conductores con espacios de estacionamiento disponibles en tiempo real. Mediante el uso de tecnología avanzada, como geolocalización y sensores infrarrojos, nuestra plataforma no solo facilita la búsqueda y reserva de espacios, sino que también contribuye a mejorar la fluidez del tráfico urbano, beneficiando tanto a los conductores como a los propietarios de estacionamientos.
 
 **Brand name**
 
-El nombre de nuestra solución, **PARKINGNOW**, refleja claramente su objetivo principal: ofrecer una herramienta rápida y eficiente para encontrar y gestionar espacios de estacionamiento. La palabra "Parking" (estacionamiento) se combina con "Now" (ahora) para resaltar la inmediatez y simplicidad que brinda nuestra plataforma. Optamos por un nombre en inglés debido a su carácter universal y su capacidad para resonar en un mercado global.
+El nombre de nuestra solución, PARKINGNOW, refleja claramente su objetivo principal: ofrecer una herramienta rápida y eficiente para encontrar y gestionar espacios de estacionamiento. La palabra "Parking" (estacionamiento) se combina con "Now" (ahora) para resaltar la inmediatez y simplicidad que brinda nuestra plataforma. Optamos por un nombre en inglés debido a su carácter universal y su capacidad para resonar en un mercado global.
 
 A continuación, se presenta el **Logo**:
 
@@ -1125,16 +1132,16 @@ A continuación, se presenta el **Logo**:
 
 **Typography**
 
-La tipografía en **PARKINGNOW** desempeña un papel fundamental en la claridad y la facilidad de navegación de nuestra interfaz. Hemos elegido una fuente moderna y fácilmente legible que asegura que la información clave sea accesible para los usuarios de manera rápida. La tipografía se estructura en cuatro niveles: **headings** (títulos), **body** (texto principal), **buttons** (botones) y **links** (enlaces), lo que garantiza una jerarquía visual definida y una experiencia de usuario consistente.
+La tipografía en PARKINGNOW desempeña un papel fundamental en la claridad y la facilidad de navegación de nuestra interfaz. Hemos elegido una fuente moderna y fácilmente legible que asegura que la información clave sea accesible para los usuarios de manera rápida. La tipografía se estructura en cuatro niveles: headings (títulos), body (texto principal), buttons (botones) y links (enlaces), lo que garantiza una jerarquía visual definida y una experiencia de usuario consistente.
 
-Para este proyecto, hemos utilizado dos fuentes tipográficas: la primera es **Kalam** y la segunda es **Tinos**.
+Para este proyecto, hemos utilizado dos fuentes tipográficas: la primera es Kalam y la segunda es Tinos.
 
 ![alt text](Assets/Typograpy.png)
 
 
 **Colors**
 
-La elección de colores es una parte fundamental del diseño. Una buena selección de colores comunica al usuario lo que realmente ofrecemos. Por eso, nuestro color primario es el azul y el color secundario es el verde azulado. También hemos seleccionado colores de estado que usaremos para informar al usuario mientras interactúa con nuestra aplicación. Los colores elegidos para **PARKINGNOW** no solo definen la estética de la marca, sino que también comunican su propósito y valores.
+La elección de colores es una parte fundamental del diseño. Una buena selección de colores comunica al usuario lo que realmente ofrecemos. Por eso, nuestro color primario es el azul y el color secundario es el verde azulado. También hemos seleccionado colores de estado que usaremos para informar al usuario mientras interactúa con nuestra aplicación. Los colores elegidos para PARKINGNOW no solo definen la estética de la marca, sino que también comunican su propósito y valores.
 
 - **Color Primario (Azul Noche):** El azul noche simboliza tecnología y seguridad, dos aspectos clave de la experiencia de estacionamiento que ofrecemos. Este color transmite tranquilidad y confianza, elementos esenciales para los usuarios de nuestra plataforma.
 ![alt text](Assets/Azul.png)
@@ -1153,7 +1160,7 @@ La elección de colores es una parte fundamental del diseño. Una buena selecci�
 
 Desarrollaremos un sitio web que sea completamente adaptable a dispositivos móviles, lo que significa que se ajustará a cualquier tamaño de pantalla sin afectar la experiencia del usuario. De esta forma, nuestra aplicación web siempre será intuitiva y visualmente atractiva, sin importar el dispositivo que se utilice. En base a esto, nuestra plataforma debe ajustarse a las diferentes resoluciones utilizadas por los dispositivos actuales.
 
-Utilizaremos el **patrón Z** en el diseño, asegurando que los usuarios comiencen su navegación desde la página de inicio visualizando el **logo**. Luego, se desplazarán naturalmente hacia la derecha para encontrar las opciones disponibles. Posteriormente, bajarán verticalmente para explorar el contenido general y finalizarán moviéndose horizontalmente hacia la derecha para acceder a información sobre nuestra startup y los medios de contacto.
+Utilizaremos el patrón Z en el diseño, asegurando que los usuarios comiencen su navegación desde la página de inicio visualizando el logo. Luego, se desplazarán naturalmente hacia la derecha para encontrar las opciones disponibles. Posteriormente, bajarán verticalmente para explorar el contenido general y finalizarán moviéndose horizontalmente hacia la derecha para acceder a información sobre nuestra startup y los medios de contacto.
 
 El diseño también integrará colores llamativos que capten la atención del usuario, transmitiendo sensaciones de tranquilidad, confianza y motivándolos a usar nuestra aplicación. Además, los espacios y efectos implementados ayudarán a los usuarios a comprender fácilmente el propósito de nuestra página de inicio y aplicación web.
 
@@ -1161,22 +1168,22 @@ El diseño también integrará colores llamativos que capten la atención del us
 
 ### 4.2. Information Architecture
 
-En esta sección, el equipo detalla las decisiones que guían la organización del contenido en las experiencias web y móvil de **PARKINGNOW**, abarcando tanto la **Landing Page** como la **Aplicación Web**. Estas propuestas están diseñadas para que los usuarios puedan adaptarse fácilmente a las funciones de cada producto y encontrar lo que necesitan sin complicaciones. Las decisiones incluyen los sistemas de organización, etiquetado, navegación y búsqueda.
+En esta sección, el equipo detalla las decisiones que guían la organización del contenido en las experiencias web y móvil de PARKINGNOW, abarcando tanto la Landing Page como la Aplicación Web. Estas propuestas están diseñadas para que los usuarios puedan adaptarse fácilmente a las funciones de cada producto y encontrar lo que necesitan sin complicaciones. Las decisiones incluyen los sistemas de organización, etiquetado, navegación y búsqueda.
 
 #### 4.2.1. Organization Systems
 
-Para estructurar la arquitectura de la información de **PARKINGNOW**, hemos adoptado un sistema de organización jerárquico tanto en la **Landing Page** como en la **Aplicación Web**. Este sistema asegura una navegación intuitiva y permite a los usuarios encontrar rápidamente la información que buscan.
+Para estructurar la arquitectura de la información de PARKINGNOW, hemos adoptado un sistema de organización jerárquico tanto en la Landing Page como en la Aplicación Web. Este sistema asegura una navegación intuitiva y permite a los usuarios encontrar rápidamente la información que buscan.
 
 #### **Landing Page**
 
-La **Landing Page** de **PARKINGNOW** está organizada jerárquicamente para que los usuarios accedan fácilmente a la información más relevante y realicen las acciones necesarias:
+La Landing Page de PARKINGNOW está organizada jerárquicamente para que los usuarios accedan fácilmente a la información más relevante y realicen las acciones necesarias:
 
 1. **Barra de Navegación Principal**: Situada en la parte superior, ofrece accesos directos a las secciones principales:
-   - **Inicio (Home)**: Proporciona una visión general de los servicios de **PARKINGNOW** e incluye un banner destacado con botones de llamado a la acción para registro e inicio de sesión.
-   - **Servicios (Services)**: Describe los servicios ofrecidos tanto a conductores como a propietarios de estacionamientos. La sección está organizada para que cada usuario identifique rápidamente los beneficios que **PARKINGNOW** les ofrece.
+   - **Inicio (Home)**: Proporciona una visión general de los servicios de PARKINGNOW e incluye un banner destacado con botones de llamado a la acción para registro e inicio de sesión.
+   - **Servicios (Services)**: Describe los servicios ofrecidos tanto a conductores como a propietarios de estacionamientos. La sección está organizada para que cada usuario identifique rápidamente los beneficios que PARKINGNOW les ofrece.
    - **Transacción (Plans):** Explica las diferentes opciones de transacción disponibles, con detalles sobre las características y beneficios de cada una.
    - **Contáctanos (Contact Us)**: Facilita el contacto con el equipo de soporte a través de un formulario y enlaces a redes sociales.
-   - **Nosotros (About Us)**: Presenta la misión, visión y el equipo detrás de **PARKINGNOW**, promoviendo confianza y transparencia.
+   - **Nosotros (About Us)**: Presenta la misión, visión y el equipo detrás de PARKINGNOW, promoviendo confianza y transparencia.
 
 2. **Estructura de Contenido Jerárquica**:
    - **Encabezados y Subencabezados**: Organizan el contenido de cada sección para que los usuarios exploren según sus intereses.
@@ -1187,7 +1194,7 @@ La **Landing Page** de **PARKINGNOW** está organizada jerárquicamente para que
 
 #### **Aplicación Web**
 
-La **Aplicación Web** de **PARKINGNOW** está diseñada para proporcionar una experiencia personalizada a dos segmentos principales: **Conductores Urbanos Frecuentes** y **Dueños de Estacionamientos**. El contenido está estructurado de forma que cada usuario pueda navegar eficientemente.
+La Aplicación Web de PARKINGNOW está diseñada para proporcionar una experiencia personalizada a dos segmentos principales: Conductores Urbanos Frecuentes y Dueños de Estacionamientos. El contenido está estructurado de forma que cada usuario pueda navegar eficientemente.
 
 1. **Para Conductores Urbanos Frecuentes**:
    - **Inicio (Home)**: Muestra una vista general de las reservas actuales y accesos directos a funciones clave como búsqueda de estacionamientos y favoritos.
@@ -1203,7 +1210,7 @@ La **Aplicación Web** de **PARKINGNOW** está diseñada para proporcionar una e
 
 #### 4.2.2. Labeling Systems
 
-Los sistemas de etiquetado en la **Landing Page** y la **Aplicación Web** de **PARKINGNOW** están diseñados para facilitar la navegación y mejorar la experiencia del usuario, asegurando que las secciones y funciones sean fácilmente reconocibles y accesibles.
+Los sistemas de etiquetado en la Landing Page y la Aplicación Web de PARKINGNOW están diseñados para facilitar la navegación y mejorar la experiencia del usuario, asegurando que las secciones y funciones sean fácilmente reconocibles y accesibles.
 
 #### **Etiquetas de Encabezados (Headings)**
 
@@ -1243,7 +1250,7 @@ Los sistemas de etiquetado en la **Landing Page** y la **Aplicación Web** de **
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-Los **SEO Tags** y **Meta Tags** optimizarán la visibilidad de la página y aplicación web de **PARKINGNOW** en motores de búsqueda.
+Los SEO Tags y Meta Tags optimizarán la visibilidad de la página y aplicación web de PARKINGNOW en motores de búsqueda.
 
 **Title**
 ``<title>PARKINGNOW</title>``
@@ -1273,7 +1280,7 @@ La navegación será intuitiva, guiando a los usuarios para realizar acciones co
 
 ### 4.3. Landing Page UI Design
 
-Presentamos los primeros diseños de la **Landing Page** y la aplicación web.
+Presentamos los primeros diseños de la Landing Page y la aplicación web.
 
 #### 4.3.1. Landing Page Wireframe
 
@@ -1286,11 +1293,11 @@ Presentamos los primeros diseños de la **Landing Page** y la aplicación web.
 
 ### 4.4. Web Applications UX/UI Design
 
-Presentamos los resultados del diseño de la **Aplicación Web** en **Figma**.
+Presentamos los resultados del diseño de la Aplicación Web en Figma.
 
 #### 4.4.1. Web Applications Wireframes
 
-Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1) https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1
 
 ![Wireframe1](Assets/Wireframe_1.png)
 ![Wireframe2](Assets/Wireframe_2.png)
@@ -1348,23 +1355,29 @@ User goal: Hacer una reserva como conductor en la aplicacion.
 
 ### 4.5. Web Applications Prototyping
 
-Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1)
+Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1) https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=dsT3kQGDkndD6UwX-1
+
 
 ![Prototyping](Assets/Prototyping.png)
 
+Evidencia: ![alt text](<Assets/Expo - Flujo.jpg>)
+
+Explicación:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbbItuqjG5lKkbMH-BwTW1MBImmRTC15DyIPclYNgeb9MA?e=RwBYeG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### 4.6. Domain-Driven Software Architecture
 
-Los diagramas de arquitectura de software nos permiten diseñar nuestro sistema utilizando el enfoque de **Domain Driven Design**.
+Los diagramas de arquitectura de software nos permiten diseñar nuestro sistema utilizando el enfoque de Domain Driven Design.
 
 #### 4.6.1. Software Architecture Context Diagram
 
-Este diagrama muestra la interacción entre los usuarios de **PARKINGNOW** y sistemas externos como geolocalización y procesamiento de pagos.
+Este diagrama muestra la interacción entre los usuarios de PARKINGNOW y sistemas externos como geolocalización y procesamiento de pagos.
 
 ![structurizr-SystemContext](Assets/structurizr-SystemContext.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-Este diagrama de contenedores ilustra los componentes principales de la plataforma **PARKINGNOW**, como la **Aplicación Web**, la **API Backend**, la **Base de Datos**, y los servicios externos.
+Este diagrama de contenedores ilustra los componentes principales de la PARKINGNOW, como la Aplicación Web, la API Backend, la Base de Datos, y los servicios externos.
 
 ![Diagrama de Contenedores](Assets/structurizr-Container-001.png)
 
@@ -1390,11 +1403,106 @@ Diagrama que cubre todo lo relacionado con la gestión de ubicación en tiempo r
 
 #### 4.7.2. Class Dictionary
 
+| N | Entidad | Nombre de Atributos | Definición | Tipo de Datos |
+| :---: | ----- | ----- | ----- | ----- |
+| 1 | Usuario | usuario\_id | Código de Usuario (Número de Usuarios) | int |
+|  |  | nombre\_usuario | Nombre del usuario | varchar |
+|  |  | contrasena | Contraseña de la cuenta del usuario | varchar |
+|  |  | rol | Rol del usuario | varchat |
+| 2 | Alertas | Alerta\_id | Código de la Alerta | int |
+|  |  | alerta\_activa | Estado de la Alerta | bool |
+| 3 | Transacción | transaccion\_id | Código de la transacción | int |
+|  |  | fecha | Fecha de la transacción | date |
+|  |  | monto | Monto de la transacción | decimal |
+|  |  | metodo\_pago | Método de pago de la transacción | varchar |
+|  |  | estado | Estado de la transacción | varchar |
+| 4 | Seguridad | seguridad | Tipo de seguridad | int |
+|  |  | descripción | Descripción del tipo de seguridad | varchar |
+|  |  | nivel\_seguridad | Nivel de seguridad | varchar |
+| 5 | Dashboard | tiempo\_carga | Tiempo de carga | int |
+|  |  | numero\_usuarios | Número de usuarios en el local | int |
+|  |  | numero\_reservas | Número de reservas en el local | int |
+|  |  | numero\_opiniones | Número de opiniones en el local | int |
+|  |  | ingresos\_totales | Cantidad de ingresos en el local | decimal |
+|  |  | promedio\_calificacion | Promedio de calificación en el local | float |
+|  |  | tiempo\_uso\_promedio | Tiempo de uso promedio en el local | TimeSpan |
+|  |  | numero\_espacios\_disponibles | Número de espacios disponibles en el local | int |
+|  |  | numero\_notificaciones | Número de notificaciones | int |
+| 6 | Promociones | promocion\_id | Código de promoción | int |
+|  |  | descripcion | Descripción de la promoción | varchar |
+|  |  | descuento | Cantidad del descuento | decimal |
+|  |  | fecha\_inicio | Fecha de inicio de la promoción | date |
+|  |  | fecha\_fin | Fecha de fin de la promoción | date |
+| 7 | Tarifa | tarifa\_id | Código de la tarifa | int |
+|  |  | descripcion | Descripció de la tarifa | varchar |
+|  |  | precio\_hora | Cantidad monetaria por hora en el estacionamiento | decimal |
+|  |  | dia\_semana | Día de la semana de la tarifa | varchar |
+|  |  | Horario | Horario por el tiempo de estacionamiento usado | varchar |
+| 8 | ServicioAlCliente | Asesorid | Código del Asesor | int |
+|  |  | Nombre | Nombre del Asesor | string |
+|  |  | Apellido | Apellido del Asesor | string |
+| 9 | Servicio\_al\_cliente | Asesor\_id | Código del Asesor | int |
+|  |  | nombre | Nombre del Asesor | varchar |
+|  |  | apellido | Apellido del Asesor | varchar |
+| 10 | Vehículo | vehiculo\_id | Código del vehículo | int |
+|  |  | marca | Marca del vehículo | varchar |
+|  |  | modelo | Modelo del vehículo | varchar |
+|  |  | color | Color del vehículo | varchar |
+|  |  | placa | Placa del vehículo | varchar |
+| 11 | Asesorias | Asesoria\_ID | Código de la Asesoría | int |
+|  |  | Razon | Razón de la Asesoría | varchar |
+|  |  | fecha | Fecha de la Asesoría | date |
+|  |  | hora\_inicio | Hora de inicio de la Asesoría | time |
+|  |  | hora\_final | Hora de fin de la Asesoría | time |
+|  |  | Servicio\_al\_cliente\_Asesor\_id | Código del Asesor | int |
+| 12 | Persona | ID | Código de la Persona | int |
+|  |  | nombre | Nombre de la persona | string |
+|  |  | apellido | Apellido de la persona | string |
+|  |  | email | Email de la persona | string |
+| 13 | Conductores | placa\_de\_vehiculo | Placa del vehículo del conductor | varchar |
+|  |  | DNI | DNI del conductor | varchar |
+| 14 | Notificacion | Notificacion\_id | Código de la notificación | int |
+|  |  | descripcion | Descripción de la notificación | varchar |
+|  |  | fecha | Fecha de la notificación | date |
+|  |  | hora | Hora exacta de la notificación | time |
+|  |  | Alertas\_Alerta\_id | Código de la Alerta | int |
+|  |  | prioridad | Prioridad de la notificación | varchar |
+|  |  | fecha\_envio | Fecha de envío de la notificación | date |
+| 15 | Duenos\_de\_playas | DuenoId | ID del dueño del estacionamiento | int |
+|  |  | Nombre | Nombre del dueño del estacionamiento | string |
+|  |  | Apellido | Apellido del dueño del estacionamiento | string |
+|  |  | Correo | Correo del dueño del estacionamiento | string |
+|  |  | RUC | RUC del dueño del estacionamiento | string |
+|  |  | telefono | Teléfono del dueño del estacionamiento | varchar |
+|  |  | direccion | Dirección del dueño del estacionamiento | varchar |
+| 16 | Reservas | reservas\_id | Código de la reserva | int |
+|  |  | Fecha | Fecha de la reserva | int |
+|  |  | hora\_inicio | Hora de inicio de la reserva | time |
+|  |  | hora\_final | Hora de fin de la reserva | time |
+|  |  | estado\_reserva | Estado de la reserva | varchar |
+|  |  | numero\_vehiculo | Número del vehículo en reserva | varchar |
+|  |  | local\_x\_espacio\_Espacio\_Espacios\_id | ID del espacio usado en el estacionamiento | int |
+| 17 | Recibo | recibo\_id | Código del recibo | int |
+|  |  | descripcion | Descripción del recibo | int |
+|  |  | metodo\_de\_pago | Método de pago del recibo | int |
+|  |  | Reservas\_reservas\_id | Código de la reserva | int |
+| 18 | Opinion | opinion\_id | Código de la opinión | int |
+|  |  | usuario\_id | Código del usuario | int |
+|  |  | fecha\_opinion | Fecha de la opinión | date |
+|  |  | descripcion | Descripción de la opinión | varchar |
+|  |  | titulo | Título de la opinión | varchar |
+| 19 | Local | local\_id | Código del local | int |
+|  |  | descripcion | Descripción del local | varchar |
+|  |  | ubicacion | Ubicación del local | varchar |
+|  |  | cantidad\_empleados | Cantidad de empleados del local | int |
+| 20 | Espacio | Espacios\_id | Código de los espacios | int |
+|  |  | Sensor | Sensor de los espacios | int |
+|  |  | descripcion | Descripción de los espacios | varchar |
+|  |  | ubicacion | Ubicación de los espacios | varchar |
+
 ### 4.8. Database Design
 
 En este apartado se mostrará el diseño de base de datos utilizado en nuestro proyecto, siguiendo los contextos definidos anteriormente.
-
-
 
 | Clase         | Descripción |
 | ------------- | ----------- |
@@ -1415,7 +1523,7 @@ En este apartado se mostrará el diseño de base de datos utilizado en nuestro p
 
 #### 4.8.1. Database Diagram
 
-Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)
+Link: [Vertabelo](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o) https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o
 ![Base de datos](Assets/ParkingNow_Database-2024-09-05_13-28.png)
 
 
@@ -1427,7 +1535,7 @@ Se establecen directrices para garantizar la coherencia en el desarrollo del sof
 
 #### 5.1.1. Configuración del Entorno de Desarrollo de Software
 
-A continuación se detallan las diversas herramientas de software que el equipo ha utilizado para llevar a cabo las tareas del proyecto **PARKINGNOW**.
+A continuación se detallan las diversas herramientas de software que el equipo ha utilizado para llevar a cabo las tareas del proyecto PARKINGNOW.
 
 ##### Diseño UX/UI
 
@@ -1489,7 +1597,7 @@ A continuación se detallan las diversas herramientas de software que el equipo 
 
 #### 5.1.2. Gestión del Código Fuente
 
-En **PARKINGNOW**, se utilizan **Git** y **GitHub** para gestionar las versiones del código, siguiendo el flujo de trabajo de **GitFlow**, que organiza el trabajo en ramas para desarrollo, nuevas funcionalidades, lanzamientos y correcciones. Se fomenta el uso de **Conventional Commits** para asegurar que los mensajes de commit sean claros y comprensibles.
+En PARKINGNOW, se utilizan Git y GitHub para gestionar las versiones del código, siguiendo el flujo de trabajo de GitFlow, que organiza el trabajo en ramas para desarrollo, nuevas funcionalidades, lanzamientos y correcciones. Se fomenta el uso de Conventional Commits para asegurar que los mensajes de commit sean claros y comprensibles.
 
 ##### Enlaces a los Repositorios:
 - **Organización:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW
@@ -1504,7 +1612,7 @@ En **PARKINGNOW**, se utilizan **Git** y **GitHub** para gestionar las versiones
 
 ### GitFlow
 
-En **PARKINGNOW**, el modelo de **GitFlow** se emplea para gestionar el código de manera estructurada, organizando el trabajo en diferentes ramas para facilitar la integración y el desarrollo continuo. Las ramas principales son:
+En PARKINGNOW, el modelo de GitFlow se emplea para gestionar el código de manera estructurada, organizando el trabajo en diferentes ramas para facilitar la integración y el desarrollo continuo. Las ramas principales son:
 
 1. **Master Branch:** Aquí se almacenan las versiones estables del proyecto.
 2. **Develop Branch:** Esta rama se utiliza para integrar características en desarrollo.
@@ -1512,11 +1620,11 @@ En **PARKINGNOW**, el modelo de **GitFlow** se emplea para gestionar el código 
 4. **Release Branches:** Se crean desde `develop` para preparar las versiones estables, realizando los ajustes finales antes de fusionarlas en `master`.
 5. **Hotfix Branches:** Estas ramas se crean para solucionar errores críticos que requieren ser arreglados rápidamente en la rama `master` y luego se fusionan tanto en `master` como en `develop`.
 
-La estructura de **GitFlow** en **PARKINGNOW** se organiza con `master` como la rama que contiene la versión estable del proyecto, `develop` para la integración de nuevas funcionalidades, y ramas temporales como `feature/*`, `release/*` y `hotfix/*` para gestionar nuevas características, versiones de producción y correcciones urgentes, respectivamente.
+La estructura de GitFlow en PARKINGNOW se organiza con `master` como la rama que contiene la versión estable del proyecto, `develop` para la integración de nuevas funcionalidades, y ramas temporales como `feature/*`, `release/*` y `hotfix/*` para gestionar nuevas características, versiones de producción y correcciones urgentes, respectivamente.
 
 ### Convenciones de Commits
 
-Para los mensajes de commit en el proyecto **PARKINGNOW**, se sigue la convención de **Conventional Commits**. Estos mensajes tienen un formato estándar que ayuda a comprender fácilmente el historial del proyecto:
+Para los mensajes de commit en el proyecto PARKINGNOW, se sigue la convención de Conventional Commits. Estos mensajes tienen un formato estándar que ayuda a comprender fácilmente el historial del proyecto:
 
 ```plaintext
 <type>[optional scope]: <description>
@@ -1546,7 +1654,7 @@ Con esta estructura, **PARKINGNOW** puede gestionar eficientemente el flujo de t
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
-En el proyecto **PARKINGNOW**, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
+En el proyecto PARKINGNOW, hemos implementado una serie de guías de estilo y convenciones para asegurar que todo el equipo de desarrollo siga una estructura consistente y clara en todo el ciclo de vida del proyecto. Esto facilita la legibilidad del código, mejora la colaboración entre los desarrolladores y asegura que el código sea mantenible a largo plazo.
 
 #### Nomenclatura General
 
@@ -1566,10 +1674,10 @@ El uso de **inglés** para todos los nombres es obligatorio, con el fin de asegu
 
 #### Espacios y Sangría
 
-La **sangría** de código en **PARKINGNOW** seguirá las siguientes reglas para asegurar la claridad y el orden del código:
+La sangría de código en PARKINGNOW seguirá las siguientes reglas para asegurar la claridad y el orden del código:
 
-- Se utilizarán **2 espacios** para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
-- En archivos **Java**, se utilizarán **4 espacios** para la sangría.
+- Se utilizarán 2 espacios para la sangría en archivos HTML, CSS, JavaScript, y TypeScript.
+- En archivos Java, se utilizarán 4 espacios para la sangría.
 
 Esta convención ayuda a mantener la consistencia en todos los lenguajes empleados en el proyecto y facilita la colaboración entre diferentes desarrolladores.
 
@@ -1590,39 +1698,66 @@ Esta convención ayuda a mantener la consistencia en todos los lenguajes emplead
 
 #### Convenciones por Lenguaje
 
-1. **HTML/CSS/JavaScript**:
-   - Se utilizará la [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) para asegurar la consistencia en la estructura y la presentación de los archivos HTML y CSS.
-   - Para JavaScript, adoptamos la [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), ampliamente conocida y utilizada en la industria.
+### 1. Framework:
+Se hará uso de **Vue Framework** para el desarrollo de las aplicaciones web del frontend.
 
-2. **TypeScript**:
-   - **Angular** es el framework elegido para el frontend de PARKINGNOW, por lo que seguimos la [Angular Style Guide](https://angular.io/guide/styleguide), que dicta cómo deben estructurarse los módulos, servicios y componentes.
-   - También seguimos la [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) para garantizar la correcta tipificación y legibilidad del código.
+### 2. Tecnologías:
+- **HTML5** y **CSS3** se usarán para los aspectos estáticos y de presentación de las páginas y aplicaciones web.
+- **JavaScript** será el lenguaje de programación principal para añadir interactividad y lógica a las aplicaciones.
 
-3. **Java**:
-   - En el backend, utilizamos **Spring Boot** para crear APIs y servicios web. Seguimos la [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) para mantener consistencia en la estructura de las clases y los métodos.
-   - Los nombres de clases serán descriptivos, utilizando sustantivos para clases y verbos para métodos.
+### 3. Diseño:
+- El diseño de las **Landing Pages** y **Aplicaciones Web** estará basado en **Material Design**, para asegurar una experiencia de usuario coherente, moderna y optimizada para dispositivos móviles.
 
-**Ejemplo de una clase Java**:
+### 4. Biblioteca de componentes de UI:
+- Se utilizará **PrimeVue** como la biblioteca principal para componentes de la interfaz de usuario (UI), lo que facilita la construcción de interfaces interactivas y atractivas.
+- PrimeVue proporciona una amplia gama de componentes ya preparados que siguen los principios de **Material Design**, como botones, tablas, formularios, y más.
 
-```java
-public class ParkingManager {
-  private int availableSpaces;
+### 5. Estilo y Estructura:
+- **HTML/CSS**: Se seguirá la [Guía de Estilo de HTML y CSS de Google](https://google.github.io/styleguide/htmlcssguide.html) para mantener la consistencia y legibilidad en los archivos de estructura y estilo.
+- **JavaScript**: Para el código JavaScript, se aplicará la [Guía de Estilo de JavaScript de Airbnb](https://github.com/airbnb/javascript), que es un estándar ampliamente adoptado en la industria y asegura un código limpio, bien organizado y mantenible.
 
-  public ParkingManager(int spaces) {
-    this.availableSpaces = spaces;
-  }
+### 6. Arquitectura del proyecto:
+- El proyecto seguirá la arquitectura de componentes de **Vue**, donde cada funcionalidad o sección de la página se encapsula en un componente independiente que gestiona su propio estado y comportamiento.
 
-  public void reserveSpace() {
-    if (availableSpaces > 0) {
-      availableSpaces--;
+### Ejemplo de Convención para un Componente en Vue:
+
+```vue
+<template>
+  <div>
+    <Button label="Reservar" @click="reservarEspacio" />
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'GestorDeEstacionamiento',
+  data() {
+    return {
+      espaciosDisponibles: 10
+    };
+  },
+  methods: {
+    reservarEspacio() {
+      if (this.espaciosDisponibles > 0) {
+        this.espaciosDisponibles--;
+      }
     }
   }
+};
+</script>
+
+<style scoped>
+/* Aplicando Material Design a través de PrimeVue */
+button {
+  background-color: #6200ea;
+  color: white;
 }
+</style>
 ```
 
 4. **Gherkin**:
    - Para escribir los tests automatizados, seguimos la convención de [Gherkin Syntax](https://cucumber.io/docs/gherkin/). Esto permite una descripción clara y precisa de los escenarios de prueba en los archivos `.feature`.
-   - Utilizamos **Given-When-Then** para describir el comportamiento esperado en cada escenario.
+   - Utilizamos Given-When-Then para describir el comportamiento esperado en cada escenario.
 
 **Ejemplo de Gherkin**:
 
@@ -1638,53 +1773,64 @@ Feature: Reserva de espacio de estacionamiento
 #### Espaciado y Comillas
 
 - **Espacios**: Siempre se debe colocar un espacio alrededor de los operadores y entre los parámetros en las funciones.
-  
-  **Ejemplo**:
-  ```javascript
-  let totalSpaces = 50;
-  let bookedSpaces = 10;
-  let availableSpaces = totalSpaces - bookedSpaces;
-  ```
 
-- **Comillas**: En **JavaScript** y **TypeScript**, se utilizan comillas simples (`'`) para cadenas, mientras que en **HTML** se prefieren las comillas dobles (`"`).
+  **Ejemplo**:
+  ```vue
+  <script>
+  export default {
+    data() {
+      return {
+        totalSpaces: 50,
+        bookedSpaces: 10,
+        availableSpaces: 0
+      };
+    },
+    mounted() {
+      this.availableSpaces = this.totalSpaces - this.bookedSpaces;
+    }
+  };
+  </script>
+
+
+- Comillas: En JavaScript dentro de Vue, se utilizan comillas simples (') para las cadenas, mientras que en las plantillas HTML de Vue se prefieren las comillas dobles (").
 
 #### Límite de Longitud de Línea
 
-El código no debe exceder las **80 columnas** por línea. En caso de necesitar más espacio, se recomienda dividir la línea de código para mejorar la legibilidad.
+El código no debe exceder las 80 columnas por línea. En caso de necesitar más espacio, se recomienda dividir la línea de código para mejorar la legibilidad.
 
 #### 5.1.4. Software Deployment Configuration
 
-En esta sección se detalla la configuración necesaria para el despliegue de la solución **PARKINGNOW**, incluyendo los pasos clave para lograr la publicación satisfactoria de la **Landing Page**, **Servicios Web** y **Aplicaciones Web Frontend** utilizando GitHub Pages para visualizar cada commit del **Landing Page**.
+En esta sección se detalla la configuración necesaria para el despliegue de la solución PARKINGNOW, incluyendo los pasos clave para lograr la publicación satisfactoria de la Landing Page, Servicios Web y Aplicaciones Web Frontend utilizando GitHub Pages para visualizar cada commit del Landing Page.
 
 **Landing Page**: 
 
 Se utiliza la documentación oficial de github para realizar el despliegue del landing page: https://docs.github.com/es/pages/quickstart, el cual se resumen de la siguiente manera: 
 
 1. **Actualización de Ramas:**
-   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto **PARKINGNOW**.
+   Asegúrate de que todas las ramas del repositorio estén actualizadas. Luego, ingresa a GitHub y dirígete al repositorio del proyecto PARKINGNOW.
 2. **Acceso a las Configuraciones:**
-   Una vez dentro del repositorio, haz clic en la pestaña **Settings** en la parte superior del repositorio.
+   Una vez dentro del repositorio, haz clic en la pestaña Setting en la parte superior del repositorio.
 
 ![alt text](Assets/Settings.png)
 
 3. **Selección de GitHub Pages:**
-   Dentro de la sección **Settings**, en el menú lateral, busca la opción llamada **Pages**. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
+   Dentro de la sección Settings, en el menú lateral, busca la opción llamada Pages. Esta opción permite configurar el despliegue de la página desde una rama específica del repositorio.
 ![alt text](Assets/Page.png)
 
 4. **Configuración de la Rama Principal:**
-   En la opción **Pages**, selecciona la rama principal (generalmente llamada **main** o **master**). Luego, haz clic en el botón **Save** para iniciar el proceso de deploy de la página.
+   En la opción Pages, selecciona la rama principal (generalmente llamada main o master). Luego, haz clic en el botón Save para iniciar el proceso de deploy de la página.
 
 ![alt text](Assets/Main.png)
 
 5. **Confirmación del Deploy:**
-   Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección **Pages** se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la **Landing Page** del proyecto.
+   Una vez que GitHub complete el proceso de deploy, en la parte superior de la sección Pages se mostrará un mensaje de confirmación junto con el enlace generado para acceder a la Landing Page del proyecto.
 
 ![alt text](Assets/Save.png)
 
 ![alt text](<Assets/Sitio web.png>)
 
 6. **Acceso a la Página:**
-   Finalmente, podrás acceder a la **Landing Page** desde el enlace que se generó al finalizar el deploy.
+   Finalmente, podrás acceder a la Landing Page desde el enlace que se generó al finalizar el deploy.
 
 ![alt text](Assets/Listo.png)
 
@@ -1709,19 +1855,30 @@ A continuación veremos sobre la planificacion del sprint 1
 | **Sprint Goal & User Stories** |  |
 | Sprint 1 Goal | Desarrollar la Landing Page de PARKINGNOW. |
 | Sprint 1 Velocity | Velocidad de 30 \- Primer Sprint |
-| Sum of Story Points | Sprint 1 \- 104 Story Points |
+| Sum of Story Points | Sprint 1 \- 54 Story Points |
 
 ##### 5.2.1.2. Backlog del Sprint 1
+
+Trello: ![alt text](<Assets/Sprint 1 .png>)
+Link: https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/sprint-1-parkingnow
 
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Historia de Usuario |  | Ítem de Trabajo / Tarea |  |  |  |  |  |
 | ID | Título | ID | Título | Descripción | Estimación (Horas) | Asignado a | Estado |
-| SS01 | Sección Header | WT01 | Implementación del header, estilos y barra de navegación | Realizar la barra de navegación utilizando JS/CSS | 3 | Diego Ulises | Done |
-| SS02 | Sección Inicio | WT02 | Implementación de la sección Inicio | Realizar la sección de Inicio empleando estilo responsive | 2 | Omar Harold | Done |
-| SS03 | Sección Características | WT03 | Implementación de la sección Características | Realizar la sección de Características | 2 | Loechle Arias Mateo Italo | Done |
-| SS04 | Sección Iniciar Sesión/Registrar Cuenta | WT04 | Implementación de la sección Iniciar Sesión/Registrar Cuenta | Realizar la sección de Iniciar Sesión/Registrar Cuenta | 3 | Rodrigo Liberato | Done |
-| SS05 | Sección Reservar Espacio | WT05 | Implementación de la sección Reservar Espacio | Realizar la sección de Reservar Espacio | 4 | Samuel Elias | Done |
+| US01 | Ver y Dejar Opiniones | WT01 | Implementación de Ver y Dejar Opiniones | Como usuario de la plataforma PARKINGNOW, deseo poder ver y dejar opiniones sobre los estacionamientos en la landing page para ayudar a otros visitantes a tomar decisiones informadas sobre dónde estacionar. | 3 | Diego Ulises | Done |
+| US02 | Chat de Soporte en Vivo | WT02 | Implementación de Chat de Soporte en Vivo | Como usuario de la plataforma PARKINGNOW, deseo tener acceso a un chat en vivo con soporte técnico desde la landing page para resolver rápidamente cualquier problema con mis reservas de estacionamiento. | 5 | Omar Harold | Done |
+| US03 | Recuperación de Contraseña | WT03 | Implementación de Recuperación de Contraseña | Como usuario de la plataforma PARKINGNOW, deseo poder recuperar mi contraseña mediante un enlace enviado a mi correo electrónico para restablecer el acceso a mi cuenta fácilmente y continuar reservando estacionamientos. | 2 | Loechle Arias Mateo Italo | Done |
+| US04 | Registro con Redes Sociales | WT04 | Implementación de Registro con Redes Sociales | Como usuario de la plataforma PARKINGNOW, deseo poder registrarme utilizando mis cuentas de Google o Facebook para acelerar el proceso de registro y comenzar a reservar estacionamientos rápidamente. | 5 | Rodrigo Liberato | Done |
+| US05 | Navegación Intuitiva | WT05 | Implementación de Navegación Intuitiva | Como visitante de la plataforma PARKINGNOW, deseo que la landing page tenga una barra de navegación clara y accesible para encontrar fácilmente las funciones clave de reserva de estacionamientos. | 5 | Samuel Elias | Done |
+| US06 | Alertas de Disponibilidad de Espacios | WT06 | Implementación de Alertas de Disponibilidad de Espacios | Como usuario de la plataforma PARKINGNOW, deseo recibir alertas sobre la disponibilidad de estacionamientos en tiempo real para tomar decisiones rápidas al buscar un espacio utilizando sensores infrarrojos. | 8 | Javier Aramis Ramos Huamanchumo | Done |
+| US07 | Gestión de Reservas en Tiempo Real | WT07 | Implementación de Gestión de Reservas en Tiempo Real | Como usuario de la plataforma PARKINGNOW, deseo poder modificar o cancelar mis reservas directamente desde la landing page para tener mayor flexibilidad en mi planificación de estacionamiento. | 2 | Diego Ulises | Done |
+| US08 | Compartibilidad en Redes Sociales | WT08 | Implementación de Compartibilidad en Redes Sociales | Como visitante de la plataforma PARKINGNOW, deseo compartir mi experiencia de uso de PARKINGNOW en mis redes sociales para recomendar la plataforma a mis amigos y seguidores. | 3 | Omar Harold | Done |
+| US09 | Verificación de Seguridad para Reservas | WT09 | Implementación de Verificación de Seguridad para Reservas | Como usuario de la plataforma PARKINGNOW, deseo que la plataforma me informe de cualquier problema de seguridad en un estacionamiento reservado para asegurarme de que mi vehículo esté seguro. | 5 | Loechle Arias Mateo Italo | Done |
+| US10 | Notificaciones de Cambios en Reservas | WT10 | Implementación de Notificaciones de Cambios en Reservas | Como usuario de la plataforma PARKINGNOW, deseo recibir notificaciones automáticas sobre cualquier cambio en mi reserva para estar siempre informado y ajustar mis planes. | 3 | Rodrigo Liberato | Done |
+| US11 | Desarrollo de Funcionalidad de Favoritos | WT11 | Implementación de Desarrollo de Funcionalidad de Favoritos | Como visitante de la plataforma PARKINGNOW, deseo poder marcar estacionamientos como favoritos para acceder rápidamente a ellos en futuras visitas y reservas. | 8 | Samuel Elias | Done |
+| US12 | Visualización de Promociones Disponibles | WT12 | Implementación de Visualización de Promociones Disponibles | Como visitante de la plataforma PARKINGNOW, deseo ver promociones y descuentos disponibles en la landing page para aprovechar las ofertas y reducir mis gastos de estacionamiento. | 5 | Javier Aramis Ramos Huamanchumo | Done |
+
 
 ##### 5.2.1.3. Evidencia del Desarrollo para la Revisión del Sprint
 
@@ -1839,7 +1996,7 @@ Los detalles de Sprint Planning se realizo al inicio de este sprint para poder d
 
 ##### Sprint Backlog 2
 
-![alt text](<Assets/Trello 2.png>)
+![alt text](<Assets/Sprint 2.png>)
 
 Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
 
@@ -1850,14 +2007,17 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 | US13 | Creación de Endpoint | WT01 | Obtener Disponibilidad | Crear un endpoint que devuelva la disponibilidad de los espacios en tiempo real | 6 | Omar Harold | To-do |
 | US17 | Implementación de Logs | WT02 | Auditoría | Implementar el sistema de auditoría para registrar las acciones importantes en la plataforma | 4 | Samuel Elias | To-do |
 | US20 | Creación de API | WT03 | Gestión de Usuarios | Desarrollar una API que permita la gestión CRUD de usuarios | 4 | Rodrigo Liberato | In-Process |
-| US16 | Simplificación del Proceso de Reservas | WT04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Diego Alonso | Done |
+| US16 | Simplificación del Proceso de Reservas | WT04 | Proceso Simplificado | Implementar un proceso simplificado para hacer reservas de espacios de estacionamiento más rápido | 4 | Mateo Italo | Done |
 | US18 | Gestión Básica de Promociones | WT05 | Gestión de Promociones | Desarrollar una funcionalidad para gestionar promociones básicas en la plataforma | 5 | Diego Ulises | Done |
-| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | WT06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Omar Harold | Done |
+| US19 | Implementación de Funcionalidades de Seguridad Avanzadas | WT06 | Seguridad Avanzada | Implementar características avanzadas de seguridad para proteger las transacciones y los datos del usuario | 6 | Javier Aramis | Done |
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
+
+Aca tenemos nuestro Frontend ya desplegado.
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Landing-Page)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend-](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend-)  | feature/chapter-5 | f93fb7c | Add Sprint 2 table to README | \- | 17/09/24 |
 |  | feature/chapter-5 | b3ba393 | Added 5.2.2.6 section on README.md | \- | 24/09/24 |
 |  | feature/chapter-5 | a5224f0 | Update README.md | \- | 23/09/24 |
 |  | feature/chapter-5 | 0581697 | Updated README.md and added Trello board screenshot | \- | 17/09/24 |
@@ -1874,31 +2034,31 @@ Link: https://parkingnow-app.web.app/login
 
 1.- Login
 
-![alt text](Assets/Login.png)
+![alt text](<Assets/frontend 1.png>)
 
-2.- Recuperar Contraseña
+2.- Registro para ambos usuarios
 
-![alt text](Assets/Fortgot.png)
+![alt text](<Assets/Frontend 2 .png>)
 
-3.- Registro para ambos usuarios
+3.- Registro para el conductor
 
-![alt text](Assets/Register.png)
+![alt text](<Assets/Frontend 3.png>)
 
-4.- Registro del conductor 
+4.- Registro para el dueño de playa de estacionamiento
 
-![alt text](<Assets/Register driver.png>)
+![alt text](<Assets/Frontend 4.png>)
 
-5.- Rehistro del dueño de playa de estacionamiento
+5.- Pantalla del dueño de playa de estacionamiento
 
-![alt text](<Assets/Register owner.png>)
+![alt text](<Assets/Frontend 5 .png>)
 
 6.- Pantalla del conductor
 
-![alt text](<Assets/Dashboard driver.png>)
+![alt text](<Assets/Frontend 6.png>)
 
-7.- Pantalla del dueño de playa de estacionamiento
+7.- Pantalla de Reservas
 
-![alt text](<Assets/Dashboard owner.png>)
+![alt text](<Assets/Frontend 7.png>)
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -1944,23 +2104,23 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ### Conclusiones y recomendaciones
 
-El proyecto **PARKINGNOW** ha logrado avances significativos al desarrollar una solución tecnológica integral para abordar los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos que detectan en tiempo real con una plataforma intuitiva para los usuarios, **PARKINGNOW** no solo optimiza la ocupación de los espacios, sino que también simplifica la vida de los conductores urbanos. Esta solución ha demostrado su efectividad al reducir los tiempos de búsqueda de estacionamiento y aumentar la rentabilidad para los propietarios de estos espacios, creando un balance adecuado entre tecnología y experiencia del usuario.
+El proyecto PARKINGNOW ha logrado avances significativos al desarrollar una solución tecnológica integral para abordar los problemas de estacionamiento en las ciudades. Al combinar sensores infrarrojos que detectan en tiempo real con una plataforma intuitiva para los usuarios, PARKINGNOW no solo optimiza la ocupación de los espacios, sino que también simplifica la vida de los conductores urbanos. Esta solución ha demostrado su efectividad al reducir los tiempos de búsqueda de estacionamiento y aumentar la rentabilidad para los propietarios de estos espacios, creando un balance adecuado entre tecnología y experiencia del usuario.
 
 Durante todo el desarrollo, se ha priorizado la automatización, lo que ha permitido una integración fluida con los sistemas de gestión de estacionamientos ya existentes. Las entrevistas con usuarios y las pruebas en campo han confirmado que la solución no solo cumple con las expectativas iniciales, sino que va más allá al satisfacer las necesidades de los principales interesados. La aplicación no solo aborda la problemática de encontrar estacionamiento, sino que también contribuye a reducir el tráfico y a una gestión más eficiente de los recursos, alineándose con objetivos de sostenibilidad a largo plazo.
 
-**PARKINGNOW** tiene un gran potencial para convertirse en un referente en la gestión de estacionamientos urbanos, especialmente en grandes ciudades donde los problemas de tráfico y falta de espacios de estacionamiento son desafíos constantes. La plataforma ha demostrado ser escalable y adaptable a diversos contextos, tanto geográficos como tecnológicos.
+PARKINGNOW tiene un gran potencial para convertirse en un referente en la gestión de estacionamientos urbanos, especialmente en grandes ciudades donde los problemas de tráfico y falta de espacios de estacionamiento son desafíos constantes. La plataforma ha demostrado ser escalable y adaptable a diversos contextos, tanto geográficos como tecnológicos.
 
 **Recomendaciones:**
 
-1. **Ampliación de funcionalidades:** Es recomendable que **PARKINGNOW** siga invirtiendo en el desarrollo de nuevas características que aporten más valor a los usuarios y propietarios de estacionamientos. Esto podría incluir la integración de pagos automatizados, notificaciones en tiempo real sobre la disponibilidad de espacios y una mayor personalización de la experiencia del usuario a través de análisis predictivos de comportamiento. Además, el uso de tecnologías avanzadas como la inteligencia artificial para predecir ocupaciones podría posicionar aún más a **PARKINGNOW** como un líder en el sector.
+1. **Ampliación de funcionalidades:** Es recomendable que PARKINGNOW siga invirtiendo en el desarrollo de nuevas características que aporten más valor a los usuarios y propietarios de estacionamientos. Esto podría incluir la integración de pagos automatizados, notificaciones en tiempo real sobre la disponibilidad de espacios y una mayor personalización de la experiencia del usuario a través de análisis predictivos de comportamiento. Además, el uso de tecnologías avanzadas como la inteligencia artificial para predecir ocupaciones podría posicionar aún más a PARKINGNOW como un líder en el sector.
 
-2. **Expansión geográfica y sectorial:** Con los buenos resultados obtenidos en los mercados iniciales, **PARKINGNOW** debería explorar su expansión a otras ciudades con una alta demanda de estacionamiento y problemas recurrentes de tráfico. Además, la plataforma podría buscar oportunidades en sectores específicos como aeropuertos, centros comerciales y eventos masivos para ampliar aún más su mercado.
+2. **Expansión geográfica y sectorial:** Con los buenos resultados obtenidos en los mercados iniciales, PARKINGNOW debería explorar su expansión a otras ciudades con una alta demanda de estacionamiento y problemas recurrentes de tráfico. Además, la plataforma podría buscar oportunidades en sectores específicos como aeropuertos, centros comerciales y eventos masivos para ampliar aún más su mercado.
 
-3. **Estrategia de marketing y educación:** Para aumentar la adopción de la plataforma, se recomienda desarrollar una estrategia de marketing digital dirigida tanto a conductores como a propietarios de estacionamientos. Utilizar testimonios de usuarios satisfechos y estudios de caso que demuestren reducciones en el tiempo de búsqueda y los costos asociados puede ser una herramienta poderosa para atraer nuevos usuarios. También es importante educar al público objetivo sobre los beneficios de **PARKINGNOW** en la reducción del tráfico y el impulso de la sostenibilidad urbana.
+3. **Estrategia de marketing y educación:** Para aumentar la adopción de la plataforma, se recomienda desarrollar una estrategia de marketing digital dirigida tanto a conductores como a propietarios de estacionamientos. Utilizar testimonios de usuarios satisfechos y estudios de caso que demuestren reducciones en el tiempo de búsqueda y los costos asociados puede ser una herramienta poderosa para atraer nuevos usuarios. También es importante educar al público objetivo sobre los beneficios de PARKINGNOW en la reducción del tráfico y el impulso de la sostenibilidad urbana.
 
 4. **Monitoreo y análisis constante:** A medida que la plataforma crece, es vital implementar un sistema de análisis continuo de los datos generados por los usuarios y los espacios de estacionamiento. El análisis de grandes volúmenes de datos permitirá detectar problemas tempranamente y adaptarse rápidamente a las necesidades del mercado. Este enfoque garantizará que la experiencia del usuario se mantenga optimizada y que el servicio siga siendo competitivo.
 
-5. **Sostenibilidad y responsabilidad social:** Conforme crece el impacto de **PARKINGNOW**, es aconsejable centrarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores al disminuir el tiempo de búsqueda de estacionamiento y colaborar con proyectos de ciudades inteligentes, posicionarán a **PARKINGNOW** no solo como una empresa rentable, sino también como un actor clave en la sostenibilidad urbana.
+5. **Sostenibilidad y responsabilidad social:** Conforme crece el impacto de PARKINGNOW, es aconsejable centrarse aún más en su papel dentro del ecosistema de movilidad sostenible. Iniciativas como reducir la huella de carbono de los conductores al disminuir el tiempo de búsqueda de estacionamiento y colaborar con proyectos de ciudades inteligentes, posicionarán a PARKINGNOW no solo como una empresa rentable, sino también como un actor clave en la sostenibilidad urbana.
 
 ### Video About-the-Team
 
@@ -1999,3 +2159,5 @@ Durante todo el desarrollo, se ha priorizado la automatización, lo que ha permi
 | Entrevistas en general - Segmento 1 y 2                                     | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbEIvBSHZLhFoC_Mj4PxlKcBZWiwQH82EDtkhGkXtGgB4A?e=YMx1dM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Sprint BackLog                             | https://www.atlassian.com/es/agile/scrum/sprints|
 | Link de video de exposición|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EW8SZvnJ9QxHpJlyoBx_OQUBLOtk_FLaXctljelGfWNy_Q?e=PlII1v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
+| Trello Sprint 1 | https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/sprint-1-parkingnow |
+| Trello Sprint 2 | https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2 |
