@@ -2073,12 +2073,25 @@ Link: https://parkingnow-app.web.app/login
 
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
-Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente repositorio
-
-
+Para esta entrega, nuestra solucion de ha sido desplegado en el servicio netlify
 
 Asimismo como el frontend en el siguiente repositorio
+https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend-
 
+A continuación se muestran los pasos seguidos:
+
+1. Creación cuenta e inicio de sesión en netlify.com
+2. Creamos nuevo sitio y le damos a importar:
+<img src="assets/deploy-1.jpeg"/> 
+
+3. Iniciar sesión en nuestra organización y elegir nuestro proyecto Frontend:
+<img src="assets/deploy-2.jpeg"/>
+
+4. Configuramos el depliegue
+<img src="assets/deploy-3.jpeg"/>
+
+5. Ya podemos ver información sobre el pipeline y el status del despliegue
+<img src="assets/deploy-4.jpeg"/>
 
 
 Por ultimo, utilizamos esta API: [Parking API](https://parkalot.io/open-api/) (https://parkalot.io/open-api/)
