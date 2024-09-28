@@ -1302,29 +1302,17 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
-User goal: Registrarse como conductor o dueño de estacionamiento.
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
 ![Wireflow1](Assets/Wireflow_1.png)
 
-User goal: Iniciar sesión como conductor o dueño de estacionamiento.
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
 ![Wireflow2](Assets/Wireflow_2.png)
 
-User goal: Hacer una reserva.
+User goal: Hacer una reserva como conductor en la aplicacion.
 ![Wireflow3](Assets/Wireflow_3.png)
 
-User goal: Dejar una reseña.
+User goal: Dejar una opinion a una playa de estacionamiento.
 ![Wireflow4](Assets/Wireflow_4.png)
-
-User goal: Recibir soporte como conductor.
-![Wireflow5](Assets/Wireflow_5.png)
-
-User Goal: Revisar el estado del vehículo.
-![Wireflow6](Assets/Wireflow_6.png)
-
-User Goal: Revisar reservas programadas como dueño.
-![Wireflow7](Assets/Wireflow_7.png)
-
-User Goal: Monitorear alertas y ocupación como dueño.
-![Wireflow8](Assets/Wireflow_8.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1346,23 +1334,17 @@ Link: [Figma](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?no
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-User goal: Registrarse como conductor o dueño de estacionamiento.
+User goal: Registrarse como conductor o dueno de playa de estacionamiento.
 ![Userflow1](Assets/Userflow_1.png)
 
-User goal: Iniciar sesión como conductor o dueño de estacionamiento.
+User goal: Iniciar sesion como conductor o dueno de playa de estacionamiento.
 ![Userflow2](Assets/Userflow_2.png)
 
-User goal: Dejar una reseña.
+User goal: Dejar una opinion como conductor en la aplicacion.
 ![Userflow3](Assets/Userflow_3.png)
 
-User goal: Hacer una reserva.
+User goal: Hacer una reserva como conductor en la aplicacion.
 ![Userflow4](Assets/Userflow_4.png)
-
-User Goal: Revisar reservas activas y favoritos.
-![Userflow5](Assets/Userflow_5.png)
-
-User Goal: Revisar locales y estadísticas como dueño.
-![Userflow6](Assets/Userflow_6.png)
 
 ### 4.5. Web Applications Prototyping
 
