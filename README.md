@@ -2130,7 +2130,42 @@ Los gráficos presentados también proporcionan una vista general de las clonaci
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Esta sección detalla los Endpoints documentados con OpenAPI que se desarrollaron como parte del alcance del Sprint, acompañada de una breve introducción sobre los logros obtenidos en la documentación de Web Services.
+
+Durante este Sprint, se completó la documentación de los principales Endpoints necesarios para la interacción con nuestra API. Cada uno cuenta con especificaciones claras que facilitan su comprensión y uso para los desarrolladores que deseen integrar estos servicios.
+
+| Endpoint                     | Acción Implementada            | Verbo HTTP | Sintaxis de Llamada              | URL EndPoint                      | URL JSON                                                                                                              |
+|------------------------------|--------------------------------|------------|----------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| `/api/v1/conductores`        | Obtener todos los conductores | GET        | `GET /api/v1/conductores`        | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json       |
+| `/api/v1/conductores`        | Crear un nuevo conductor       | POST       | `POST /api/v1/conductores`       | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json       |
+| `/api/v1/reservas`           | Obtener todas las reservas     | GET        | `GET /api/v1/reservas`           | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json         |
+| `/api/v1/reservas`           | Crear una nueva reserva        | POST       | `POST /api/v1/reservas`          | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json         |
+| `/api/v1/espacios`           | Obtener todos los espacios     | GET        | `GET /api/v1/espacios`           | [EndPoint](/Assets/espacios.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json         |
+| `/api/v1/locales`            | Obtener todos los locales      | GET        | `GET /api/v1/locales`            | [EndPoint](/Assets/locales.yaml)     | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json          |
+
+Repositorio: [GitHub - Backend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend)
+
+Commit de los Endpoints: [Ver Commit](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
+
+![Documentación API](Assets/API.jpeg)
+
+![Esquema Base de Datos](Assets/Database2.png)
+
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se ha completado el desarrollo del backend para la aplicación web "ParkingNow" utilizando diversas herramientas y tecnologías. Cabe destacar que el despliegue del backend de la API no se encuentra dentro del alcance de este sprint.
+
+- **Git**: Utilizamos este sistema de control de versiones para facilitar el trabajo colaborativo y el seguimiento de las versiones del backend en un repositorio remoto.
+
+- **Gitflow**: Un flujo de trabajo colaborativo que nos ayudó a organizar el desarrollo en ramas dentro del repositorio, facilitando la contribución en equipo al backend.
+
+- **GitHub**: Plataforma en la que alojamos el repositorio del backend del proyecto, permitiendo almacenar y gestionar sus distintas versiones.
+
+- **Swagger UI**: Empleamos esta herramienta para documentar y probar la API, asegurando que los endpoints sean accesibles y estén definidos adecuadamente.
+
+- **Spring Boot**: Este framework fue clave para desarrollar el backend, permitiéndonos implementar la lógica del negocio e integrar la base de datos utilizando JPA y Hibernate.
+
+- **Firebase**: Plataforma de Google para desarrollo de aplicaciones web y móviles. En "ParkingNow," se usa Firebase para la autenticación de usuarios y almacenamiento de datos, optimizando la calidad del servicio y la entrega de contenido.
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 #### 5.3. Validation Interviews
