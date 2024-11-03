@@ -176,6 +176,25 @@ del ABET – EAC - Student Outcome 5.
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
+- [5.2.3. Sprint 3](#sprint-3)
+  - [5.2.3.1. Sprint Planning 3](#sprint-planning-3)
+  - [5.2.3.2. Sprint Backlog 3](#sprint-backlog-3)
+  - [5.2.3.3. Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
+  - [5.2.3.4. Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
+  - [5.2.3.8. Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+
+- [5.3. Validation Interviews](#validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
+
+- [5.4. Video About-the-Product](#video-about-the-product)
+
+
+
 - [Avance de Conclusiones, Bibliografía y Anexos](#avance-de-conclusiones-bibliografía-y-anexos)
 
 ## Capítulo I: Introducción
@@ -2101,6 +2120,25 @@ La imagen a continuación ofrece una representación visual de las fechas en las
 Los gráficos presentados también proporcionan una vista general de las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. Además, muestran datos sobre el número de visitantes que ha recibido el repositorio a lo largo del tiempo.
 
 ![alt text](Assets/Barras.png)
+
+
+### Sprint 3
+### 5.2.3. Sprint 3
+##### 5.2.3.1. Sprint Planning 3
+##### 5.2.3.2. Sprint Backlog 3
+##### 5.2.3.3. Development Evidence for Sprint Review
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+##### 5.2.3.5. Execution Evidence for Sprint Review
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+#### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas
+
+# 5.4. Video About-the-Product
 
 
 ### Conclusiones y recomendaciones
