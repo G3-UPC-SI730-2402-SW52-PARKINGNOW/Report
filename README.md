@@ -2167,16 +2167,16 @@ Durante este Sprint, se completó la documentación de los principales Endpoints
 
 | Endpoint                     | Acción Implementada            | Verbo HTTP | Sintaxis de Llamada              | URL EndPoint                      | URL JSON                                                                                                              |
 |------------------------------|--------------------------------|------------|----------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| `/api/v1/conductores`        | Obtener todos los conductores | GET        | `GET /api/v1/conductores`        | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json       |
-| `/api/v1/conductores`        | Crear un nuevo conductor       | POST       | `POST /api/v1/conductores`       | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json       |
-| `/api/v1/reservas`           | Obtener todas las reservas     | GET        | `GET /api/v1/reservas`           | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json         |
-| `/api/v1/reservas`           | Crear una nueva reserva        | POST       | `POST /api/v1/reservas`          | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json         |
-| `/api/v1/espacios`           | Obtener todos los espacios     | GET        | `GET /api/v1/espacios`           | [EndPoint](/Assets/espacios.yaml)    | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json         |
-| `/api/v1/locales`            | Obtener todos los locales      | GET        | `GET /api/v1/locales`            | [EndPoint](/Assets/locales.yaml)     | https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json          |
+| `/api/v1/conductores`        | Obtener todos los conductores | GET        | `GET /api/v1/conductores`        | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/conductores.json       |
+| `/api/v1/conductores`        | Crear un nuevo conductor       | POST       | `POST /api/v1/conductores`       | [EndPoint](/Assets/conductores.yaml) | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/conductores.json       |
+| `/api/v1/reservas`           | Obtener todas las reservas     | GET        | `GET /api/v1/reservas`           | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/reservas.json         |
+| `/api/v1/reservas`           | Crear una nueva reserva        | POST       | `POST /api/v1/reservas`          | [EndPoint](/Assets/reservas.yaml)    | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/reservas.json         |
+| `/api/v1/espacios`           | Obtener todos los espacios     | GET        | `GET /api/v1/espacios`           | [EndPoint](/Assets/espacios.yaml)    | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/espacios.json         |
+| `/api/v1/locales`            | Obtener todos los locales      | GET        | `GET /api/v1/locales`            | [EndPoint](/Assets/locales.yaml)     | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/locales.json          |
 
-Repositorio: [GitHub - Backend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend)
+Repositorio: [GitHub - Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)
 
-Commit de los Endpoints: [Ver Commit](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
+Commit de los Endpoints: [Ver Commit](hG3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/)
 
 ![Documentación API](Assets/API.jpeg)
 
