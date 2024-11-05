@@ -2045,23 +2045,23 @@ Link: https://parking-now.netlify.app/register
 
 1.- Login
 
-![alt text](<Assets/frontend 1.png>)
+![alt text](<Assets/sprint-2-1.jpg>)
 
 2.- Registro para ambos usuarios
 
-![alt text](<Assets/Frontend 2 .png>)
+![alt text](<Assets/sprint-2-2.jpg>)
 
 3.- Registro para el conductor
 
-![alt text](<Assets/Frontend 3.png>)
+![alt text](<Assets/sprint-2-5.jpg>)
 
 4.- Registro para el dueño de playa de estacionamiento
 
-![alt text](<Assets/Frontend 4.png>)
+![alt text](<Assets/sprint-2-7.jpg>)
 
 5.- Pantalla del dueño de playa de estacionamiento
 
-![alt text](<Assets/Frontend 5 .png>)
+![alt text](<Assets/sprint-3-2.jpg>)
 
 6.- Pantalla del conductor
 
@@ -2160,6 +2160,18 @@ Esta sección muestra las tareas realizadas durante el presente sprint. A contin
 ##### 5.2.3.3. Development Evidence for Sprint Review
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este entregable tenemos los siguientes avances, mejorando la interfaz del usuario para los conductores y duenos de estacionamientos. Asimismo como la principal funcionalidad de nuestro usuario, que es el reservar un espacio.
+
+![Sprint 3.1](Assets/sprint-3-1.jpg)
+
+![Sprint 3.2](Assets/sprint-3-2.jpg)
+
+![Sprint 3.3](Assets/sprint-3-3-.jpg)
+
+Ademas, incluimos la funcion de cambiar la contrasena
+![text](Assets/sprint-2-4.jpg)
+
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 Esta sección detalla los Endpoints documentados con OpenAPI que se desarrollaron como parte del alcance del Sprint, acompañada de una breve introducción sobre los logros obtenidos en la documentación de Web Services.
 
