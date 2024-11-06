@@ -76,7 +76,7 @@ Las tareas asignadas para el Sprint 3 han sido finalizadas y están documentadas
 
 - **Reuniones de Coordinación:** Se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos logrados en el Sprint 3, el cual se enfocó principalmente en el desarrollo del backend de la aplicación web. En estas reuniones, se discutieron temas como la implementación de la arquitectura CLEAN, la integración de CQRS y la separación de servicios dentro del backend.
 
-
+![alt text](Assets/TB2.png)
 
 # ABET – EAC - Student Outcome 5
 
@@ -86,11 +86,11 @@ establecen objetivos, planifican tareas y cumplen objetivos.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
-
 | Criterio específico                                                                                 | Acciones realizadas                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                             |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5.<br> **Diego Ulises Soto Quispe *TP1:***: En el TP1, lideré discusiones sobre las metas del proyecto y facilité la comprensión de los objetivos, asegurando que todos los miembros del equipo estuvieran informados y alineados en el proceso. <br> **Omar Harold Rivera Ticllacuri TB1:** Durante el desarrollo del proyecto, participé activamente en el Capítulo 2, creando los user persona y colaborando en el diseño de la Landing Page. También aporté en partes del Capítulo 5, ayudando a definir aspectos clave del proyecto.  <br>   <br> **Omar Harold Rivera Ticllacuri TP1:** Durante el desarrollo de este entregable, mantuve una colaboración cercana y constante con mis compañeros para asegurar un progreso coordinado y evitar obstáculos mientras trabajábamos en conjunto. Participé activamente en la optimización del desarrollo y despliegue del Landing Page, y también contribuí con la revisión y actualización de la documentación del proyecto.**Javier Ramos Huamamchumo** <br> **TB1**: A lo largo del desarrollo del proyecto, desempeñé un papel activo en los capitulos 2 y 5, donde contribuí significativamente en el diseño de la página de aterrizaje y asistiendo en la definición de elementos cruciales para el proyecto. <br> **Rodrigo Liberato Saldaña:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación. **TP** Para este entregable tuvimos una comunicacion constante con mis compañeros, para mantener un orden concreto y no hubieran inconvenientes al avanzar como grupo. Realice algunas de las mejoras en los diagramas de flujo, aporte con cambios y mejoras en la documentacion **TB2 Rodrigo Liberato:** Para este entregable realize mis aportens en el reporte. Considero que logramos un buen trabajo para este entregable   <br>**Samuel Elias Molina Asencios** <br> **TB1**: Durante el desarrollo del proyecto, fui responsable de la creación del escenario, el desarrollo del lenguaje ubicuo y el diseño del empathy map. A través del escenario, logré visualizar cómo los usuarios interactuarían con el sistema en contextos reales, lo que ayudó a anticipar posibles necesidades y mejoras. El lenguaje ubicuo que propuse permitió que todos los involucrados en el proyecto, desde desarrolladores hasta stakeholders, tuvieran una comprensión compartida y clara de los términos y conceptos clave, evitando malentendidos. <br>**Mateo Italo Loechle Arias**:Durante la entrega de la tb1 , tuve la responsabilidad de realizar el capitulo 5 , de igual manera aporte en la realizacion del algunos aspectos del punto 4<br> TP: Se realizo el proceso de seleccion para la implementacion de componentes para el front end de la aplicacion.| TB1: La participación activa fue fundamental para guiar al equipo en la comprensión de los objetivos y la dirección del proyecto. Su capacidad para comunicar las metas y explicar la problemática de manera clara y efectiva permitió que todos los miembros estuvieran alineados en el desarrollo de las soluciones. La presentación de los resultados del análisis de requerimientos y pruebas facilitó que el equipo técnico tuviera una visión clara de los pasos a seguir. Gracias a su liderazgo y su participación en estas tareas clave, se logró un avance constante en el proyecto, sentando las bases para futuras iteraciones de mejora. Su contribución fue esencial para la cohesión del equipo y el cumplimiento de los plazos establecidos. <br> TP1 :Liderazgo Compartido: La diversidad de aportes y el liderazgo distribuido en el equipo fueron claves para abordar los desafíos del proyecto. Cada integrante tomó la iniciativa en distintas áreas, lo que enriqueció el desarrollo y la implementación, generando un sentido de pertenencia y responsabilidad compartida.|
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br> **Diego Ulises Soto Quispe *TP1***: En el TP1, fomenté un entorno colaborativo al documentar el perfil de la startup y los requerimientos del sistema, asegurando que el equipo tuviera claridad sobre las metas y tareas. Además, colaboré en el diseño y la implementación, lo que permitió una planificación efectiva y el cumplimiento de los objetivos del proyecto. <br>**Omar Harold Rivera Ticllacuri TB1:** En el Capítulo 2, desarrollé los user persona, la matriz de tareas de usuario, y el user journey mapping. En el Capítulo 4, trabajé en las Style Guidelines y en el diseño UI de la Landing Page, asegurando una experiencia coherente y atractiva. **Omar Harold Rivera Ticllacuri TP1:** En el TP1, contribuí a crear un entorno de colaboración al encargarme de la documentación y el despliegue de la landing page, garantizando que el equipo comprendiera claramente los objetivos y roles. Asimismo, estuve involucrado en el diseño y la implementación, lo que facilitó una planificación eficaz y el cumplimiento de los objetivos del proyecto.  <br> <br> **Javier Ramos Huamanchumo** <br> **TB1**: Revisé todos los capítulos para asegurar cohesión, comenzando por el Capítulo 1, donde establecí el perfil de nuestra startup y el contexto teórico, utilizando un lenguaje claro. En el Capítulo 3, detallé los requerimientos del sistema y las historias de usuario, y luego, supervisé los Capítulos 4 y 5 para garantizar que el diseño del sistema y su implementación estuvieran alineados con nuestros objetivos. <br> **Rodrigo Liberato Saldaña:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **TP** Para este entregable, logramos la comunicacion esperada de todas las formas posibles para tener un avance constante y eficiente.  **TB2 Rodrigo Liberato:** Considero que logramos el objetivo del estudiante comnunicandonos eficientemente entre nosotros para lograr un trabajo efectivo  <br> **Samuel Elias Molina Asencios:** Para este entregable, los aportes que realicé por escrito fueron algunas modificaciones sobre la landing page asi mismo desarrolle los Ubiquitos. <br> **Mateo Italo Loechle Arias**: En el capitulo 4 realize el Labeling Systems, SEO tags and meta tags , searching systems and nav systems. Tambien aporte en el punto 5 con el sprint backlog y un poco el landing page.<br> TP: Para esta entrega se aporto minimamente a la implementacion de componentes de el front end. | TB1 :La contribución  en la documentación y planificación del proyecto fue determinante para el éxito del equipo. Su habilidad para crear un entorno de trabajo inclusivo, asegurando que todos los miembros estuvieran informados y alineados con los objetivos del proyecto, ayudó a que las tareas se completaran de manera eficiente. La claridad y precisión en la documentación del perfil de la startup y los requerimientos del sistema establecieron una base sólida para el desarrollo. Al colaborar en el diseño del sistema y las configuraciones de implementación, se aseguró de que cada fase del proyecto estuviera bien organizada y alineada con las expectativas. Su capacidad para planificar y cumplir con los objetivos propuestos permitió que el equipo avanzara con seguridad y sin contratiempos, mejorando la calidad de los entregables en cada iteración.<br> TP1: Mejora Continua: La revisión constante de los documentos y la colaboración activa en las fases de diseño y desarrollo permitieron identificar y corregir problemas de manera oportuna. Esto no solo mejoró la calidad del trabajo final, sino que también estableció un marco para futuras iteraciones, asegurando que el equipo pudiera adaptarse a cambios y optimizar procesos a lo largo del proyecto. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                             | **Diego Ulises Soto Quispe *TB1:*** Durante las reuniones del proyecto, participé activamente explicando la introducción del proyecto y la problemática de la startup, utilizando un lenguaje claro para asegurar que todos los miembros del equipo comprendieran las metas y objetivos. Presenté de forma clara los resultados del análisis de requerimientos en el Capítulo 3 y los resultados de las pruebas en el Capítulo 5.<br> **Diego Ulises Soto Quispe *TP1:***: En el TP1, lideré discusiones sobre las metas del proyecto y facilité la comprensión de los objetivos, asegurando que todos los miembros del equipo estuvieran informados y alineados en el proceso. <br> **Diego Ulises Soto Quispe *TB2:*** En el TB2, lideré la creación y organización del Sprint Backlog y planifiqué junto al equipo los objetivos específicos para este entregable. Estuve encargado de definir el Sprint Goal, asegurando que estuviera alineado con las expectativas del proyecto. También revisé y validé los desarrollos propuestos en el Capítulo 5, especialmente en las configuraciones de despliegue, para garantizar que se cumpliera con los criterios de éxito del sprint. Además, apoyé en la revisión y mejora de los artefactos en el informe de proyecto y su documentación, colaborando en la organización de presentaciones para la entrega.  <br> **Omar Harold Rivera Ticllacuri TB1:** Durante el desarrollo del proyecto, participé activamente en el Capítulo 2, creando los user persona y colaborando en el diseño de la Landing Page. También aporté en partes del Capítulo 5, ayudando a definir aspectos clave del proyecto.  <br>   <br> **Omar Harold Rivera Ticllacuri TP1:** Durante el desarrollo de este entregable, mantuve una colaboración cercana y constante con mis compañeros para asegurar un progreso coordinado y evitar obstáculos mientras trabajábamos en conjunto. Participé activamente en la optimización del desarrollo y despliegue del Landing Page, y también contribuí con la revisión y actualización de la documentación del proyecto.**Javier Ramos Huamamchumo** <br> **TB1**: A lo largo del desarrollo del proyecto, desempeñé un papel activo en los capitulos 2 y 5, donde contribuí significativamente en el diseño de la página de aterrizaje y asistiendo en la definición de elementos cruciales para el proyecto. <br> **Rodrigo Liberato Saldaña:** Para este entregable, comuniqué a mis compañeros todos mis avances y cambios que aporté. Apoyé a quienes lo necesitaban, y mis aportes significativos fueron en el Capítulo 2 (análisis de los competidores), Capítulo 4 (Wireframe y Mockup design) y el diseño de la base de datos. También diseñé el PPT para la presentación. **TP** Para este entregable tuvimos una comunicacion constante con mis compañeros, para mantener un orden concreto y no hubieran inconvenientes al avanzar como grupo. Realice algunas de las mejoras en los diagramas de flujo, aporte con cambios y mejoras en la documentacion **TB2 Rodrigo Liberato:** Para este entregable realicé mis aportes en el reporte. Considero que logramos un buen trabajo para este entregable   <br>**Samuel Elias Molina Asencios** <br> **TB1**: Durante el desarrollo del proyecto, fui responsable de la creación del escenario, el desarrollo del lenguaje ubicuo y el diseño del empathy map. A través del escenario, logré visualizar cómo los usuarios interactuarían con el sistema en contextos reales, lo que ayudó a anticipar posibles necesidades y mejoras. El lenguaje ubicuo que propuse permitió que todos los involucrados en el proyecto, desde desarrolladores hasta stakeholders, tuvieran una comprensión compartida y clara de los términos y conceptos clave, evitando malentendidos. <br>**Mateo Italo Loechle Arias**:Durante la entrega de la tb1 , tuve la responsabilidad de realizar el capitulo 5 , de igual manera aporte en la realizacion del algunos aspectos del punto 4<br> TP: Se realizo el proceso de seleccion para la implementacion de componentes para el front end de la aplicacion.| **TB1:** La participación activa fue fundamental para guiar al equipo en la comprensión de los objetivos y la dirección del proyecto. Su capacidad para comunicar las metas y explicar la problemática de manera clara y efectiva permitió que todos los miembros estuvieran alineados en el desarrollo de las soluciones. La presentación de los resultados del análisis de requerimientos y pruebas facilitó que el equipo técnico tuviera una visión clara de los pasos a seguir. Gracias a su liderazgo y su participación en estas tareas clave, se logró un avance constante en el proyecto, sentando las bases para futuras iteraciones de mejora. Su contribución fue esencial para la cohesión del equipo y el cumplimiento de los plazos establecidos. <br> **TP1:** Liderazgo Compartido: La diversidad de aportes y el liderazgo distribuido en el equipo fueron claves para abordar los desafíos del proyecto. Cada integrante tomó la iniciativa en distintas áreas, lo que enriqueció el desarrollo y la implementación, generando un sentido de pertenencia y responsabilidad compartida. <br> **TB2:** El liderazgo en el TB2 facilitó que el equipo avanzara con un objetivo claro y tareas distribuidas eficientemente. Al coordinar la planificación del sprint y revisar los entregables en cada etapa, se lograron mejoras continuas en la calidad y organización del trabajo. La revisión y documentación minuciosa permitió una implementación efectiva y cumplió con los objetivos del proyecto en esta etapa.|
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Diego Ulises Soto Quispe *TB1:*** En el Capítulo 1, fui el responsable de documentar el perfil de la startup y el marco teórico del proyecto, utilizando un lenguaje claro y conciso para describir los antecedentes. En el Capítulo 3, redacté los requerimientos específicos del sistema y las historias de usuario. También colaboré en los Capítulos 4 y 5 documentando el diseño del sistema y las configuraciones de implementación. <br> **Diego Ulises Soto Quispe *TP1***: En el TP1, fomenté un entorno colaborativo al documentar el perfil de la startup y los requerimientos del sistema, asegurando que el equipo tuviera claridad sobre las metas y tareas. Además, colaboré en el diseño y la implementación, lo que permitió una planificación efectiva y el cumplimiento de los objetivos del proyecto. <br> **Diego Ulises Soto Quispe *TB2:*** En el TB2, gestioné la comunicación dentro del equipo y ayudé a planificar las tareas para cumplir con las metas del sprint. Redacté el Sprint Goal y establecí prioridades en el Sprint Backlog para asegurar que el equipo trabajara en sincronía. También me aseguré de que la documentación del Capítulo 5 reflejara los cambios realizados durante el sprint y supervisé que cada miembro tuviera claridad en sus responsabilidades, revisando entregables clave para alinear el progreso con las expectativas de TB2.  <br> **Omar Harold Rivera Ticllacuri TB1:** En el Capítulo 2, desarrollé los user persona, la matriz de tareas de usuario, y el user journey mapping. En el Capítulo 4, trabajé en las Style Guidelines y en el diseño UI de la Landing Page, asegurando una experiencia coherente y atractiva. **Omar Harold Rivera Ticllacuri TP1:** En el TP1, contribuí a crear un entorno de colaboración al encargarme de la documentación y el despliegue de la landing page, garantizando que el equipo comprendiera claramente los objetivos y roles. Asimismo, estuve involucrado en el diseño y la implementación, lo que facilitó una planificación eficaz y el cumplimiento de los objetivos del proyecto.  <br> <br> **Javier Ramos Huamanchumo** <br> **TB1**: Revisé todos los capítulos para asegurar cohesión, comenzando por el Capítulo 1, donde establecí el perfil de nuestra startup y el contexto teórico, utilizando un lenguaje claro. En el Capítulo 3, detallé los requerimientos del sistema y las historias de usuario, y luego, supervisé los Capítulos 4 y 5 para garantizar que el diseño del sistema y su implementación estuvieran alineados con nuestros objetivos. <br> **Rodrigo Liberato Saldaña:** Para este entregable, los aportes que realicé por escrito fueron los commits por Git y los análisis de los competidores. **TP** Para este entregable, logramos la comunicacion esperada de todas las formas posibles para tener un avance constante y eficiente.  **TB2 Rodrigo Liberato:** Considero que logramos el objetivo del estudiante comnunicandonos eficientemente entre nosotros para lograr un trabajo efectivo  <br> **Samuel Elias Molina Asencios:** Para este entregable, los aportes que realicé por escrito fueron algunas modificaciones sobre la landing page asi mismo desarrolle los Ubiquitos. <br> **Mateo Italo Loechle Arias**: En el capitulo 4 realize el Labeling Systems, SEO tags and meta tags , searching systems and nav systems. Tambien aporte en el punto 5 con el sprint backlog y un poco el landing page.<br> TP: Para esta entrega se aporto minimamente a la implementacion de componentes de el front end. | **TB1:** La contribución en la documentación y planificación del proyecto fue determinante para el éxito del equipo. Su habilidad para crear un entorno de trabajo inclusivo, asegurando que todos los miembros estuvieran informados y alineados con los objetivos del proyecto, ayudó a que las tareas se completaran de manera eficiente. La claridad y precisión en la documentación del perfil de la startup y los requerimientos del sistema establecieron una base sólida para el desarrollo. Al colaborar en el diseño del sistema y las configuraciones de implementación, se aseguró de que cada fase del proyecto estuviera bien organizada y alineada con las expectativas. Su capacidad para planificar y cumplir con los objetivos propuestos permitió que el equipo avanzara con seguridad y sin contratiempos, mejorando la calidad de los entregables en cada iteración. <br> **TP1:** Mejora Continua: La revisión constante de los documentos y la colaboración activa en las fases de diseño y desarrollo permitieron identificar y corregir problemas de manera oportuna. Esto no solo mejoró la calidad del trabajo final, sino que también estableció un marco para futuras iteraciones, asegurando que el equipo pudiera adaptarse a cambios y optimizar procesos a lo largo del proyecto. <br> **TB2:** La revisión exhaustiva de los entregables y el apoyo en la planificación de tareas durante el TB2 fomentaron un entorno colaborativo y eficiente. Gracias a su rol en la organización y documentación, el equipo mantuvo un flujo de trabajo constante y ordenado, logrando los objetivos planteados y contribuyendo a una mejora continua del producto. |
+
 
 
 
@@ -1037,7 +1037,9 @@ Las historias de usuario del proyecto PARKINGNOW están enfocadas en optimizar l
 
 **Descripción del Impact Map: Conductor Urbano Frecuente para PARKINGNOW**
 
-Este Impact Map de PARKINGNOW se centra en aumentar la fidelización de conductores urbanos habituales, mejorando tanto la seguridad como la accesibilidad de los estacionamientos en áreas urbanas. Establece metas comerciales, como incrementar la retención de usuarios en un 30%, e identifica soluciones como sistemas de navegación, sensores infrarrojos para monitorear en tiempo real y alertas sobre la disponibilidad de espacios. Las historias de usuario vinculadas se enfocan en la optimización de rutas, la validación de la seguridad y la gestión de notificaciones para mejorar la experiencia del usuario.
+Este mapa de impacto de PARKINGNOW busca aumentar la lealtad de los conductores frecuentes en la ciudad, mejorando la seguridad y accesibilidad en los estacionamientos urbanos. El objetivo es incrementar el uso del servicio en un 30% con soluciones como sistemas de navegación más precisos, sensores para monitorear espacios en tiempo real y alertas sobre disponibilidad. Las historias de usuario están enfocadas en hacer las rutas más fáciles, asegurar la seguridad y enviar notificaciones, brindando una mejor experiencia a los conductores.
+
+
 
 <p align="center">
   <img src="Assets/IMPACT%20MAP_%20Impact_map_conductor.png" alt="IMPACT MAP: Impact_map_conductor" width="600"/>
@@ -1046,7 +1048,8 @@ Este Impact Map de PARKINGNOW se centra en aumentar la fidelización de conducto
 
 **Descripción del Impact Map: Dueño de Playa de Estacionamiento para PARKINGNOW**
 
-Este Impact Map está dirigido a los dueños de playas de estacionamiento, enfocado en mejorar la gestión y optimización de sus espacios. El objetivo es aumentar la eficiencia operativa y la satisfacción del cliente en un 30% en los próximos seis meses. Para lograrlo, se plantean soluciones como un sistema de gestión de reservas en tiempo real, visualización de disponibilidad de espacios a través de sensores, y herramientas de retroalimentación de clientes. Estas funcionalidades permiten a los propietarios maximizar la ocupación, reducir tiempos de espera y mejorar la calidad del servicio gracias al feedback directo de los usuarios.
+Este mapa de impacto está dirigido a los dueños de estacionamientos y se enfoca en mejorar la administración y uso de sus espacios. El objetivo es aumentar la eficiencia y la satisfacción de los clientes en un 30% durante los próximos seis meses. Para lograrlo, se proponen soluciones como un sistema para gestionar reservas en tiempo real, la visualización de espacios disponibles mediante sensores y herramientas para recibir opiniones de los clientes. Estas funciones ayudan a los propietarios a aprovechar mejor los espacios, reducir los tiempos de espera y mejorar el servicio gracias al feedback directo de los usuarios.
+
 
 <p align="center">
   <img src="Assets/IMPACT%20MAP_%20Dueño%20de%20Playa%20de%20Estacionamiento.png" alt="IMPACT MAP: Dueño de Playa de Estacionamiento" width="600"/>
@@ -1951,7 +1954,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
   </tr>
 
   <tr>
-    <td>  https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page</td>
+    <td> https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page-g3 </td>
     <td> Desplegar Landing Page de PARKINGNOW</td>
   </tr>
 </table>
@@ -1960,7 +1963,7 @@ En el primer sprint, hemos desarrollado y lanzado la página de inicio de la apl
 
 Para implementar nuestra página, decidimos usar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub para gestionar el control de versiones. En la sección de Configuración, publicamos el proyecto desde la rama "main", que anteriormente estaba en la rama "developer".
 
-**Link de la Landing Page desplegada:** [PARKINGNOW] https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page
+**Link de la Landing Page desplegada:** [PARKINGNOW] https://g3-upc-si730-2402-sw52-parkingnow.github.io/Landing-Page-g3/
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint.
 En esta entrega, nuestro objetivo principal fue la creación de la Landing Page. Para lograrlo, utilizamos varias herramientas, incluyendo GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada miembro del equipo PARKINGNOW:
@@ -1975,9 +1978,7 @@ Estos gráficos muestran de manera visual las clonaciones realizadas en nuestro 
 
 ![alt text](Assets/Branch.png)
 
-### Sprint 2
-
-##### 5.2.2.1.Sprint Planning 2 
+ 5.2.1. Sprint 2
 
 Los detalles de Sprint Planning se realizo al inicio de este sprint para poder definir las tareas respectivas para cada uno de los integrantes y mostrar nuestros avances semanales.
 
@@ -1985,18 +1986,18 @@ Los detalles de Sprint Planning se realizo al inicio de este sprint para poder d
 
 | Sprint # | Sprint 2 |
 | :---: | :---: |
-| **Sprint Planning Background** |  |
-| Date | 21/09/24 |
-| Time | 13:00 PM |
-| Location | Virtual meeting \- Zoom |
-| Prepared By | Diego Ulises Soto Quispe |
-| Attendees | \- Diego Ulises Soto Quispe <br> \- Loechle Arias Mateo Italo <br> \- Rodrigo Liberato Saldaña <br> \- Omar Harold Rivera Ticllacuri <br> \- Samuel Elias Molina Asencios <br> \- Ramos Huamanchumo, Javier Aramis |
-| Sprint 2 Review Summary | El objetivo principal de este Sprint fue mejorar la experiencia del usuario con la optimización de las funcionalidades de la página PARKINGNOW. Se completaron tareas técnicas de la API y la administracion de visitantes de la pagina. |
-| Sprint 2 Retrospective Summary | La aplicacion de la API fue exitosa por más de los inconvenientes que se tuvo, por ello se intentara buscar las mejoras respectivas con el feedback obtenido.|
-| **Sprint Goal & User Stories** | US13, US17, US20, US16, US18, US19|
-| Sprint 2 Goal | Desarrollar la gestión de usuarios y la creación de APIs básicas para la plataforma PARKINGNOW. |
-| Sprint 2 Velocity | Velocidad de 30 - Segundo Sprint |
-| Sum of Story Points | Sprint 2 - 30 Story Points |
+| **Antecedentes de la Planificación del Sprint** |  |
+| Fecha | 21/09/24 |
+| Hora | 11:00 AM |
+| Ubicación | Reunión virtual - Zoom |
+| Preparado Por | Diego Ulises Soto Quispe - Líder del equipo|
+| Asistentes | - Diego Ulises Soto Quispe <br> - Javier Aramis Ramos Huamanchumo <br> - Mateo Italo Loechle Arias <br> - Rodrigo Liberato Saldaña <br> - Omar Harold Rivera Ticllacuri <br> - Samuel Elias Molina Asencios |
+| Resumen de la Revisión del Sprint 2 | El propósito de este Sprint fue mejorar la experiencia del usuario mediante la optimización de las funcionalidades en la interfaz de la página PARKINGNOW. Se completaron múltiples tareas enfocadas en la interfaz de usuario. |
+| Resumen de la Retrospectiva del Sprint 2 | La ejecución de este Sprint fue satisfactoria, logrando cumplir con todas las tareas planificadas para el frontend. Se identificaron oportunidades de mejora en el diseño de la interfaz, las cuales se abordarán en el próximo Sprint. |
+| **Objetivo del Sprint y Historias de Usuario** | US15, US16, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30, US31, US32 |
+| Objetivo del Sprint 2 | Implementar la gestión de usuarios y desarrollar nuevas funcionalidades de frontend para la plataforma PARKINGNOW. |
+| Velocidad del Sprint 2 | Velocidad de 30 - Segundo Sprint |
+| Total de Puntos de Historia | Sprint 2 - 74 Puntos de Historia |
 
 
 ##### Sprint Backlog 2
@@ -2005,21 +2006,30 @@ Los detalles de Sprint Planning se realizo al inicio de este sprint para poder d
 
 
 Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
+| Sprint # | Sprint 2 |   |   |   |   |   |   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| User Story |   | Work-Item / Task |   |   |   |   |   |
+| ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
+| US15 | Inicio de Sesión para Conductores | WT01 | Implementación de Inicio de Sesión | Desarrollar la funcionalidad de inicio de sesión para conductores en la aplicación. | 4 | Omar Harold Rivera Ticllacuri | To-do |
+| US16 | Registro de Conductores | WT02 | Implementación de Registro | Crear la funcionalidad de registro de conductores en la plataforma. | 4 | Samuel Elias Molina Asencios | To-do |
+| US17 | Registro de Dueños de Playa | WT03 | Implementación de Registro de Dueños | Desarrollar el registro para dueños de playa en la aplicación. | 4 | Rodrigo Liberato Saldaña | To-do |
+| US18 | Búsqueda de Reservas para Conductores | WT04 | Implementación de Búsqueda de Reservas | Implementar la búsqueda de reservas activas y pasadas para conductores. | 3 | Diego Ulises Soto Quispe | In-Process |
+| US19 | Pago de Reservas por Transacción | WT05 | Implementación de Pago | Desarrollar la funcionalidad de pago por transacción para reservas de estacionamiento. | 5 | Diego Ulises Soto Quispe | Done |
+| US20 | Confirmación de Reserva Registrada | WT06 | Implementación de Confirmación | Crear pantalla de confirmación de reserva registrada. | 3 | Omar Harold Rivera Ticllacuri | Done |
+| US21 | Registro de Opiniones | WT07 | Implementación de Opiniones | Implementar la funcionalidad para registrar opiniones de usuarios. | 3 | Samuel Elias Molina Asencios | Done |
+| US22 | Notificaciones en el Dashboard del Conductor | WT08 | Implementación de Notificaciones | Desarrollar el sistema de notificaciones para el dashboard del conductor. | 4 | Rodrigo Liberato Saldaña | Done |
+| US23 | Configuración de Preferencias de Usuario | WT09 | Implementación de Preferencias | Permitir a los usuarios configurar sus preferencias en la aplicación. | 3 | Ramos Huamanchumo, Javier Aramis | Done |
+| US24 | Historial de Reservas en el Dashboard del Conductor | WT10 | Implementación de Historial | Desarrollar el historial de reservas en el dashboard del conductor. | 4 | Diego Ulises Soto Quispe | Done |
+| US25 | Alerta de Espacio Disponible | WT11 | Implementación de Alertas | Crear alertas para disponibilidad de espacios de estacionamiento. | 4 | Omar Harold Rivera Ticllacuri | To-do |
+| US26 | Soporte en Tiempo Real en el Dashboard del Conductor | WT12 | Implementación de Soporte | Desarrollar un sistema de soporte en tiempo real para conductores. | 5 | Samuel Elias Molina Asencios | To-do |
+| US27 | Favoritos para Conductores | WT13 | Implementación de Favoritos | Permitir a los conductores marcar estacionamientos como favoritos. | 3 | Rodrigo Liberato Saldaña | To-do |
+| US28 | Verificación de Reserva en el Dashboard del Conductor | WT14 | Implementación de Verificación | Crear funcionalidad para verificar el estado de la reserva en el dashboard. | 3 | Ramos Huamanchumo, Javier Aramis | To-do |
+| US29 | Cancelación de Reserva en el Dashboard | WT15 | Implementación de Cancelación | Desarrollar la opción de cancelación de reservas desde el dashboard. | 4 | Diego Ulises Soto Quispe | To-do |
+| US30 | Gestión de Alertas para Conductores | WT16 | Implementación de Gestión de Alertas | Implementar la gestión de alertas de seguridad y disponibilidad. | 4 | Omar Harold Rivera Ticllacuri | To-do |
+| US31 | Personalización de Notificaciones para Conductores | WT17 | Implementación de Personalización | Permitir la personalización de notificaciones en la aplicación. | 3 | Samuel Elias Molina Asencios | To-do |
+| US32 | Visualización de Mapa en el Dashboard del Conductor | WT18 | Implementación de Mapa | Integrar un mapa interactivo en el dashboard. | 5 | Rodrigo Liberato Saldaña | To-do |
 
-| Sprint # | Sprint 2 |
-| :---: | :---: |
-| **Antecedentes de la Planificación del Sprint** |  |
-| Fecha | 21/09/24 |
-| Hora | 11:00 AM |
-| Ubicación | Reunión virtual - Zoom |
-| Preparado Por | Diego Ulises Soto Quispe |
-| Asistentes | - Diego Ulises Soto Quispe <br> - Javier Aramis Ramos Huamanchumo <br> - Mateo Italo Loechle Arias <br> - Rodrigo Liberato Saldaña <br> - Omar Harold Rivera Ticllacuri <br> - Samuel Elias Molina Asencios |
-| Resumen de la Revisión del Sprint 2 | El propósito de este Sprint fue mejorar la experiencia del usuario mediante la optimización de las funcionalidades en la interfaz de la página PARKINGNOW. Se completaron múltiples tareas enfocadas en la interfaz de usuario. |
-| Resumen de la Retrospectiva del Sprint 2 | La ejecución de este Sprint fue satisfactoria, logrando cumplir con todas las tareas planificadas para el frontend. Se identificaron oportunidades de mejora en el diseño de la interfaz, las cuales se abordarán en el próximo Sprint. |
-| **Objetivo del Sprint y Historias de Usuario** |  |
-| Objetivo del Sprint 2 | Implementar la gestión de usuarios y desarrollar nuevas funcionalidades de frontend para la plataforma PARKINGNOW. |
-| Velocidad del Sprint 2 | Velocidad de 30 - Segundo Sprint |
-| Total de Puntos de Historia | Sprint 2 - 68 Puntos de Historia |
+
 
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
@@ -2041,7 +2051,7 @@ Debido al desarrollo del Landing Page y del Front End Application dentro del Spr
 
 Para el Frontend
 
-Link: https://parking-now.netlify.app/register
+Link del despliegue: https://aplicaciones-web-42482.web.app
 
 1.- Login
 
@@ -2061,15 +2071,15 @@ Link: https://parking-now.netlify.app/register
 
 5.- Pantalla del dueño de playa de estacionamiento
 
-![alt text](<Assets/sprint-3-2.jpg>)
+![alt text](<Assets/dashboard 2.png>)
 
 6.- Pantalla del conductor
 
-![alt text](<Assets/Frontend 6.png>)
+![alt text](<Assets/conductor .png>)
 
 7.- Pantalla de Reservas
 
-![alt text](<Assets/Frontend 7.png>)
+![alt text](Assets/reservas.png)
 
 ##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -2125,7 +2135,7 @@ A continuación, se detallan los aspectos de la reunión de planificación del S
 | **Sprint #**                      | Sprint 3                                                                                                             |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Antecedentes de la Planificación del Sprint**     |                                                                                                                      |
-| **Fecha**                          | 29/10/24                                                                                                             |
+| **Fecha**                          | 30/10/24                                                                                                             |
 | **Hora**                          | 3:00 pm                                                                                                              |
 | **Ubicación**                      | Reunión virtual con coordinación adicional por WhatsApp                                                                |
 | **Preparado Por**                   | Equipo de ParkingNow                                                                                                           |
@@ -2166,7 +2176,7 @@ Esta sección muestra las tareas realizadas durante el presente sprint. A contin
 | [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend.git](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend.git)   | ce1afb7ca8250cf24e909deec2a47798d6e44b49   | Update payment page and language toggle feature               | 2024-11-05 |
 |   | 63afe991fd3c618be6ef0bd0319d202c29e01fb3   | Short and precise commit message in English    | 2024-11-05 |
 
-**Frontend**
+**Backend**
 
 | Repository   | ID       | Commit Message                  | Date       |
 |--------------|----------|---------------------------------|------------|
@@ -2202,7 +2212,7 @@ Durante este Sprint, se completó la documentación de los principales Endpoints
 | `/api/v1/espacios`           | Obtener todos los espacios     | GET        | `GET /api/v1/espacios`           | [EndPoint](/Assets/espacios.yaml)    | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/espacios.json         |
 | `/api/v1/locales`            | Obtener todos los locales      | GET        | `GET /api/v1/locales`            | [EndPoint](/Assets/locales.yaml)     | https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/locales.json          |
 
-Repositorio: [GitHub - Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)
+Repositorio: https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend
 
 Commit de los Endpoints: [Ver Commit](hG3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/public/)
 
@@ -2229,7 +2239,7 @@ Durante este sprint, se ha completado el desarrollo del backend para la aplicaci
 
 **Backend**
 
-En esta entrega, nuestro principal objetivo fue avanzar en la implementación parcial del backend. Para ello, utilizamos varias herramientas como GitHub, IntelliJ y Java. A continuación, se presentan diagramas de flujo que muestran los commits realizados por cada miembro del equipo CodeMondonguito.
+En esta entrega, nuestro principal objetivo fue avanzar en la implementación parcial del backend. Para ello, utilizamos varias herramientas como GitHub, IntelliJ y C#. A continuación, se presentan diagramas de flujo que muestran los commits realizados por cada miembro del equipo CodeMondonguito.
 
 ![Gráfico de commits Backend](Assets/Backend3.png)
 
@@ -2247,29 +2257,31 @@ La imagen muestra las ramas creadas para el desarrollo del backend de la aplicac
 
 En esta entrega, nuestro segundo objetivo fue completar la implementación del frontend. Para ello, empleamos herramientas como GitHub y WebStorm. A continuación, presentamos los diagramas de flujo que representan los commits de cada miembro del equipo CodeMondonguito:
 
-![Gráfico de commits Frontend](Assets/Front3.png)
+![alt text](<Assets/Hola 1.png>)
 
 El gráfico de barras ilustra la cantidad de commits realizados por cada integrante del equipo.
 
-![Evolución de commits Frontend](Assets/Front2.png)
+![alt text](Assets/HOLA.png)
 
 Esta imagen presenta las fechas en que se realizaron cambios en el repositorio de la Landing Page y el número de modificaciones en cada commit, ofreciendo una visión sobre la evolución e intensidad del desarrollo.
 
-![Visualización de commits Frontend](Assets/Front.png)
+![alt text](<Assets/Hola 2.png>)
+
 
 **Landing Page**
 
 Finalmente, esta sección se enfocó en el desarrollo de la Landing Page. Utilizando herramientas como GitHub, WebStorm y Figma, diseñamos una interfaz atractiva y funcional que brinda una primera impresión a los usuarios. A continuación, se presentan los diagramas de flujo de los commits realizados en esta parte del proyecto:
 
-![Gráfico de commits Landing Page](Assets/Landing12.png)
+![](Assets/L1.png)
 
 Este gráfico ilustra el progreso de los commits relacionados con la Landing Page, destacando la colaboración del equipo en esta fase.
 
-![Análisis temporal Landing Page](Assets/Landing31.png)
+![alt text](Assets/L2.png)
 
 Esta imagen proporciona un análisis temporal de las modificaciones en la Landing Page, permitiendo observar cómo han evolucionado el diseño y funcionalidad a lo largo del desarrollo, lo que es esencial para evaluar el rendimiento del equipo y la efectividad en las estrategias de diseño.
 
-![Progreso de commits Landing Page](Assets/Landing21.png)
+![alt text](Assets/L3.png)
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de entrevistas
@@ -2623,15 +2635,21 @@ PARKINGNOW tiene un gran potencial para convertirse en un referente en la gesti�
 
 | Sección                                                   | Enlace                                                                                                                                                             |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lean UX Canvas                                             | [https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-| To be Scenario Mapping - Dueños de playa de estacionamiento | [https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338](https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338)                                                               |
-| To be Scenario Mapping - Conductores Urbanos Frecuentes     | [https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159](https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159)                                                               |
-| Dueños de playas de estacionamientos                       | [https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067](https://miro.com/app/board/uXjVKkwEdZI=/?share_link_id=724391040067)                                                               |
-| Conductores Urbanos Frecuentes                             | [https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500](https://miro.com/app/board/uXjVKlATTNc=/?share_link_id=958948485500)                                                               |
-| Figma                                                     | [https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1](https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1)     |
-| Vertabelo                                                 | [https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o](https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o)                                                                           |
-| Entrevistas en general - Segmento 1 y 2                                     | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbEIvBSHZLhFoC_Mj4PxlKcBZWiwQH82EDtkhGkXtGgB4A?e=YMx1dM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| Sprint BackLog                             | https://www.atlassian.com/es/agile/scrum/sprints|
-| Link de video de exposición|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EW8SZvnJ9QxHpJlyoBx_OQUBLOtk_FLaXctljelGfWNy_Q?e=PlII1v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D|
-| Trello Sprint 1 | https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/sprint-1-parkingnow |
-| Trello Sprint 2 | https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2 |
+| Reporte                                                   | https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Report                                                                                                        |
+| Landing page                                              | https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Landing-Page-g3                                                                                                |
+| Frontend                                                  | https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend                                                                                                       |
+| Backend                                                   | https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend                                                                                                        |
+| Lean UX Canvas                                            | https://www.canva.com/design/DAGOyaW6z7E/ub8lVBXsKH3Em5YVQb223g/edit?utm_content=DAGOyaW6z7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton       |
+| To be Scenario Mapping - Dueños de playa de estacionamiento | https://miro.com/app/board/uXjVKmNkzqc=/?share_link_id=307784420338                                                           | 
+| To be Scenario Mapping - Conductores Urbanos Frecuentes    | https://miro.com/app/board/uXjVKmOWBhk=/?share_link_id=425124811159                                                           | 
+| Dueños de playas de estacionamientos                      | https://miro.com/app/board/uXjVKwEdZl=/?share_link_id=724391040067                                                           | 
+| Conductores Urbanos Frecuentes                            | https://miro.com/app/board/uXjVKIATTNc=/?share_link_id=958948485500                                                           | 
+| Figma                                                     | https://www.figma.com/design/qb02D1snVoDtoLfT0qdkRV/Parking-now?node-id=0-1&t=32cD1vUOTgXzKlv9-1                               | 
+| Vertabelo                                                 | https://my.vertabelo.com/doc/pYDPCowUTtVaVuDmakCr4QlOKjdT1o1o                                                                   | 
+| Entrevistas en general - Segmento 1 y 2                   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EbIvmu-9HRFItJu_A2zbRx0BPfLCx2uRJnBarh-nlbO95A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jlmpb3 |
+| Link de video de exposición                               | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EWKHzhsfxolEvJLdJNUX07sBGrxabKWvXX_kvqdSpUFZTA?e=MpiEeE | 
+| Link del Trello - Sprint 2                                | https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2            |
+| Link del Trello - Sprint 3                                | https://trello.com/invite/b/6724d8fb0429d3b504591841/ATTIa159b1edae603492dcfd8a0b4b6e79fa96226B0D/sprint-backlog-3            |
+| Link del Trello - Sprint 1                                | https://trello.com/invite/b/66e8592fa7463897e6009305/ATTI40cdd58c92843377c1bb36efe058ba4f83EFDA35/open-source-parkingnow       |
+| Link de la landing page desplegada                        | https://g3-upc-si730-2402-sw52-parkingnow.github.io/Landing-Page-g3/                                                          |
+| Frontend desplegado                                       | https://aplicaciones-web-42482.web.app                                                                                         |
