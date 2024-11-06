@@ -2185,6 +2185,29 @@ Esta sección muestra las tareas realizadas durante el presente sprint. A contin
 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Pruebas Unitarias 
+
+Configuración de Pruebas
+Archivo: appsettings.json
+En este archivo se configura la conexión a la base de datos del backend y los niveles de registro de la aplicación, necesarios para la correcta ejecución de las pruebas unitarias. Esta configuración permite simular el entorno de producción y obtener logs detallados durante la ejecución de las pruebas.
+
+ConnectionStrings: Define la cadena de conexión a la base de datos para el entorno de pruebas.
+Logging: Configura el nivel de registro, siendo "Information" para la aplicación y "Warning" para ASP.NET Core.
+
+![alt text](Assets/c1.png)
+
+Servicio de Consulta de Alertas
+Archivo: AlertsQueryService.cs
+Este archivo implementa el servicio de consultas para las alertas (AlertsQueryService). Los métodos Handle permiten obtener una alerta específica por su ID (GetAlertByIdQuery) y todas las alertas (GetAllAlertsQuery). Estos métodos interactúan con el repositorio de alertas (IAlertRepository), proporcionando acceso a los datos necesarios para las pruebas unitarias de las funcionalidades de alerta.
+
+![alt text](Assets/c2.png)
+
+| Repository          | Branch                 | Commit  | Author          | Message                   | Date         |
+|---------------------|------------------------|---------|-----------------|---------------------------|--------------|
+| Web-Application-AF  | feature/acceptance_test | 71084fd | Rodrigo Liberato | doc: add acceptance tests | 30/10/2024   |
+
+
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
 En este entregable tenemos los siguientes avances, mejorando la interfaz del usuario para los conductores y duenos de estacionamientos. Asimismo como la principal funcionalidad de nuestro usuario, que es el reservar un espacio.
@@ -2323,7 +2346,7 @@ Esta imagen proporciona un análisis temporal de las modificaciones en la Landin
 
 #### 5.3.2 Registro de entrevistas
 
-Video completo con las entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990\_upc\_edu\_pe/EfjRSSnP\_I5FrbnX8Dq-sBoB9624xt6RBWFzM1nnJaKLpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D\&e=Nbqn06](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223990_upc_edu_pe/EfjRSSnP_I5FrbnX8Dq-sBoB9624xt6RBWFzM1nnJaKLpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Nbqn06)
+Video completo con las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EcHAXaW6lgNDmJkuTPV0N5oB_OYUU0U80FdDPoKGw9qqdQ?e=oSIXPD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
 
@@ -2335,7 +2358,7 @@ Entrevistado N°1: Bárbara Eliana Seminario León
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/EnEIqclMmDc](https://youtu.be/EnEIqclMmDc)   
+* Link: https://youtu.be/Fg9fIl8Di3c
 * Instante en el que inicia: 3:50  
 * Duración: 5:12
 
@@ -2345,7 +2368,7 @@ Para Bárbara, el desarrollo de la página web la deja bastante satisfecha, cons
 
 Captura de pantalla:
 
-![VI-Seg1-Interview1.png](Assets/VI-Seg1-Interview1.png)
+![alt text](Assets/VI-Seg1-Interview1.png)
 
 Entrevistado N°2: Mario Andre Cacho Seminario
 
@@ -2355,7 +2378,7 @@ Entrevistado N°2: Mario Andre Cacho Seminario
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/M2yHrYElMV0](https://youtu.be/M2yHrYElMV0)   
+* Link: https://youtu.be/IVxXsnByDhA
 * Instante en el que inicia: 3:41  
 * Duración: 4:46
 
@@ -2365,7 +2388,7 @@ Para Mario el diseño de la página web le permite realizar las reservas sin nin
 
 Captura de Pantalla:
 
-![VI-Seg1-Interview2.png](Assets/VI-Seg1-Interview2.png)
+![alt text](Assets/VI-Seg1-Interview2.png)
 
 Entrevistado N°3: Jean Pierre Arroyo
 
@@ -2375,7 +2398,7 @@ Entrevistado N°3: Jean Pierre Arroyo
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/qRb5G90uOpk](https://youtu.be/qRb5G90uOpk)   
+* Link: https://youtu.be/QqaDMAeRi8s
 * Instante en el que inicia: 6:40  
 * Duración: 8:53
 
@@ -2385,7 +2408,7 @@ Para Jean, la navegación por la página web fue bastante intuitiva y piensa que
 
 Captura de Pantalla:
 
-![VI-Seg1-Interview3.png](Assets/VI-Seg1-Interview3.png)
+![alt text](Assets/VI-Seg1-Interview3.png)
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
@@ -2397,7 +2420,7 @@ Entrevistado N°1: Johan Bottger Salazar
 
 Acerca de la entrevista:
 
-* Link: [https://youtu.be/otzYnbKWOJY](https://youtu.be/otzYnbKWOJY)   
+* Link: https://youtu.be/ZcN99SBKxuo  
 * Instante en el que inicia: 3:20  
 * Duración: 5:15
 
@@ -2407,7 +2430,7 @@ Para Johan, la vista de dueños de playas de estacionamiento es perfecta, cumple
 
 Captura de pantalla:
 
-![VI-Seg2-Interview1.png](Assets/VI-Seg2-Interview1.png)
+![alt text](Assets/VI-Seg2-Interview1.png)
 
 Entrevistado N°2: Sebastián de las Casas Latour
 
@@ -2417,7 +2440,7 @@ Entrevistado N°2: Sebastián de las Casas Latour
 
 Acerca de la entrevista: 
 
-* Link: [https://youtu.be/tMtGGK4e4YE](https://youtu.be/tMtGGK4e4YE)   
+* Link: https://youtu.be/lcb6KS_wIr0  
 * Instante en el que inicia:  3:16  
 * Duración: 5:23
 
@@ -2426,7 +2449,8 @@ Resumen:
 Para Sebastián, la página web presenta la información de una manera sencilla e intuitiva, considera que las sección de reservas y estadísticas le ayudarían bastante al organizar ciertos aspectos en su playa de estacionamiento.
 
 Captura de pantalla:
-![VI-Seg2-Interview2.png](Assets/VI-Seg2-Interview2.png)
+
+![alt text](Assets/VI-Seg2-Interview2.png)
 
 #### 5.3.3 Evaluaciones según heurísticas
 
@@ -2587,6 +2611,11 @@ Brindar algún cambio de página o interfaz al presionar los botones dentro de e
 
 # 5.4. Video About-the-Product
 
+En esta sección se encuentra el Video About the Product, donde promocionamos ParkingNow, mostrando sus principales características: introducción, modelo de negocio, funcionalidades, beneficios, y testimonios de usuarios clave de la app, dirigida a optimizar y facilitar la gestión de reservas de estacionamiento. El video destaca cómo ParkingNow ayuda a los usuarios a encontrar estacionamientos disponibles, realizar reservas en tiempo real y acceder a recomendaciones personalizadas.
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/ERsAgPJmxQ9ElMjzvwOEjEEBQ3Nm3jPeJY6XEwjtB10ghQ?e=lvZx0W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Youtube: https://youtu.be/iiqdHlbm_0Y
 
 ### Conclusiones y recomendaciones
 
@@ -2610,7 +2639,13 @@ PARKINGNOW tiene un gran potencial para convertirse en un referente en la gesti�
 
 ### Video About-the-Team
 
+En esta sección se encuentra el video About the Team, donde presentamos al equipo de desarrollo de ParkingNow. El video incluye una introducción sobre el proceso de trabajo colaborativo, las metodologías utilizadas, y las contribuciones individuales de cada miembro del equipo. Cada integrante comparte su experiencia, destacando las actividades realizadas, los logros alcanzados, y el desarrollo de competencias a lo largo del proyecto.
 
+El video ilustra cómo el equipo de ParkingNow ha trabajado para crear una solución eficiente y fácil de usar para la gestión de reservas de estacionamiento, mostrando el compromiso y el esfuerzo detrás del producto.
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbgZQUGjiFtHjxkosuMMjLcB3dQbjZA0Rn8-w3etH7sfdw?e=Grathd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Youtube:https://youtu.be/STqD3UXmT2s
 
 # Bibliografía
 
