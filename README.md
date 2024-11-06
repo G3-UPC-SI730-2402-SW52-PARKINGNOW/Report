@@ -2158,6 +2158,22 @@ Esta sección muestra las tareas realizadas durante el presente sprint. A contin
 | US45 | Integración con el Sistema de Pago | WT08 | Implementación de Sistema de Pago | Crear un endpoint para procesar pagos y verificar transacciones. | 5 | Mateo Italo Loechle Arias | Review |
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
+**Frontend**
+
+| Repository   | ID       | Commit Message                  | Date       |
+|--------------|----------|---------------------------------|------------|
+|   | 276fedef75433f42d049ecf512d120433563908c   | Add payment page and deploy to Firebase            | 2024-11-05 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend.git](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend.git)   | ce1afb7ca8250cf24e909deec2a47798d6e44b49   | Update payment page and language toggle feature               | 2024-11-05 |
+|   | 63afe991fd3c618be6ef0bd0319d202c29e01fb3   | Short and precise commit message in English    | 2024-11-05 |
+
+**Frontend**
+
+| Repository   | ID       | Commit Message                  | Date       |
+|--------------|----------|---------------------------------|------------|
+|   | 2a2443fba245d1c6201cdba688199d91181d0661   | update            | 2024-11-04 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend.git](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend.git)   |    |         |  |
+
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
