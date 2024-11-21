@@ -2038,23 +2038,23 @@ Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | User Story |   | Work-Item / Task |   |   |   |   |   |
 | ID | Title | ID | Title | Description | Estimation (Hours) | Assigned To | Status |
-| US15 | Inicio de Sesión para Conductores | WT01 | Implementación de Inicio de Sesión | Desarrollar la funcionalidad de inicio de sesión para conductores en la aplicación. | 4 | Omar Harold Rivera Ticllacuri | To-do |
+| US15 | Inicio de Sesión para Conductores | WT01 | Implementación de Inicio de Sesión | Desarrollar la funcionalidad de inicio de sesión para conductores en la aplicación. | 5 | Omar Harold Rivera Ticllacuri | To-do |
 | US16 | Registro de Conductores | WT02 | Implementación de Registro | Crear la funcionalidad de registro de conductores en la plataforma. | 4 | Samuel Elias Molina Asencios | To-do |
 | US17 | Registro de Dueños de Playa | WT03 | Implementación de Registro de Dueños | Desarrollar el registro para dueños de playa en la aplicación. | 4 | Rodrigo Liberato Saldaña | To-do |
-| US18 | Búsqueda de Reservas para Conductores | WT04 | Implementación de Búsqueda de Reservas | Implementar la búsqueda de reservas activas y pasadas para conductores. | 3 | Diego Ulises Soto Quispe | In-Process |
+| US18 | Búsqueda de Reservas para Conductores | WT04 | Implementación de Búsqueda de Reservas | Implementar la búsqueda de reservas activas y pasadas para conductores. | 4 | Diego Ulises Soto Quispe | In-Process |
 | US19 | Pago de Reservas por Transacción | WT05 | Implementación de Pago | Desarrollar la funcionalidad de pago por transacción para reservas de estacionamiento. | 5 | Diego Ulises Soto Quispe | Done |
-| US20 | Confirmación de Reserva Registrada | WT06 | Implementación de Confirmación | Crear pantalla de confirmación de reserva registrada. | 3 | Omar Harold Rivera Ticllacuri | Done |
-| US21 | Registro de Opiniones | WT07 | Implementación de Opiniones | Implementar la funcionalidad para registrar opiniones de usuarios. | 3 | Samuel Elias Molina Asencios | Done |
+| US20 | Confirmación de Reserva Registrada | WT06 | Implementación de Confirmación | Crear pantalla de confirmación de reserva registrada. | 5 | Omar Harold Rivera Ticllacuri | Done |
+| US21 | Registro de Opiniones | WT07 | Implementación de Opiniones | Implementar la funcionalidad para registrar opiniones de usuarios. | 6 | Samuel Elias Molina Asencios | Done |
 | US22 | Notificaciones en el Dashboard del Conductor | WT08 | Implementación de Notificaciones | Desarrollar el sistema de notificaciones para el dashboard del conductor. | 4 | Rodrigo Liberato Saldaña | Done |
 | US23 | Configuración de Preferencias de Usuario | WT09 | Implementación de Preferencias | Permitir a los usuarios configurar sus preferencias en la aplicación. | 3 | Ramos Huamanchumo, Javier Aramis | Done |
 | US24 | Historial de Reservas en el Dashboard del Conductor | WT10 | Implementación de Historial | Desarrollar el historial de reservas en el dashboard del conductor. | 4 | Diego Ulises Soto Quispe | Done |
 | US25 | Alerta de Espacio Disponible | WT11 | Implementación de Alertas | Crear alertas para disponibilidad de espacios de estacionamiento. | 4 | Omar Harold Rivera Ticllacuri | To-do |
 | US26 | Soporte en Tiempo Real en el Dashboard del Conductor | WT12 | Implementación de Soporte | Desarrollar un sistema de soporte en tiempo real para conductores. | 5 | Samuel Elias Molina Asencios | To-do |
-| US27 | Favoritos para Conductores | WT13 | Implementación de Favoritos | Permitir a los conductores marcar estacionamientos como favoritos. | 3 | Rodrigo Liberato Saldaña | To-do |
-| US28 | Verificación de Reserva en el Dashboard del Conductor | WT14 | Implementación de Verificación | Crear funcionalidad para verificar el estado de la reserva en el dashboard. | 3 | Ramos Huamanchumo, Javier Aramis | To-do |
+| US27 | Favoritos para Conductores | WT13 | Implementación de Favoritos | Permitir a los conductores marcar estacionamientos como favoritos. | 8 | Rodrigo Liberato Saldaña | To-do |
+| US28 | Verificación de Reserva en el Dashboard del Conductor | WT14 | Implementación de Verificación | Crear funcionalidad para verificar el estado de la reserva en el dashboard. | 8 | Ramos Huamanchumo, Javier Aramis | To-do |
 | US29 | Cancelación de Reserva en el Dashboard | WT15 | Implementación de Cancelación | Desarrollar la opción de cancelación de reservas desde el dashboard. | 4 | Diego Ulises Soto Quispe | To-do |
 | US30 | Gestión de Alertas para Conductores | WT16 | Implementación de Gestión de Alertas | Implementar la gestión de alertas de seguridad y disponibilidad. | 4 | Omar Harold Rivera Ticllacuri | To-do |
-| US31 | Personalización de Notificaciones para Conductores | WT17 | Implementación de Personalización | Permitir la personalización de notificaciones en la aplicación. | 3 | Samuel Elias Molina Asencios | To-do |
+| US31 | Personalización de Notificaciones para Conductores | WT17 | Implementación de Personalización | Permitir la personalización de notificaciones en la aplicación. | 6 | Samuel Elias Molina Asencios | To-do |
 | US32 | Visualización de Mapa en el Dashboard del Conductor | WT18 | Implementación de Mapa | Integrar un mapa interactivo en el dashboard. | 5 | Rodrigo Liberato Saldaña | To-do |
 
 
