@@ -2189,11 +2189,11 @@ Esta sección muestra las tareas realizadas durante el presente sprint. A contin
 | ID | Título | ID | Título | Descripción | Estimación (Horas) | Asignado a | Estado |
 | US34 | Gestión de Clientes en Servicio al Cliente | WT01 | Implementación de Gestión de Clientes | Crear un endpoint para administrar consultas y solicitudes de servicio al cliente. | 4 | Omar Harold | Review |
 | US35 | Notificación de Cambios en la Disponibilidad de Espacios | WT02 | Implementación de Notificaciones de Espacios | Desarrollar notificaciones automáticas para actualizaciones en la disponibilidad de espacios. | 5 | Samuel Elias | Done |
-| US36 | Historial de Transacciones para Usuarios | WT03 | Implementación de Historial de Transacciones | Crear un endpoint que permita a los usuarios consultar su historial de transacciones. | 3 | Rodrigo Liberato | Done |
+| US36 | Historial de Transacciones para Usuarios | WT03 | Implementación de Historial de Transacciones | Crear un endpoint que permita a los usuarios consultar su historial de transacciones. | 8 | Rodrigo Liberato | Done |
 | US37 | Gestión de Ocupación de Espacios en Tiempo Real | WT04 | Implementación de Ocupación de Espacios | Implementar una funcionalidad para actualizar la disponibilidad de espacios en tiempo real. | 5 | Javier Aramis Ramos Huamanchumo | Done |
 | US38 | Configuración de Alertas de Seguridad | WT05 | Implementación de Configuración de Alertas | Crear un endpoint para que los administradores configuren alertas de seguridad. | 4 | Diego Ulises | Review |
-| US40 | Registro de Alertas de Seguridad | WT06 | Implementación de Registro de Alertas | Desarrollar un sistema para registrar todas las alertas de seguridad en la plataforma. | 3 | Omar Harold | Review |
-| US41 | Gestión de Datos de Vehículos | WT07 | Implementación de Gestión de Vehículos | Crear un endpoint para almacenar y gestionar la información de los vehículos registrados. | 3 | Samuel Elias | Review |
+| US40 | Registro de Alertas de Seguridad | WT06 | Implementación de Registro de Alertas | Desarrollar un sistema para registrar todas las alertas de seguridad en la plataforma. | 6 | Omar Harold | Review |
+| US41 | Gestión de Datos de Vehículos | WT07 | Implementación de Gestión de Vehículos | Crear un endpoint para almacenar y gestionar la información de los vehículos registrados. | 5 | Samuel Elias | Review |
 | US45 | Integración con el Sistema de Pago | WT08 | Implementación de Sistema de Pago | Crear un endpoint para procesar pagos y verificar transacciones. | 5 | Mateo Italo Loechle Arias | Review |
 
 ##### 5.2.3.3. Development Evidence for Sprint Review
