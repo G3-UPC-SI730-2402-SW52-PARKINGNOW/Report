@@ -2334,6 +2334,183 @@ Esta imagen proporciona un análisis temporal de las modificaciones en la Landin
 
 ![alt text](Assets/L3.png)
 
+
+
+### 5.2.4 Sprint 4
+
+Se detallan a continuación los detalles junto a la ejecución del Sprint 4\.
+
+## 5.2.4.1. Sprint Planning 4
+
+En esta sección se especifican los detalles de la reunión de planificación de Sprint, realizada para definir las tareas que se ejecutarán durante el período acordado.
+
+|                      Sprint #                      |                                                                                                                                                                                                                                                                                                                                   Sprint 4                                                                                                                                                                                                                                                                                                                                   |
+| :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|        **Sprint Planning Background**        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                  **Fecha**                  |                                                                                                                                                                                                                                                                                                                                   09/11/24                                                                                                                                                                                                                                                                                                                                   |
+|                   **Hora**                   |                                                                                                                                                                                                                                                                                                                                    4:50 pm                                                                                                                                                                                                                                                                                                                                    |
+|                **Ubicación**                |                                                                                                                                                                                                                                                                                                            Modalidad virtual y coordinación a través de WhatsApp                                                                                                                                                                                                                                                                                                            |
+|              **Preparado por**              |                                                                                                                                                                                                                                                                                                                                  ParkingNow                                                                                                                                                                                                                                                                                                                                  |
+|                **Asistentes**                |                                                                                                                                                                                                                                                                                                                Todos los integrantes del equipo de ParkingNow                                                                                                                                                                                                                                                                                                                |
+|   **Resumen de la Revisión del Sprint 4**   |                                                             Durante este sprint se realizaron las funcionalidades que requieren de endpoints, los cuales permitieron gestionar consultas, historial de transacciones, alertas de seguridad, pagos y almacenar información de vehículos. Se completaron las tareas de acuerdo con lo planificado, mejorando la infraestructura del sistema y asegurando la calidad de la plataforma.<br> En general, el equipo mantuvo una buena comunicación y organización, y se identificaron áreas para seguir mejorando la eficiencia en la coordinación de tareas.                                                             |
+| **Resumen de la Retrospectiva del Sprint 4** |                                                                                                                    Es crucial seguir optimizando las soluciones tanto en el backend como en el frontend para garantizar la estabilidad del sistema. Además, se destacó la importancia de mejorar la organización del equipo para evitar cuellos de botella y continuar entregando valor de manera constante.<br> También se recomendó mejorar la documentación y la estructura de las tareas para mantener un flujo de trabajo claro y efectivo.                                                                                                                    |
+|        **Sprint Goal & User Stories**        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|              **Sprint 4 Goal**              | Nuestro enfoque está en**desarrollar y optimizar las funcionalidades del sistema de gestión de estacionamiento**, incluyendo la gestión de pagos, historial de transacciones, alertas de seguridad y almacenamiento de datos de vehículos.<br> Creemos que esto **ofrece** una plataforma más robusta, mejorando la experiencia tanto para los conductores como para los propietarios de estacionamientos.<br> Esto se **confirmará** cuando las funcionalidades clave, como la gestión de pagos y las alertas de seguridad, estén completamente implementadas y operativas, permitiendo un proceso eficiente y seguro para los usuarios. |
+|            **Sprint 4 Velocity**            |                                                                                                                                                                                                                                                                                                                                      20                                                                                                                                                                                                                                                                                                                                      |
+|         **Suma de los Story Points**         |                                                                                                                                                                                                                                                                                                                                      36                                                                                                                                                                                                                                                                                                                                      |
+
+### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
+
+![alt text](<Assets/trello 4.png>)
+
+Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef609c281a616bb14119d7d5c76fb0E2DB36AC/sprint-backlog-4
+
+|  Sprint\#  |                   Sprint 4                   |                  |                                                                |                                                                                        |                    |                  |        |
+| :--------: | :------------------------------------------: | :--------------: | :-------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------: | :--------------: | :----: |
+| User Story |                                              | Work-Item / Task |                                                                |                                                                                        |                    |                  |        |
+|     ID     |                    Title                    |        ID        |                              Title                              |                                      Description                                      | Estimation (Hours) |   Assigned To   | Status |
+|    US39    |  Administración de Tarifas por Ubicación  |       WT01       |            Implementación de Tarifas por Ubicación            |   Desarrollar la funcionalidad de la administración para las tarifas de ubicación.   |         5         |   Diego Ulises   |  Done  |
+|    US42    |      Reportes de Promociones Utilizadas      |       WT02       |            Implementación de Promociones Utilizadas            |       Desarrollar la funcionalidad de reportes para las promociones utilizadas.       |         4         |   Omar Harold   |  Done  |
+|    US43    |   Auditoría de Acciones en la Plataforma   |       WT03       |   Implementación de Auditorías de Acciones en la Plataforma   | Desarrollar la funcionalidad de auditorías para las acciones dentro de la plataforma. |         5         |   Diego Cacho   |  Done  |
+|    US44    |      Historial de Opiniones de Usuarios      |       WT04       |      Implementación de Historial de Opiniones de Usuarios      |        Desarrollar la funcionalidad del historial de opiniones de los usuarios        |         6         | Rodrigo Liberato |  Done  |
+|    US46    |    Generación de Reportes de Ocupación    |       WT05       |    Implementación de Generación de Reportes de Ocupación    |  Desarrollar la funcionalidad de la generación de los reportes para las ocupaciones.  |         8         |   Samuel Elias   |  Done  |
+|    US47    | Configuración de Opciones de Notificaciones |       WT06       | Implementación de Configuración de Opciones de Notificaciones |       Desarrollar la funcionalidad de la configuración para las notificaciones.       |         6         |   Diego Ulises   |  Done  |
+|    US48    |         API de Feedback Automático         |       WT07       |         Implementación de API de Feedback Automático         |   Desarrollar la funcionalidad del API para el feedback automático de los usuarios.   |         4         | Rodrigo Liberato |  Done  |
+|    US49    |            Gestión de Reembolsos            |       WT08       |            Implementación de Gestión de Reembolsos            |      Desarrollar la funcionalidad de gestionar los reembolsos para los usuarios.      |         5         |   Samuel Elias   |  Done  |
+|    US50    |       Auditoría de Cambios de Tarifas       |       WT09       |       Implementación de Auditoría de Cambios de Tarifas       |      Desarrollar la funcionalidad de auditorías para los cambios en las tarifas.      |         5         |   Omar Harold   |  Done  |
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | ID | Commit Message | Date |
+| :---: | :---: | :---: | :---: |
+| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend)  | 2112f1e235d0bb406ad0ff619e54054b59e0926e | Add: Tarifas por Ubicación | 2024-11- |
+|  | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: Promociones Utilizadas | 2024-11- |
+|  | 0b50e5b3c2ec5ad9c1efb3f85a634cccd9c97a62 | Add: Auditorías de Acciones en la Plataforma | 2024-11- |
+|  | fc81f06fc026aa94eb25be7f5caec68d2f1fc0c4 | Add: Historial de Opiniones de Usuarios | 2024-11- |
+|  | f2b125a1cb7210805b4e42f11f62d2448c91d34e | Add: Generación de Reportes de Ocupación | 2024-11- |
+|  | 6788a1b98e51ddaa4836ca733c3052e9e732b518 | Add: Configuración de Opciones de Notificaciones | 2024-11- |
+|  | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: API de Feedback Automático | 2024-11- |
+|  | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Gestión de Reembolsos | 2024-11- |
+|  | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Auditoría de Cambios de Tarifas | 2024-11- |
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+Para esta entrega la ejecucion de las pruebas unitarias se hizo usando jasmine framework y karma framework
+
+#### Testing Configuration
+
+![feature1](Assets/test_ts.jpg)
+
+#### Jasmine Configuration
+
+![feature1](Assets/jasmine_configuration.jpg)
+
+#### Karma Configuration
+
+![feature1](Assets/karma_configuration.jpg)
+
+#### Results after Testing
+
+![feature1](Assets/karma_header.jpg)
+![feature1](Assets/results_1.jpg)
+
+| Repository                                                                                                              | Branch                 | Commit                                   | Message                                                                    | Date       |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ---------- |
+| https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report?tab=readme-ov-file#development-evidence-for-sprint-review | feature/aceptance_test | a406aa8ec1445333bca8ea4b352209bdc79dc67e | Add response to Competitive Analysis Landscape question in Markdown format | 03/12/2024 |
+
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### Test Case 1: Login as Driver
+
+- **User:** `driver@example.com`
+- **Password:** `password123`
+- **Expected Result:** Redirects to `/dashboard-driver`.
+
+#### Test Case 2: Login as Owner
+
+- **User:** `owner@example.com`
+- **Password:** `password123`
+- **Expected Result:** Redirects to `/dashboard-owner`.
+
+En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagina no encontrada: 404
+![404](Assets/Excecution_5245.jpg)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. A continuación, se presenta una breve introducción sobre los logros alcanzados en relación con la documentación de Web Services para este Sprint.
+
+Durante este Sprint, se logró completar la documentación de los principales Endpoints que permiten la interacción con nuestra API. Se establecieron claras especificaciones para cada uno, facilitando su uso y entendimiento para los desarrolladores que integren con nuestros servicios.
+
+| Endpoint               | Acción Implementada                          | Verbo HTTP | Sintaxis de Llamada       | URL EndPoint | URL JSON                                                                                                              |
+|------------------------|---------------------------------------------|------------|---------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+| /api/v1/conductores     | Administración de Tarifa por Ubicación       | GET        | GET /api/v1/conductores    | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
+| /api/v1/conductores     | Crear un nuevo conductor                     | POST       | POST /api/v1/conductores   | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
+| /api/v1/reservas        | Reportes de Promociones Utilizadas           | GET        | GET /api/v1/reservas       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
+| /api/v1/reservas        | Crear una nueva reserva                      | POST       | POST /api/v1/reservas      | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
+| /api/v1/espacios        | Generación de Reportes de Ocupación          | GET        | GET /api/v1/espacios       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json) |
+| /api/v1/locales         | Gestión de Reembolsos                        | GET        | GET /api/v1/locales        | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json) |
+
+**Repositories:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend)
+
+**Commit of the Endpoints:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint, se ha desarrollado el backend de la aplicación web "ParkingNow". Para lo cual se emplearon las siguientes herramientas y tecnologías. Sin embargo, dentro del alcance de este sprint no se contempla el despliegue del backend de la API:
+
+- **Git:** Sistema de control de versiones que utilizamos para trabajar de manera colaborativa y monitorear las versiones del backend en un repositorio remoto.
+- **Gitflow:** Flujo de trabajo colaborativo que nos permitió dividir el trabajo en ramas dentro de nuestro repositorio, facilitando la colaboración en el desarrollo del backend.
+- **GitHub:** Plataforma que nos proporcionó la herramienta necesaria para crear nuestro repositorio, donde almacenamos las versiones del backend de nuestro proyecto.
+- **Swagger UI:** Herramienta utilizada para documentar y probar nuestra API, asegurando que los endpoints estén bien definidos y accesibles para el consumo.
+- **Spring Boot:** Framework utilizado para construir el backend, que nos permitió implementar rápidamente la lógica del negocio, así como la integración con bases de datos a través de JPA y Hibernate.
+- **Firebase:** Plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. En "ParkingNow", Firebase se utiliza para la autenticación de usuarios y el almacenamiento de datos, mejorando así la entrega de contenido y la calidad del servicio.
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+#### Backend
+
+En esta entrega, nuestro objetivo principal fue avanzar en la implementación parcial del backend. Para lograr esta meta, empleamos varias herramientas, incluyendo GitHub, IntelliJ y Java. A continuación, presentamos los diagramas de flujo que muestran los commits realizados por cada integrante del equipo CodeMondonguito.
+
+**Commits Gráfico:**
+![alt text](<Assets/backend 1.png>)
+
+La imagen muestra un gráfico de barras que representa la cantidad de commits realizados por cada miembro del equipo. Esta imagen proporciona una representación visual de las fechas en las que se efectuaron cambios en el repositorio de nuestra Landing Page, junto con el número de modificaciones realizadas en cada commit. Este gráfico es una herramienta útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo en diferentes periodos.
+
+**Ramas Backend:**
+![alt text](<Assets/ramas backend.png>)
+
+En esta imagen se muestran las ramas realizadas para el desarrollo del backend de nuestra app web, representando una muestra del desarrollo de esta.
+
+#### Frontend
+
+En esta entrega, nuestra segunda meta fue la implementación total del frontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstorm. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo CodeMondonguito:
+
+**Commits Gráfico:**
+![alt text](<Assets/frontend f1.png>)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo. Esta imagen presenta una visualización de las fechas en las que se realizaron cambios en el repositorio de nuestra Landing Page, así como el número de modificaciones efectuadas en cada commit. Esta representación gráfica es útil para entender la evolución del proyecto a lo largo del tiempo y la intensidad del desarrollo.
+
+#### Landing Page
+
+Finalmente, en esta sección nos enfocamos en el desarrollo de nuestra Landing Page. Utilizando herramientas como GitHub, Webstorm y Figma, creamos una interfaz atractiva y funcional que sirve como la primera impresión para los usuarios. A continuación, se presentan los diagramas de flujo que detallan los commits realizados en este aspecto del proyecto:
+
+**Commits Gráfico:**
+![alt text](<Assets/landing tf.png>)
+
+Esta imagen muestra un gráfico que ilustra el progreso en los commits relacionados con la Landing Page, destacando la colaboración de cada miembro del equipo en esta fase.
+
+**Análisis Temporal de Modificaciones:**
+![alt text](<Assets/ramas landing f1.png>)
+
+Además, esta imagen proporciona un análisis temporal de las modificaciones efectuadas en la Landing Page, permitiendo observar cómo ha evolucionado su diseño y funcionalidad a lo largo del desarrollo. Esta información es esencial para evaluar el rendimiento del equipo y la efectividad de las estrategias implementadas en el diseño de la interfaz.
+
+
+
+
 ### 5.3 Validation Interviews
 
 #### 5.3.1 Diseño de entrevistas
