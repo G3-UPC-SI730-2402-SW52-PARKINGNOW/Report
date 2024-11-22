@@ -2401,21 +2401,16 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 Para esta entrega la ejecucion de las pruebas unitarias se hizo usando jasmine framework y karma framework
 
 #### Testing Configuration
+Swagger Adding 
 
-![feature1](Assets/test_ts.jpg)
+![Documentación API](Assets/swaggerconfig.jpeg)
 
-#### Jasmine Configuration
-
-![feature1](Assets/jasmine_configuration.jpg)
-
-#### Karma Configuration
-
-![feature1](Assets/karma_configuration.jpg)
 
 #### Results after Testing
 
-![feature1](Assets/karma_header.jpg)
-![feature1](Assets/results_1.jpg)
+Swagger Evidence
+
+![Documentación API](Assets/swagger.png)
 
 | Repository                                                                                                              | Branch                 | Commit                                   | Message                                                                    | Date       |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ---------- |
