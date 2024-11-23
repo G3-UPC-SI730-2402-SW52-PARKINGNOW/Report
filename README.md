@@ -2204,7 +2204,6 @@ Durante este sprint, se ha completado el desarrollo del backend para la aplicaci
 - **Gitflow**: Un flujo de trabajo colaborativo que nos ayudó a organizar el desarrollo en ramas dentro del repositorio, facilitando la contribución en equipo al backend.
 - **GitHub**: Plataforma en la que alojamos el repositorio del backend del proyecto, permitiendo almacenar y gestionar sus distintas versiones.
 - **Swagger UI**: Empleamos esta herramienta para documentar y probar la API, asegurando que los endpoints sean accesibles y estén definidos adecuadamente.
-- **Spring Boot**: Este framework fue clave para desarrollar el backend, permitiéndonos implementar la lógica del negocio e integrar la base de datos utilizando JPA y Hibernate.
 - **Firebase**: Plataforma de Google para desarrollo de aplicaciones web y móviles. En "ParkingNow," se usa Firebase para la autenticación de usuarios y almacenamiento de datos, optimizando la calidad del servicio y la entrega de contenido.
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
