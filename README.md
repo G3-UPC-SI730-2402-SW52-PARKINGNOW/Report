@@ -2550,7 +2550,7 @@ Captura de pantalla:
 
 Entrevistado N°2: Blanca Luz Soto 
 
-* Sexo: Masculino
+* Sexo: Femenino
 * Edad: 42
 * Ubicación en la que vive: San Borja
 
@@ -2567,6 +2567,28 @@ Para Sebastián, la página web presenta la información de una manera sencilla 
 Captura de pantalla:
 
 ![alt text](<Assets/entrevista 5 .png>)
+
+
+Entrevistado N°3: Maria del Pilar
+
+* Sexo: Femenino
+* Edad: 3
+* Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/3gj73T_Ttco
+* Instante en el que inicia:  42:35
+* Duración: 7:00
+
+Resumen:
+
+Para Pilar, el sitio web ofrece la información de forma clara y fácil de usar. Cree que las secciones de reservas y estadísticas serían muy útiles para gestionar varios aspectos en su estacionamiento.
+
+Captura de pantalla:
+
+![alt text](<Assets/entrevistado 6 .png>)
+
 
 #### 5.3.3 Evaluaciones según heurísticas
 
