@@ -2466,47 +2466,27 @@ Video completo con las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/per
 
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
 
-Entrevistado N°1: Bárbara Eliana Seminario León
+Entrevistado N°1: Pablo Miguel Gonzales Salas
 
-* Sexo: Femenino
-* Edad: 50
+* Sexo: Masculino
+* Edad: 21
 * Ubicación en la que vive: Surco, Lima, Perú.
 
 Acerca de la entrevista:
 
-* Link: https://youtu.be/Fg9fIl8Di3c
-* Instante en el que inicia: 3:50
-* Duración: 5:12
+* Link: https://youtu.be/mnljcVKzA2Q
+* Instante en el que inicia: 0:00
+* Duración: 9:57
 
 Resumen:
 
-Para Bárbara, el desarrollo de la página web la deja bastante satisfecha, considera que esta presenta lo necesario para realizar las reservas y cree que las opciones de lenguaje extra podrían ayudar bastante.
+Para Pablo, el desarrollo de la página web la deja bastante satisfecha, considera que esta presenta lo necesario para realizar las reservas y cree que las opciones de lenguaje extra podrían ayudar bastante.
 
 Captura de pantalla:
 
-![alt text](Assets/VI-Seg1-Interview1.png)
+![alt text](<Assets/entrevista 1 .png>)
 
-Entrevistado N°2: Mario Andre Cacho Seminario
-
-* Sexo: Masculino
-* Edad: 21
-* Ubicación en la que vive: Surco
-
-Acerca de la entrevista:
-
-* Link: https://youtu.be/IVxXsnByDhA
-* Instante en el que inicia: 3:41
-* Duración: 4:46
-
-Resumen:
-
-Para Mario el diseño de la página web le permite realizar las reservas sin ningún problema, considera que la organización de esta funciona de manera correcta, además indica que, dentro de una futura actualización, le gustaría que hubieran más lenguajes disponibles para la traducción.
-
-Captura de Pantalla:
-
-![alt text](Assets/VI-Seg1-Interview2.png)
-
-Entrevistado N°3: Jean Pierre Arroyo
+Entrevistado N°2: Jean Pierre Arroyo 
 
 * Sexo: Masculino
 * Edad: 20
@@ -2514,17 +2494,37 @@ Entrevistado N°3: Jean Pierre Arroyo
 
 Acerca de la entrevista:
 
-* Link: https://youtu.be/QqaDMAeRi8s
-* Instante en el que inicia: 6:40
-* Duración: 8:53
+* Link: https://youtu.be/dekyd8-2NXw
+* Instante en el que inicia: 10:04
+* Duración: 19:23
 
 Resumen:
 
-Para Jean, la navegación por la página web fue bastante intuitiva y piensa que el diseño funciona correctamente. Considera que los colores usados para la página son atractivos, sin embargo, indica que también son un poco oscuros para su gusto. Le gustaría ver una funcionalidad que le permitiera verificar cuales son los estacionamientos más baratos.
+Para Jean Pierre el diseño de la página web le permite realizar las reservas sin ningún problema, considera que la organización de esta funciona de manera correcta, además indica que, dentro de una futura actualización, le gustaría que hubieran más lenguajes disponibles para la traducción.
 
 Captura de Pantalla:
 
-![alt text](Assets/VI-Seg1-Interview3.png)
+![alt text](<Assets/entrevista 2.png>)
+
+Entrevistado N°3: Thaily Abigail Puente Esparta
+
+* Sexo: Femenino
+* Edad: 20
+* Ubicación en la que vive: Surco
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/r07S_QoS7Aw
+* Instante en el que inicia: 19:23
+* Duración: 27:15
+
+Resumen:
+
+Para Thaily, la navegación por la página web fue bastante intuitiva y piensa que el diseño funciona correctamente. Considera que los colores usados para la página son atractivos, sin embargo, indica que también son un poco oscuros para su gusto. Le gustaría ver una funcionalidad que le permitiera verificar cuales son los estacionamientos más baratos.
+
+Captura de Pantalla:
+
+![alt text](<Assets/entrevista 3.png>)
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
