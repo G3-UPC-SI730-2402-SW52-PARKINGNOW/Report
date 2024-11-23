@@ -2751,9 +2751,12 @@ Brindar algún cambio de página o interfaz al presionar los botones dentro de e
 
 En esta sección se encuentra el Video About the Product, donde promocionamos ParkingNow, mostrando sus principales características: introducción, modelo de negocio, funcionalidades, beneficios, y testimonios de usuarios clave de la app, dirigida a optimizar y facilitar la gestión de reservas de estacionamiento. El video destaca cómo ParkingNow ayuda a los usuarios a encontrar estacionamientos disponibles, realizar reservas en tiempo real y acceder a recomendaciones personalizadas.
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/ERsAgPJmxQ9ElMjzvwOEjEEBQ3Nm3jPeJY6XEwjtB10ghQ?e=lvZx0W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+![alt text](<Assets/product 1.png>)
 
-Youtube: https://youtu.be/iiqdHlbm_0Y
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/ETy_AwX8JtRLky8U-PG0qFYBGOOVXuTthxFLdBOFv1Q1GA?e=xh5QDn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+Youtube: https://youtu.be/tHhihtn1FUU
 
 ### Conclusiones y recomendaciones
 
@@ -2777,9 +2780,11 @@ En esta sección se encuentra el video About the Team, donde presentamos al equi
 
 El video ilustra cómo el equipo de ParkingNow ha trabajado para crear una solución eficiente y fácil de usar para la gestión de reservas de estacionamiento, mostrando el compromiso y el esfuerzo detrás del producto.
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbgZQUGjiFtHjxkosuMMjLcB3dQbjZA0Rn8-w3etH7sfdw?e=Grathd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+![alt text](Assets/team.png)
 
-Youtube:https://youtu.be/STqD3UXmT2s
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EbtTG954tUpNu6Wn6-1A0KYBRa-ZrkprjOxOS6Ue2Nfk_Q?e=4J9LwO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Youtube: https://youtu.be/VXC8KkAOpI8
 
 # Bibliografía
 
