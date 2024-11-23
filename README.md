@@ -2400,7 +2400,7 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 | Repository                   | Branch                      | Commit Id | Commit Message            | Commit Message Body                                              | Committed on (Date) |
 |------------------------------|-----------------------------|-----------|---------------------------|------------------------------------------------------------------|---------------------|
 |       https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend               | feature/testing-sprint4     | 34ac21f   | Add: Unit tests for APIs  | Implemented unit tests for booking and user services.           | 2024-11-20          |
-|                              |                             |           |                           | Validated core functionality for backend endpoints.             |                     |
+|                              |                             |           |                           |            |                     |
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
