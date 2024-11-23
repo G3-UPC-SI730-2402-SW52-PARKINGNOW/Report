@@ -2280,7 +2280,7 @@ En esta sección se especifican los detalles de la reunión de planificación de
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
-![alt text](Assets/product 4.png)
+![alt text](<Assets/product 4.png>)
 
 Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef609c281a616bb14119d7d5c76fb0E2DB36AC/sprint-backlog-4
 
@@ -2302,15 +2302,15 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 
 |                                                         Repository                                                         |                    ID                    |                  Commit Message                  |   Date   |
 | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------: | :-----------------------------------------------: | :------: |
-|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 2112f1e235d0bb406ad0ff619e54054b59e0926e |            Add: Tarifas por Ubicación            | 2024-11- |
-| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 1598de70967ae58c387ae3f699eaf0612b86864c |            Add: Promociones Utilizadas            | 2024-11- |
-|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 0b50e5b3c2ec5ad9c1efb3f85a634cccd9c97a62 |   Add: Auditorías de Acciones en la Plataforma   | 2024-11- |
-| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | fc81f06fc026aa94eb25be7f5caec68d2f1fc0c4 |      Add: Historial de Opiniones de Usuarios      | 2024-11- |
-|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | f2b125a1cb7210805b4e42f11f62d2448c91d34e |    Add: Generación de Reportes de Ocupación    | 2024-11- |
-| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 6788a1b98e51ddaa4836ca733c3052e9e732b518 | Add: Configuración de Opciones de Notificaciones | 2024-11- |
-|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 1598de70967ae58c387ae3f699eaf0612b86864c |         Add: API de Feedback Automático         | 2024-11- |
-| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 836a849fdd6d1effb6bf8174e505824143893cee |            Add: Gestión de Reembolsos            | 2024-11- |
-|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 836a849fdd6d1effb6bf8174e505824143893cee |       Add: Auditoría de Cambios de Tarifas       | 2024-11- |
+|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 2112f1e235d0bb406ad0ff619e54054b59e0926e |            Add: Tarifas por Ubicación            | 2024-11-01 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 1598de70967ae58c387ae3f699eaf0612b86864c |            Add: Promociones Utilizadas            | 2024-11-02 |
+|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 0b50e5b3c2ec5ad9c1efb3f85a634cccd9c97a62 |   Add: Auditorías de Acciones en la Plataforma   | 2024-11-03 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | fc81f06fc026aa94eb25be7f5caec68d2f1fc0c4 |      Add: Historial de Opiniones de Usuarios      | 2024-11-04 |
+|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | f2b125a1cb7210805b4e42f11f62d2448c91d34e |    Add: Generación de Reportes de Ocupación    | 2024-11-05 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 6788a1b98e51ddaa4836ca733c3052e9e732b518 | Add: Configuración de Opciones de Notificaciones | 2024-11-06 |
+|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 1598de70967ae58c387ae3f699eaf0612b86864c |         Add: API de Feedback Automático         | 2024-11-07 |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 836a849fdd6d1effb6bf8174e505824143893cee |            Add: Gestión de Reembolsos            | 2024-11-08 |
+|  [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend)  | 836a849fdd6d1effb6bf8174e505824143893cee |       Add: Auditoría de Cambios de Tarifas       | 2024-11-09 |
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2329,13 +2329,19 @@ Por otro lado, también integramos la landing page con la webapp principal, faci
 
 ### Backend Screenshots:
 
-![Backend Evidence](Assets/backend 1.png)
-![Backend Evidence](Assets/backend 2.png)
-![Backend Evidence](Assets/backend 3.png)
-![Backend Evidence](Assets/backend 4.png)
-![Backend Evidence](Assets/backend 5 .png)
-![Backend Evidence](Assets/backend 6 .png)
-![Backend Evidence](Assets/backend 7.png)
+![text](<Assets/backend 1.png>)
+
+![text](<Assets/backend 2.png>)
+
+![text](<Assets/backend 3.png>)
+
+![text](<Assets/backend 4.png>)
+
+![text](<Assets/backend 5 .png>)
+
+![text](<Assets/backend 6 .png>)
+
+![text](<Assets/backend 7.png>)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
