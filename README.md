@@ -1962,7 +1962,7 @@ Los detalles de Sprint Planning se realizo al inicio de este sprint para poder d
 
 ##### Sprint Backlog 2
 
-![alt text](Assets/Trello 2.png)
+![alt text](<Assets/Trello 2.png>)
 
 Link del Trello: https://trello.com/invite/b/66e9b5b8f40799cfcf6b00d3/ATTIa96971e39f8a6c5827fd4d56f290181a384AD640/sprint-backlog-2
 
@@ -2054,7 +2054,7 @@ Link del despliegue: https://aplicaciones-web-42482.web.app
 
 Para esta entrega, nuestra solucion de ha sido desplegado en el siguiente repositorio
 
-![alt text](Assets/Landing deploy.png)
+![alt text](<Assets/Landing deploy.png>)
 
 Asimismo como el frontend en el siguiente repositorio
 
@@ -2070,7 +2070,7 @@ En esta entrega, el objetivo fue avanzar en el desarrollo de la primera versión
 
 La imagen a continuación ofrece una representación visual de las fechas en las que se hicieron los commits en el repositorio de nuestra Aplicación Web Frontend y la página de aterrizaje. Este gráfico es fundamental para entender cómo ha evolucionado el proyecto con el tiempo, destacando las contribuciones de los miembros del equipo durante el Sprint.
 
-![alt text](Assets/Deploy 1.png)
+![alt text](<Assets/Deploy 1.png>)
 
 Los gráficos presentados también proporcionan una vista general de las clonaciones realizadas en nuestro repositorio y las fechas en que ocurrieron. Además, muestran datos sobre el número de visitantes que ha recibido el repositorio a lo largo del tiempo.
 
@@ -2102,7 +2102,7 @@ A continuación, se detallan los aspectos de la reunión de planificación del S
 
 Esta sección muestra las tareas realizadas durante el presente sprint. A continuación, se incluye una captura del tablero de tareas en Trello, junto con el enlace al tablero.
 
-![alt text](Assets/Trello 3 .png)
+![alt text](<Assets/Trello 3 .png>)
 
 **Enlace al Trello:** https://trello.com/invite/b/6724d8fb0429d3b504591841/ATTIa159b1edae603492dcfd8a0b4b6e79fa96226B0D/sprint-backlog-3
 
