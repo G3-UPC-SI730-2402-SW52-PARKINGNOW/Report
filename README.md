@@ -2462,7 +2462,7 @@ Además, esta imagen proporciona un análisis temporal de las modificaciones efe
 
 #### 5.3.2 Registro de entrevistas
 
-Video completo con las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EcHAXaW6lgNDmJkuTPV0N5oB_OYUU0U80FdDPoKGw9qqdQ?e=oSIXPD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video completo con las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214477_upc_edu_pe/EeDCZvHEKARNvBHUb8r47O0BKJRBFRJHk6zb0zyJLDGMkw?e=z0c40z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Segmento objetivo \#1: Conductores Urbanos Frecuentes**
 
