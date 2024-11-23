@@ -2645,7 +2645,7 @@ Problema:
 
 Al ingresar a la página de inicio de sesión, cuando se selecciona el botón de iniciar sesión con Google o Facebook, estos no brindan un menú para rellenar los datos de nuestra cuenta de respectivamente.
 
-![Problem1.png](Assets/Problem1.png)
+![alt text](<Assets/login 1.png>)
 
 Recomendación:
 
@@ -2677,7 +2677,7 @@ Problema:
 
 Al rellenar los datos de registro de cuenta, la aplicación web requiere de que ciertos campos cumplan con los requisitos necesarios para verificar el uso correcto de datos ingresados, sin embargo, solo la sección de correo emplea esta verificación.
 
-![Problem3.png](Assets/Problem3.png)
+![alt text](<Assets/registro .png>)
 
 Recomendación:
 
@@ -2693,7 +2693,7 @@ Problema:
 
 Al ingresar a la sección de “Seguimiento y alarmas” en la vista de conductores frecuentes, existen ciertos botones que, debido al tamaño de la fuente utilizada, no se logra visualizar de manera correcta el contenido del botón.
 
-![Problem4.png](Assets/Problem4.png)
+![alt text](Assets/boton.png)
 
 Recomendación:
 
@@ -2725,7 +2725,7 @@ Problema:
 
 Dentro de la sección Inicio de la página web en la vista de dueños de playas de estacionamiento existen dos botones que presentan el nombre de “Reservas”, sin embargo, cada uno presenta información distinta.
 
-![Problem6.png](Assets/Problem6.png)
+![alt text](<Assets/reservas 2.png>)
 
 Recomendación:
 
@@ -2741,7 +2741,7 @@ Problema:
 
 Dentro de la primera sección “Reserva” en el inicio de la página web en la vista de dueños de playas de estacionamiento al presionar los botones ninguno realiza alguna acción.
 
-![Problem7.png](Assets/Problem7.png)
+![alt text](Assets/vacio.png)
 
 Recomendación:
 
