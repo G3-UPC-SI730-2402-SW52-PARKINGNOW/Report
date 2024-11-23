@@ -2364,14 +2364,16 @@ Durante este Sprint, se logró completar la documentación de los principales En
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint, se ha desarrollado el backend de la aplicación web "ParkingNow". Para lo cual se emplearon las siguientes herramientas y tecnologías. Sin embargo, dentro del alcance de este sprint no se contempla el despliegue del backend de la API:
+Para este sprint, se desarrolló la API de la aplicación web utilizando las siguientes herramientas. No obstante, el despliegue del API no se encuentra dentro del alcance de este sprint.
 
-- **Git:** Sistema de control de versiones que utilizamos para trabajar de manera colaborativa y monitorear las versiones del backend en un repositorio remoto.
-- **Gitflow:** Flujo de trabajo colaborativo que nos permitió dividir el trabajo en ramas dentro de nuestro repositorio, facilitando la colaboración en el desarrollo del backend.
-- **GitHub:** Plataforma que nos proporcionó la herramienta necesaria para crear nuestro repositorio, donde almacenamos las versiones del backend de nuestro proyecto.
-- **Swagger UI:** Herramienta utilizada para documentar y probar nuestra API, asegurando que los endpoints estén bien definidos y accesibles para el consumo.
-- **Spring Boot:** Framework utilizado para construir el backend, que nos permitió implementar rápidamente la lógica del negocio, así como la integración con bases de datos a través de JPA y Hibernate.
-- **Firebase:** Plataforma de desarrollo de aplicaciones móviles y web creada por Google. Ofrece una amplia gama de servicios y herramientas para ayudar a los desarrolladores a construir y mejorar sus aplicaciones de manera rápida y eficiente. En "ParkingNow", Firebase se utiliza para la autenticación de usuarios y el almacenamiento de datos, mejorando así la entrega de contenido y la calidad del servicio.
+- **Git**: Sistema de control de versiones utilizado para trabajar de manera colaborativa y hacer seguimiento a las versiones de la aplicación web en un repositorio remoto.
+- **Gitflow**: Flujo de trabajo colaborativo que nos permitió dividir el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración durante el desarrollo.
+- **GitHub**: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+- **Swagger UI**: Herramienta usada para probar y documentar nuestra API.
+- **Firebase**: Plataforma de desarrollo de aplicaciones móviles y web creada por Google. Proporciona una amplia variedad de servicios y herramientas para ayudar a los desarrolladores a crear y mejorar aplicaciones de manera rápida y eficiente. Firebase incluye características como bases de datos en tiempo real, autenticación de usuarios, almacenamiento en la nube, hosting web, mensajería en la nube, análisis, informes de fallos y funciones de aprendizaje automático. En resumen, Firebase ofrece una solución completa para el desarrollo y la mejora de aplicaciones, cubriendo áreas como autenticación de usuarios, almacenamiento de datos, entrega de contenido, análisis y mejora de la calidad.
+- **JetBrains Rider**: Herramienta de desarrollo integrada (IDE) para aplicaciones .NET, que ofrece potentes funcionalidades de desarrollo, depuración y pruebas. Rider es compatible con una amplia variedad de lenguajes y frameworks, lo que facilita la creación de aplicaciones de calidad.
+
+A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint.
 
