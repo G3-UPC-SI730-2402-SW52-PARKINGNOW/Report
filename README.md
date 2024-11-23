@@ -2227,7 +2227,7 @@ La imagen muestra las ramas creadas para el desarrollo del backend de la aplicac
 
 En esta entrega, nuestro segundo objetivo fue completar la implementación del frontend. Para ello, empleamos herramientas como GitHub y WebStorm. A continuación, presentamos los diagramas de flujo que representan los commits de cada miembro del equipo CodeMondonguito:
 
-![alt text](Assets/Hola 1.png)
+![alt text](<Assets/Hola 1.png>)
 
 El gráfico de barras ilustra la cantidad de commits realizados por cada integrante del equipo.
 
@@ -2235,7 +2235,7 @@ El gráfico de barras ilustra la cantidad de commits realizados por cada integra
 
 Esta imagen presenta las fechas en que se realizaron cambios en el repositorio de la Landing Page y el número de modificaciones en cada commit, ofreciendo una visión sobre la evolución e intensidad del desarrollo.
 
-![alt text](Assets/Hola 2.png)
+![alt text](<Assets/Hola 2.png>)
 
 **Landing Page**
 
