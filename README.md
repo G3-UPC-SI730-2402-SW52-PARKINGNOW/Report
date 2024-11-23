@@ -2404,6 +2404,10 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante este sprint, implementamos algunos ajustes importantes en el frontend, logrando cubrir casi en su totalidad los requerimientos funcionales definidos en el sprint anterior. Además, hemos asegurado que la aplicación web esté disponible para acceso público, por lo que puedes ingresar a través del siguiente enlace: https://aplicaciones-web-42482.web.app/
+
+Por otro lado, también integramos la landing page con la webapp principal, facilitando así la navegación y experiencia del usuario. Si deseas explorar esta página, puedes hacerlo en el enlace a continuación: https://g3-upc-si730-2402-sw52-parkingnow.github.io/Landing-Page-g3/
+
 ## Swagger Evidence
 
 ### Backend Screenshots:
