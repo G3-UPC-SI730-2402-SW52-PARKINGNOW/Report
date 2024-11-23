@@ -2496,7 +2496,7 @@ Acerca de la entrevista:
 
 * Link: https://youtu.be/dekyd8-2NXw
 * Instante en el que inicia: 10:04
-* Duración: 19:23
+* Duración: 9:21
 
 Resumen:
 
@@ -2516,7 +2516,7 @@ Acerca de la entrevista:
 
 * Link: https://youtu.be/r07S_QoS7Aw
 * Instante en el que inicia: 19:23
-* Duración: 27:15
+* Duración: 7:51
 
 Resumen:
 
@@ -2528,37 +2528,37 @@ Captura de Pantalla:
 
 **Segmento objetivo \#2: Dueños de playas de estacionamientos**
 
-Entrevistado N°1: Johan Bottger Salazar
+Entrevistado N°1: Alexandra Yamile Teves Salas
 
-* Sexo: Masculino
-* Edad: 21
-* Ubicación en la que vive: San Borja
-
-Acerca de la entrevista:
-
-* Link: https://youtu.be/ZcN99SBKxuo
-* Instante en el que inicia: 3:20
-* Duración: 5:15
-
-Resumen:
-
-Para Johan, la vista de dueños de playas de estacionamiento es perfecta, cumple con las expectativas que tenía en las entrevistas pasadas y considera que la sección de las estadísticas le podrían ser bastante útil cuando tenga que verificar cómo le está yendo a su negocio.
-
-Captura de pantalla:
-
-![alt text](Assets/VI-Seg2-Interview1.png)
-
-Entrevistado N°2: Sebastián de las Casas Latour
-
-* Sexo: Masculino
+* Sexo: Femenina
 * Edad: 20
 * Ubicación en la que vive: San Borja
 
 Acerca de la entrevista:
 
-* Link: https://youtu.be/lcb6KS_wIr0
-* Instante en el que inicia:  3:16
-* Duración: 5:23
+* Link: https://youtu.be/dGLmqQMC4Wg
+* Instante en el que inicia: 27:18
+* Duración: 6:30
+
+Resumen:
+
+Para Alexandra, la vista de dueños de playas de estacionamiento es perfecta, cumple con las expectativas que tenía en las entrevistas pasadas y considera que la sección de las estadísticas le podrían ser bastante útil cuando tenga que verificar cómo le está yendo a su negocio.
+
+Captura de pantalla:
+
+![alt text](<Assets/entrevista 4.png>)
+
+Entrevistado N°2: Blanca Luz Soto 
+
+* Sexo: Masculino
+* Edad: 42
+* Ubicación en la que vive: San Borja
+
+Acerca de la entrevista:
+
+* Link: https://youtu.be/avgucgoE7Aw
+* Instante en el que inicia:  33:53
+* Duración: 8:44
 
 Resumen:
 
@@ -2566,7 +2566,7 @@ Para Sebastián, la página web presenta la información de una manera sencilla 
 
 Captura de pantalla:
 
-![alt text](Assets/VI-Seg2-Interview2.png)
+![alt text](<Assets/entrevista 5 .png>)
 
 #### 5.3.3 Evaluaciones según heurísticas
 
