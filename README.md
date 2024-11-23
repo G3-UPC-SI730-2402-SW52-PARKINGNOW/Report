@@ -2397,22 +2397,10 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
-
-
-Para esta entrega la ejecucion de las pruebas unitarias se hizo usando jasmine framework y karma framework
-
-#### Testing Configuration
-Swagger Adding 
-
-![Documentación API](Assets/swaggerconfig.jpeg)
-
-
-#### Results after Testing
-
-| Repository                                                                                                              | Branch                 | Commit                                   | Message                                                                    | Date       |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ---------- |
-| https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report?tab=readme-ov-file#development-evidence-for-sprint-review | feature/aceptance_test | a406aa8ec1445333bca8ea4b352209bdc79dc67e | Add response to Competitive Analysis Landscape question in Markdown format | 03/12/2024 |
-
+| Repository                   | Branch                      | Commit Id | Commit Message            | Commit Message Body                                              | Committed on (Date) |
+|------------------------------|-----------------------------|-----------|---------------------------|------------------------------------------------------------------|---------------------|
+|       https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend               | feature/testing-sprint4     | 34ac21f   | Add: Unit tests for APIs  | Implemented unit tests for booking and user services.           | 2024-11-20          |
+|                              |                             |           |                           | Validated core functionality for backend endpoints.             |                     |
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
