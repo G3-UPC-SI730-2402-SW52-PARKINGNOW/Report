@@ -2009,6 +2009,17 @@ Debido al desarrollo del Landing Page y del Front End Application dentro del Spr
 
 Para el Frontend
 
+#### Test Case 1: Login as Driver
+- *User:* driver@example.com
+- *Password:* password123
+- *Expected Result:* Redirects to /dashboard-driver.
+
+#### Test Case 2: Login as Owner
+- *User:* owner@example.com
+- *Password:* password123
+- *Expected Result:* Redirects to /dashboard-owner.
+
+
 Link del despliegue: https://aplicaciones-web-42482.web.app
 
 1.- Login
