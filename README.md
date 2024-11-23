@@ -2355,7 +2355,7 @@ En esta sección se especifican los detalles de la reunión de planificación de
 |   **Resumen de la Revisión del Sprint 4**   |                                                             Durante este sprint se realizaron las funcionalidades que requieren de endpoints, los cuales permitieron gestionar consultas, historial de transacciones, alertas de seguridad, pagos y almacenar información de vehículos. Se completaron las tareas de acuerdo con lo planificado, mejorando la infraestructura del sistema y asegurando la calidad de la plataforma.<br> En general, el equipo mantuvo una buena comunicación y organización, y se identificaron áreas para seguir mejorando la eficiencia en la coordinación de tareas.                                                             |
 | **Resumen de la Retrospectiva del Sprint 4** |                                                                                                                    Es crucial seguir optimizando las soluciones tanto en el backend como en el frontend para garantizar la estabilidad del sistema. Además, se destacó la importancia de mejorar la organización del equipo para evitar cuellos de botella y continuar entregando valor de manera constante.<br> También se recomendó mejorar la documentación y la estructura de las tareas para mantener un flujo de trabajo claro y efectivo.                                                                                                                    |
 |        **Sprint Goal & User Stories**        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|              **Sprint 4 Goal**              | Nuestro enfoque está en**desarrollar y optimizar las funcionalidades del sistema de gestión de estacionamiento**, incluyendo la gestión de pagos, historial de transacciones, alertas de seguridad y almacenamiento de datos de vehículos.<br> Creemos que esto **ofrece** una plataforma más robusta, mejorando la experiencia tanto para los conductores como para los propietarios de estacionamientos.<br> Esto se **confirmará** cuando las funcionalidades clave, como la gestión de pagos y las alertas de seguridad, estén completamente implementadas y operativas, permitiendo un proceso eficiente y seguro para los usuarios. |
+|              **Sprint 4 Goal**              | Nuestro enfoque está en **desarrollar y optimizar las funcionalidades del sistema de gestión de estacionamiento**, incluyendo la gestión de pagos, historial de transacciones, alertas de seguridad y almacenamiento de datos de vehículos.<br> Creemos que esto **ofrece** una plataforma más robusta, mejorando la experiencia tanto para los conductores como para los propietarios de estacionamientos.<br> Esto se **confirmará** cuando las funcionalidades clave, como la gestión de pagos y las alertas de seguridad, estén completamente implementadas y operativas, permitiendo un proceso eficiente y seguro para los usuarios. |
 |            **Sprint 4 Velocity**            |                                                                                                                                                                                                                                                                                                                                      20                                                                                                                                                                                                                                                                                                                                      |
 |         **Suma de los Story Points**         |                                                                                                                                                                                                                                                                                                                                      36                                                                                                                                                                                                                                                                                                                                      |
 
@@ -2363,7 +2363,7 @@ En esta sección se especifican los detalles de la reunión de planificación de
 
 En esta sección se muestran las tareas realizadas en el presente sprint. A continuación se adjunta una captura de pantalla del tablero de tareas en la plataforma Trello, así como el enlace al tablero.
 
-![alt text](<Assets/trello 4.png>)
+![alt text](<Assets/product 4.png>)
 
 Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef609c281a616bb14119d7d5c76fb0E2DB36AC/sprint-backlog-4
 
@@ -2385,15 +2385,16 @@ Link del Trello: https://trello.com/invite/b/673953990a59e2fefde29dcc/ATTIa8ef60
 
 | Repository | ID | Commit Message | Date |
 | :---: | :---: | :---: | :---: |
-| [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Frontend)  | 2112f1e235d0bb406ad0ff619e54054b59e0926e | Add: Tarifas por Ubicación | 2024-11- |
-|  | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: Promociones Utilizadas | 2024-11- |
-|  | 0b50e5b3c2ec5ad9c1efb3f85a634cccd9c97a62 | Add: Auditorías de Acciones en la Plataforma | 2024-11- |
-|  | fc81f06fc026aa94eb25be7f5caec68d2f1fc0c4 | Add: Historial de Opiniones de Usuarios | 2024-11- |
-|  | f2b125a1cb7210805b4e42f11f62d2448c91d34e | Add: Generación de Reportes de Ocupación | 2024-11- |
-|  | 6788a1b98e51ddaa4836ca733c3052e9e732b518 | Add: Configuración de Opciones de Notificaciones | 2024-11- |
-|  | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: API de Feedback Automático | 2024-11- |
-|  | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Gestión de Reembolsos | 2024-11- |
-|  | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Auditoría de Cambios de Tarifas | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend) | 2112f1e235d0bb406ad0ff619e54054b59e0926e | Add: Tarifas por Ubicación | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: Promociones Utilizadas | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend) | 0b50e5b3c2ec5ad9c1efb3f85a634cccd9c97a62 | Add: Auditorías de Acciones en la Plataforma | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | fc81f06fc026aa94eb25be7f5caec68d2f1fc0c4 | Add: Historial de Opiniones de Usuarios | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend) | f2b125a1cb7210805b4e42f11f62d2448c91d34e | Add: Generación de Reportes de Ocupación | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 6788a1b98e51ddaa4836ca733c3052e9e732b518 | Add: Configuración de Opciones de Notificaciones | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend) | 1598de70967ae58c387ae3f699eaf0612b86864c | Add: API de Feedback Automático | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Frontend) | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Gestión de Reembolsos | 2024-11- |
+| [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend) | 836a849fdd6d1effb6bf8174e505824143893cee | Add: Auditoría de Cambios de Tarifas | 2024-11- |
+
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -2408,16 +2409,16 @@ Swagger Adding
 
 #### Results after Testing
 
-Swagger Evidence
-
-![Documentación API](Assets/swagger.png)
-
 | Repository                                                                                                              | Branch                 | Commit                                   | Message                                                                    | Date       |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | ---------- |
 | https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Report?tab=readme-ov-file#development-evidence-for-sprint-review | feature/aceptance_test | a406aa8ec1445333bca8ea4b352209bdc79dc67e | Add response to Competitive Analysis Landscape question in Markdown format | 03/12/2024 |
 
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
+
+Swagger Evidence
+
+[text](README.md) ![text](<Assets/backend 1.png>) ![text](<Assets/backend 2.png>) ![text](<Assets/backend 3.png>) ![text](<Assets/backend 4.png>) ![text](<Assets/backend 5 .png>) ![text](<Assets/backend 6 .png>) ![text](<Assets/backend 7.png>)
 
 #### Test Case 1: Login as Driver
 
