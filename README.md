@@ -2419,22 +2419,6 @@ Por otro lado, también integramos la landing page con la webapp principal, faci
 ![Backend Evidence](<Assets/backend 6 .png>)  
 ![Backend Evidence](<Assets/backend 7.png>)
 
-
-#### Test Case 1: Login as Driver
-
-- **User:** `driver@example.com`
-- **Password:** `password123`
-- **Expected Result:** Redirects to `/dashboard-driver`.
-
-#### Test Case 2: Login as Owner
-
-- **User:** `owner@example.com`
-- **Password:** `password123`
-- **Expected Result:** Redirects to `/dashboard-owner`.
-
-En esta seccion, para la ejecucion del aplicativo web, llegamos a anadir la pagina no encontrada: 404
-![404](Assets/Excecution_5245.jpg)
-
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. A continuación, se presenta una breve introducción sobre los logros alcanzados en relación con la documentación de Web Services para este Sprint.
@@ -2443,16 +2427,17 @@ Durante este Sprint, se logró completar la documentación de los principales En
 
 | Endpoint               | Acción Implementada                          | Verbo HTTP | Sintaxis de Llamada       | URL EndPoint | URL JSON                                                                                                              |
 |------------------------|---------------------------------------------|------------|---------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
-| /api/v1/conductores     | Administración de Tarifa por Ubicación       | GET        | GET /api/v1/conductores    | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
-| /api/v1/conductores     | Crear un nuevo conductor                     | POST       | POST /api/v1/conductores   | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/conductores.json) |
-| /api/v1/reservas        | Reportes de Promociones Utilizadas           | GET        | GET /api/v1/reservas       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
-| /api/v1/reservas        | Crear una nueva reserva                      | POST       | POST /api/v1/reservas      | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/reservas.json) |
-| /api/v1/espacios        | Generación de Reportes de Ocupación          | GET        | GET /api/v1/espacios       | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/espacios.json) |
-| /api/v1/locales         | Gestión de Reembolsos                        | GET        | GET /api/v1/locales        | EndPoint     | [https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json](https://raw.githubusercontent.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/main/src/public/locales.json) |
+| /api/v1/conductores     | Administración de Tarifa por Ubicación       | GET        | GET /api/v1/conductores    | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/conductores.json) |
+| /api/v1/conductores     | Crear un nuevo conductor                     | POST       | POST /api/v1/conductores   | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/conductores.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/conductores.json) |
+| /api/v1/reservas        | Reportes de Promociones Utilizadas           | GET        | GET /api/v1/reservas       | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/reservas.json) |
+| /api/v1/reservas        | Crear una nueva reserva                      | POST       | POST /api/v1/reservas      | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/reservas.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/reservas.json) |
+| /api/v1/espacios        | Generación de Reportes de Ocupación          | GET        | GET /api/v1/espacios       | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/espacios.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/espacios.json) |
+| /api/v1/locales         | Gestión de Reembolsos                        | GET        | GET /api/v1/locales        | EndPoint     | [https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/locales.json](https://raw.githubusercontent.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/main/src/public/locales.json) |
 
-**Repositories:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend)
 
-**Commit of the Endpoints:** [https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09](https://github.com/UPC-PRE-SI729-SW54-Code-Mondonguito/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
+**Repositories:** https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend
+
+**Commit of the Endpoints:** [https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09](https://github.com/G3-UPC-SI730-2402-SW52-PARKINGNOW/Backend/commit/8628f88a27f4fb174d0f0324bc203ec626042858#diff-419a5abf7d67d4e33f9283dd53a2b0c11fe82343af786f670c99676128c6cf09)
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
